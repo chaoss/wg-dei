@@ -23,7 +23,46 @@ base around this topic.
 
 ## Metrics Work
 
-To be done.
+More to be done.
+
+Metrics used in OpenStack Gender Report --- starting point for thinking about other diversity and inclusion metrics.
+
+__Governance and Leadership__
+ - Ratio of minority identification to whole community
+ - Role in community (basis for calculating minority ratios within each committee/workgroup/organ)
+
+__Technical Contributions__
+
+ - Number of commits by minority over time
+ - Number of developers by minority authoring those commits over time
+ - Types of contributions (code and others) by minority within those commits over time
+ - Number of code review submissions by  minority over time
+ - Number of developers who have submitted changesets, by minority over time
+ - Number of code review votes undertaken by developers, by minority over time
+ - Number of developers who have voted in a code review process, by minority over time
+ - Number of core code review votes undertaken by developers, by minority over time
+ - Number of core code review votes undertaken by developers, by minority over time
+ - Number of developers who have participated in a core code review process, by minority over time
+ - Ratio_Authors: The number in this column denotes the ratio of minority developers for every 100 developers for a given project.
+ - Ratio_Commits: The number in this column denotes the ratio of commits submitted by minority developers for every 100 commits submitted by all developers for a given project.
+ - Authors: The number in this column denotes the total number of individuals identified as minority who have contributed to a given project, as tracked through the Git repositories.
+ - Commits: The number in this column denotes the total number of changes to the source code for a given project. A commit is usually submitted through a code review process.
+
+__Minority identities__
+
+Standard survey questions for identity relating to diversity:
+https://github.com/drnikki/open-demographics/tree/master/doc-source/questions
+
+ - Age
+ - Disability
+ - Education
+ - Gender
+ - Language
+ - Location
+ - Race
+ - Religion
+ - Sexual and Romantic Orientation
+ - Socioeconomic Class
 
 ## Software Work
 
