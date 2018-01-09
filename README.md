@@ -28,8 +28,22 @@ More to be done.
 Metrics used in OpenStack Gender Report --- starting point for thinking about other diversity and inclusion metrics.
 
 __Governance and Leadership__
+
+ - Board of Directors
+ - Technical Committee
+ - User Committee
+ - Working Groups Chairs
+ - OpenStack Ambassadors
+ - Project Technical Leaders
+ - OpenStack Foundation Officers
  - Ratio of minority identification to whole community
  - Role in community (basis for calculating minority ratios within each committee/workgroup/organ)
+
+__Summits Representation__
+
+ - Keynote summits representation
+ - Summit attendees
+ - Summit speakers
 
 __Technical Contributions__
 
@@ -47,6 +61,13 @@ __Technical Contributions__
  - Ratio_Commits: The number in this column denotes the ratio of commits submitted by minority developers for every 100 commits submitted by all developers for a given project.
  - Authors: The number in this column denotes the total number of individuals identified as minority who have contributed to a given project, as tracked through the Git repositories.
  - Commits: The number in this column denotes the total number of changes to the source code for a given project. A commit is usually submitted through a code review process.
+
+__Non Technical Contributions__
+
+ - Number of emails by gender
+ - Emails activity by gender
+ - Characterization of mailing lists (development, users)
+
 
 __Minority identities__
 
