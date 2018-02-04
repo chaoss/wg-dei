@@ -21,6 +21,20 @@ to discuss new ideas in terms of metrics and software with both committees impro
 base around this topic.
 
 
+## Roadmap
+
+- Coordination meeting: February 13, 2018 at 12-noon (US Central Time)
+- BoF at OSLS March 6-8, 2018
+- Moving forward? Bi-weekly or monthly calls? Work in GitHub or another inclusive technology?
+
+**Steps**
+- Get everyone on board, form working group (finish by BoF at OSLS)
+- Target date for first report? milestones to get there? (decide during BoF at OSLS)
+- Iteratively work on metrics and software together to balance what we would like to include in the report and what we can include in the report.
+- Formalize quantitative and qualitative data collection methods that communities can deploy.
+- Release a first draft of the report and tools to generate it.
+
+
 ## Metrics Work
 
 More to be done.
