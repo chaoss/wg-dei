@@ -116,7 +116,9 @@ about the metrics used or to be used. This is the same method as when updating t
 Collection of initiatives and related works that can inform our work or that we can collaborate with.
 
 * [Django Girls](https://djangogirls.org/)
+* [GNOME Women](https://wiki.gnome.org/GnomeWomen)
 * [Mozilla Diversity and Inclusion Strategy](https://wiki.mozilla.org/Diversity_and_Inclusion_Strategy) related [OpenSource.com article](https://opensource.com/article/17/9/diversity-and-inclusion-innovation)
 * [OpenStack Gender Report](http://superuser.openstack.org/articles/bitergia-intel-report/)
 * [Outreachy](https://www.outreachy.org/)
+* [Women in Linux](http://www.womeninlinux.com/)
 * [Women in OpenStack](https://wiki.openstack.org/wiki/Women_of_OpenStack)
