@@ -21,6 +21,10 @@ to discuss new ideas in terms of metrics and software with both committees impro
 base around this topic.
 
 
+## Mailing list
+We use the CHAOSS mailing list: https://wiki.linuxfoundation.org/chaoss/metrics#mail-list
+Please start the subject with the tag [wg-di].
+
 ## Metrics Work
 
 More to be done.
