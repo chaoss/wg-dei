@@ -8,6 +8,7 @@ can be measured. This will bring four main outcomes:
 * Second learn good practices from open source communities on improving their diversity and inclusion
 * Third produce useful software to measure diversity from a quantitative point of view. This is expected to produce generic software to analyze several repositories of information such as Git repositories or Mailing lists
 * Fourth, good practices on how to deal with such data, maintain and ways of collaboration with open source communities.
+* Fifth, a method that other communities can reproduce the report for themselves.
 
 An example of the expected outcomes is the [OpenStack Gender Report](http://superuser.openstack.org/articles/bitergia-intel-report/)
 that focuses on the analysis of the gender-diversity in the OpenStack Foundation. This project sponsored by Intel and Bitergia
@@ -19,6 +20,8 @@ As the CHAOSS project consists of two Technical Committees: Software and Metrics
 working closely with both and learn their best practices. In addition, this working group expects
 to discuss new ideas in terms of metrics and software with both committees improving the knowledge
 base around this topic.
+
+*Note:* We want to make our tools and report inclusive globally.
 
 
 ## Metrics Work
