@@ -36,6 +36,10 @@ TODOS:
 - describe non-technical contributions and document what OpenStack diversity research captured (Nicole)
 
 
+## Mailing list
+We use the CHAOSS mailing list: https://wiki.linuxfoundation.org/chaoss/metrics#mail-list
+Please start the subject with the tag [wg-di].
+
 ## Metrics Work
 
 More to be done.
