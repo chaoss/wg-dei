@@ -24,6 +24,18 @@ base around this topic.
 *Note:* We want to make our tools and report inclusive globally.
 
 
+
+## Upcoming meetings
+
+- We meet every other week. Next meeting: February 27, 2018 at 12PM CT (one hour before weekly metrics hangout). We will use the same zoom room as the metrics hangout: https://wiki.linuxfoundation.org/chaoss/metrics#weekly-hangout
+
+TODOS:
+- review existing survey work (Matt)
+- review GrimoireLab software (Daniel)
+- mentorship for OpenStack report (Daniel and Nicole)
+- describe non-technical contributions and document what OpenStack diversity research captured (Nicole)
+
+
 ## Metrics Work
 
 More to be done.
