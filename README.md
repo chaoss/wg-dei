@@ -8,6 +8,7 @@ can be measured. This will bring four main outcomes:
 * Second learn good practices from open source communities on improving their diversity and inclusion
 * Third produce useful software to measure diversity from a quantitative point of view. This is expected to produce generic software to analyze several repositories of information such as Git repositories or Mailing lists
 * Fourth, good practices on how to deal with such data, maintain and ways of collaboration with open source communities.
+* Fifth, a method that other communities can reproduce the report for themselves.
 
 An example of the expected outcomes is the [OpenStack Gender Report](http://superuser.openstack.org/articles/bitergia-intel-report/)
 that focuses on the analysis of the gender-diversity in the OpenStack Foundation. This project sponsored by Intel and Bitergia
@@ -19,6 +20,10 @@ As the CHAOSS project consists of two Technical Committees: Software and Metrics
 working closely with both and learn their best practices. In addition, this working group expects
 to discuss new ideas in terms of metrics and software with both committees improving the knowledge
 base around this topic.
+
+*Note:* We want to make our tools and report inclusive globally.
+
+
 
 ## Upcoming meetings
 
@@ -120,3 +125,16 @@ about the metrics used or to be used. This is the same method as when updating t
 * Metrics and Software Discussions mailing list at [CHAOSS](https://chaoss.community/contact/)
 * CHAOSS Community IRC Channels: #chaoss-community at freenode
 * Face to face meetings during the Open Source Summits or in other events such as FOSDEM.
+
+## Related Works
+
+Collection of initiatives and related works that can inform our work or that we can collaborate with.
+
+* [Django Girls](https://djangogirls.org/)
+* [GNOME Women](https://wiki.gnome.org/GnomeWomen)
+* [Mozilla Diversity and Inclusion Strategy](https://wiki.mozilla.org/Diversity_and_Inclusion_Strategy) related [OpenSource.com article](https://opensource.com/article/17/9/diversity-and-inclusion-innovation)
+* [OpenStack Gender Report](http://superuser.openstack.org/articles/bitergia-intel-report/)
+* [OpenStack - ideas for new survey](https://etherpad.openstack.org/p/diversity-survey-spring-2018_draft)
+* [Outreachy](https://www.outreachy.org/)
+* [Women in Linux](http://www.womeninlinux.com/)
+* [Women in OpenStack](https://wiki.openstack.org/wiki/Women_of_OpenStack)
