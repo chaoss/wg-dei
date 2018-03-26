@@ -27,7 +27,7 @@ base around this topic.
 
 ## Upcoming meetings
 
-- We meet every other week. Next meeting: March 13, 2018 at 12PM CT (one hour before weekly metrics hangout). We will use the same zoom room as the metrics hangout: https://wiki.linuxfoundation.org/chaoss/metrics#weekly-hangout
+- We meet every other week. Next meeting: March 27, 2018 at 12PM CT (one hour before weekly metrics hangout). We will use the same zoom room as the metrics hangout: https://wiki.linuxfoundation.org/chaoss/metrics#weekly-hangout
 
 TODOS:
 - review existing survey work (Matt)
