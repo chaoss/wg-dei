@@ -27,13 +27,44 @@ base around this topic.
 
 ## Upcoming meetings
 
-- We meet every other week. Next meeting: February 27, 2018 at 12PM CT (one hour before weekly metrics hangout). We will use the same zoom room as the metrics hangout: https://wiki.linuxfoundation.org/chaoss/metrics#weekly-hangout
+- We meet every other week. Next meeting: March 27, 2018 at 12PM CT (one hour before weekly metrics hangout). We will use the same zoom room as the metrics hangout: https://wiki.linuxfoundation.org/chaoss/metrics#weekly-hangout
 
-TODOS:
+
+## Meeting Mintues
+(located here until we find a better place for them)
+
+### 2018-02-13
+
+To-Do's:
 - review existing survey work (Matt)
 - review GrimoireLab software (Daniel)
 - mentorship for OpenStack report (Daniel and Nicole)
 - describe non-technical contributions and document what OpenStack diversity research captured (Nicole)
+
+### 2018-02-27
+
+no update, still working on To-Do's
+
+### 2018-03-13
+
+**Updates from OSLS**
+
+Daniel, Nicole, Matt did a presentation on D&I. Attended by about 40 people. Presentation was focused more on using metrics. Still a ton of interest in CHAOSS and seeing the project move forward. Slides: https://wiki.linuxfoundation.org/_media/chaoss/slides/2018-03-06_osls.diversityandinclusion.pdf
+
+
+**Regarding the WG D&I**
+
+There is a pull request right now on the metrics repository on the Diversity and Inclusion metric category. The pull request is about how we present the metrics. 
+https://github.com/chaoss/metrics/pull/64
+
+
+**Update from OpenStack survey**
+
+The OpenStack survey v2 is almost ready (now has response options) and waiting for final feedback right now: 
+https://etherpad.openstack.org/p/diversity-survey-spring-2018_draft
+Will be sent out in short time.
+The goal is to expand diversity beyond gender diversity and make sure that everyone feels welcome.
+Yearly repeat the survey to see if initiatives are being effective.
 
 
 ## Mailing list
