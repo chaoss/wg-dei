@@ -23,12 +23,9 @@ base around this topic.
 
 *Note:* We want to make our tools and report inclusive globally.
 
-
-
 ## Upcoming meetings
 
-- We meet every other week. Next meeting: April 18, 2018 at 5pm Eurpean Central Time (10am US Central Time). We will use the same zoom room as the metrics hangout: https://wiki.linuxfoundation.org/chaoss/metrics#weekly-hangout
-
+- We meet every other week. Next meeting: May 9th, 2018 at 5:30pm Eurpean Central Time (10:30am US Central Time). We will use the CHAOSS Zoom room: https://unomaha.zoom.us/j/720431288
 
 
 ## Meeting Mintues
@@ -67,6 +64,15 @@ Will be sent out in short time.
 The goal is to expand diversity beyond gender diversity and make sure that everyone feels welcome.
 Yearly repeat the survey to see if initiatives are being effective.
 
+### 2018-03-18
+
+We discussed the goals of the workgroup and started defining categories in which we understand diversity and inclusion:
+https://docs.google.com/document/d/1MzDk84BL7FfHDxbFxJz39M72V2Hfc5Y6oCPhOl6woxo/edit#heading=h.hx2wqrioawbd
+
+### 2018-03-25
+
+We worked on the session proposal for the Open Source Summit North America: 
+https://docs.google.com/document/d/1drcJm9m05qNbJ8RAYS1U41GOSq1Ej4dSQa-i-w51Ytc/edit?ts=5adf7063
 
 ## Mailing list
 We use the CHAOSS mailing list: https://wiki.linuxfoundation.org/chaoss/metrics#mail-list
