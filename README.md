@@ -25,7 +25,7 @@ base around this topic.
 
 ## Upcoming meetings
 
-- We meet every other week. Next meeting: May 23rd, 2018 at 5:30pm Eurpean Central Time (10:30am US Central Time). We will use the CHAOSS Zoom room: https://unomaha.zoom.us/j/720431288
+- We meet every other week. Next meeting: June 6th, 2018 at 6pm Eurpean Central Time (9am US Pacific Time). We will use the CHAOSS Zoom room: https://unomaha.zoom.us/j/720431288
 
 
 ## Meeting Mintues
@@ -44,6 +44,10 @@ To-Do's:
 no update, still working on To-Do's
 
 ### 2018-03-13
+
+### 2018-05-23
+
+Decide on next steps (see issues #14 and #15) and start a roadmap.
 
 **Updates from OSLS**
 
