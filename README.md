@@ -27,9 +27,9 @@ base around this topic.
 
 * Integrate results with the general Metrics group
   * Write down all of the goal-question-metric ideas we have in this document
-  * #14 Migrate Google Docs D&I GQM approach to this repository
+  * [#14](https://github.com/chaoss/wg-diversity-inclusion/issues/14) Migrate Google Docs D&I GQM approach to this repository
 * Produce reusable outcomes by third parties when measuring D&I
-  * #15 Create a method that other communities can reproduce the report for themselves 
+  * [#15](https://github.com/chaoss/wg-diversity-inclusion/issues/15) Create a method that other communities can reproduce the report for themselves 
 * Dissemination of the results across several communities
   * Open Source Summit NA / Europe
   * OSCON
@@ -61,7 +61,8 @@ no update, still working on To-Do's
 
 ### 2018-05-23
 
-Decide on next steps (see issues #14 and #15) and start a roadmap.
+* Document next steps (see issues [#14](https://github.com/chaoss/wg-diversity-inclusion/issues/14) and [#15](https://github.com/chaoss/wg-diversity-inclusion/issues/15)).
+* Start a roadmap (see above).
 
 **Updates from OSLS**
 
