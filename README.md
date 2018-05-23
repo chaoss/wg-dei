@@ -28,6 +28,7 @@ base around this topic.
 * Integrate results with the general Metrics group
   * Write down all of the goal-question-metric ideas we have in [this document](https://docs.google.com/document/d/1MzDk84BL7FfHDxbFxJz39M72V2Hfc5Y6oCPhOl6woxo/edit#)
   * [#14](https://github.com/chaoss/wg-diversity-inclusion/issues/14) Migrate Google Docs D&I GQM approach to this repository
+* Validate with experts in the field.
 * Produce reusable outcomes by third parties when measuring D&I
   * [#15](https://github.com/chaoss/wg-diversity-inclusion/issues/15) Create a method that other communities can reproduce the report for themselves 
 * Dissemination of the results across several communities
