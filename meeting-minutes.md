@@ -1,4 +1,4 @@
-## Meeting Mintues
+## Meeting Minutes
 (located here until we find a better place for them)
 
 
