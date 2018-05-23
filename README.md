@@ -23,6 +23,20 @@ base around this topic.
 
 *Note:* We want to make our tools and report inclusive globally.
 
+## Roadmap
+
+* Integrate results with the general Metrics group
+  * Write down all of the goal-question-metric ideas we have in this document
+  * #14 Migrate Google Docs D&I GQM approach to this repository
+* Produce reusable outcomes by third parties when measuring D&I
+  * #15 Create a method that other communities can reproduce the report for themselves 
+* Dissemination of the results across several communities
+  * Open Source Summit NA / Europe
+  * OSCON
+  * CHAOSScon NA
+  * Others
+
+
 ## Upcoming meetings
 
 - We meet every other week. Next meeting: June 6th, 2018 at 6pm Eurpean Central Time (9am US Pacific Time). We will use the CHAOSS Zoom room: https://unomaha.zoom.us/j/720431288
