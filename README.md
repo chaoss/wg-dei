@@ -45,24 +45,26 @@ base around this topic.
 ## Meeting Mintues
 (located here until we find a better place for them)
 
-### 2018-02-13
-
-To-Do's:
-- review existing survey work (Matt)
-- review GrimoireLab software (Daniel)
-- mentorship for OpenStack report (Daniel and Nicole)
-- describe non-technical contributions and document what OpenStack diversity research captured (Nicole)
-
-### 2018-02-27
-
-no update, still working on To-Do's
-
-### 2018-03-13
 
 ### 2018-05-23
 
 * Document next steps (see issues [#14](https://github.com/chaoss/wg-diversity-inclusion/issues/14) and [#15](https://github.com/chaoss/wg-diversity-inclusion/issues/15)).
 * Start a roadmap (see above).
+
+
+### 2018-03-25
+
+We worked on the session proposal for the Open Source Summit North America: 
+https://docs.google.com/document/d/1drcJm9m05qNbJ8RAYS1U41GOSq1Ej4dSQa-i-w51Ytc/edit?ts=5adf7063
+
+
+### 2018-03-18
+
+We discussed the goals of the workgroup and started defining categories in which we understand diversity and inclusion:
+https://docs.google.com/document/d/1MzDk84BL7FfHDxbFxJz39M72V2Hfc5Y6oCPhOl6woxo/edit#heading=h.hx2wqrioawbd
+
+
+### 2018-03-13
 
 **Updates from OSLS**
 
@@ -83,15 +85,20 @@ Will be sent out in short time.
 The goal is to expand diversity beyond gender diversity and make sure that everyone feels welcome.
 Yearly repeat the survey to see if initiatives are being effective.
 
-### 2018-03-18
 
-We discussed the goals of the workgroup and started defining categories in which we understand diversity and inclusion:
-https://docs.google.com/document/d/1MzDk84BL7FfHDxbFxJz39M72V2Hfc5Y6oCPhOl6woxo/edit#heading=h.hx2wqrioawbd
+### 2018-02-27
 
-### 2018-03-25
+no update, still working on To-Do's
 
-We worked on the session proposal for the Open Source Summit North America: 
-https://docs.google.com/document/d/1drcJm9m05qNbJ8RAYS1U41GOSq1Ej4dSQa-i-w51Ytc/edit?ts=5adf7063
+
+### 2018-02-13
+
+To-Do's:
+- review existing survey work (Matt)
+- review GrimoireLab software (Daniel)
+- mentorship for OpenStack report (Daniel and Nicole)
+- describe non-technical contributions and document what OpenStack diversity research captured (Nicole)
+
 
 ## Mailing list
 We use the CHAOSS mailing list: https://wiki.linuxfoundation.org/chaoss/metrics#mail-list
