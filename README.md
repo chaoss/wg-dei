@@ -40,7 +40,7 @@ base around this topic.
 
 ## Upcoming meetings
 
-- We meet every other week. Next meeting: June 6th, 2018 at 6pm Eurpean Central Time (9am US Pacific Time). We will use the CHAOSS Zoom room: https://unomaha.zoom.us/j/720431288
+- We meet every other week. Next meeting: <del>June 6th,</del> **June 7th,** 2018 at 6pm Eurpean Central Time (9am US Pacific Time). We will use the CHAOSS Zoom room: https://unomaha.zoom.us/j/720431288
 
 
 ## Meeting Mintues
