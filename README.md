@@ -124,17 +124,21 @@ To be done
 
 ## How can you help?
 
-This project is open to anyone interested in the topic of diversity and inclusion. And this includes several areas
-of work such as diversity and inclusion from a broader perspective, mining software repositories, Python development,
-tech writing, people interested in speaking at events and others.
+This project is open to anyone interested in the topic of diversity and inclusion. And this includes several areas of work such as **diversity and inclusion** from a broader perspective, mining software repositories, **Python** development,
+**tech writing**, people interested in **speaking** at events and others.
 
-The collaboration guide is still in progress, but a first good step would be to introduce yourself at the
-[CHAOSS Metrics](https://lists.linuxfoundation.org/mailman/listinfo/oss-health-metrics) or
-[CHAOSS Software](https://lists.linuxfoundation.org/mailman/listinfo/chaoss-software) mailing lists explaining
-a bit your interest.
+The collaboration guide is still in progress, but a first good step would be to introduce yourself at the [CHAOSS Metrics](https://lists.linuxfoundation.org/mailman/listinfo/oss-health-metrics) or [CHAOSS Software](https://lists.linuxfoundation.org/mailman/listinfo/chaoss-software) mailing lists explaining a bit your interest.
 
 Most of the work in the metrics side will be done through pull requests to the markdown files containing discussions
 about the metrics used or to be used. This is the same method as when updating the software side of the project.
+
+## Maintainers
+
+- [Georg J.P. Link](https://github.com/GeorgLink)
+- [Daniel Izquierdo Cortazar](https://github.com/dicortazar)
+
+
+If you'd like to our squad, just go through the [issue list](https://github.com/chaoss/wg-diversity-inclusion/issues) and fix some. :tada: 
 
 
 ## Related Works
