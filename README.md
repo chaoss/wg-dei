@@ -134,9 +134,7 @@ about the metrics used or to be used. This is the same method as when updating t
 
 ## Maintainers
 
-- [Georg J.P. Link](https://github.com/GeorgLink)
 - [Daniel Izquierdo Cortazar](https://github.com/dicortazar)
-
 
 If you'd like to our squad, just go through the [issue list](https://github.com/chaoss/wg-diversity-inclusion/issues) and fix some. :tada: 
 
