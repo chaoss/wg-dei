@@ -23,6 +23,16 @@ base around this topic.
 
 *Note:* We want to make our tools and report inclusive globally.
 
+## Working Group Members & Contributors
+* Nicole Heusman
+* Georg Link
+* Emma Irwin
+* Gina Helfrich
+* Akshita Gupta (Outreachy)
+* Bhagashree Uday
+* Anita
+* Amy Marrich
+
 ## Roadmap
 
 * Integrate results with the general Metrics group
