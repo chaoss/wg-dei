@@ -24,14 +24,17 @@ base around this topic.
 *Note:* We want to make our tools and report inclusive globally.
 
 ## Working Group Members & Contributors
-* Nicole Heusman
-* Georg Link
-* Emma Irwin
-* Gina Helfrich
-* Akshita Gupta (Outreachy)
-* Bhagashree Uday
-* Anita
-* Amy Marrich
+Please update as needed
+
+* Nicole Heusman - Intel
+* Georg Link - University of Nebraska
+* Emma Irwin - Mozilla
+* Gina Helfrich - NumFOCUS
+* Akshita Gupta - Outreachy
+* Bhagashree Uday - Fedora
+* Anita Sarma - Oregon State University
+* Amy Marrich - OpenStack
+* Daniel Izquiero - Bitergia
 
 ## Roadmap
 
