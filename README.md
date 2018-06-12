@@ -35,6 +35,7 @@ Please update as needed
 * Anita Sarma - Oregon State University
 * Amy Marrich - OpenStack
 * Daniel Izquiero - Bitergia
+* Alexander Serebrenik - Eindhoven University of Technology
 
 ## Roadmap
 
