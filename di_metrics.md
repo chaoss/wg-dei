@@ -3,6 +3,7 @@
 Goal: Identify the diversity and inclusion within a project.
 
 ## Definitions
+Some of the language we use, and what we mean.
 
 * **Diversity**: How different are the people present?
 * **Inclusion**: How well do we enable these different people to work together?
@@ -16,19 +17,23 @@ Goal: Identify the diversity and inclusion within a project.
 *Example 3:* There may be women within a community that is less inclusive, but the women are determined to “see it through” and participate. In this case, retention does not necessarily reflect the level of inclusion within a community.
 
 ## Dimensions of Demographics
-1. Gender Spectrum
-2. Identify as transgender
-3. Age / e.g., youths?
+NOTE: that *how* we might ask these questions, and what potential answers might be are currently out of scope.  
+NOTE: that regional appropriateness of demographics is also currently out of scope, and will be its own task.
+NOTE: that the legal, privacy and ethical issues related to asking for, storing and visualizing data is currently out of scope, and will be its own task.
+
+1. Gender Identity
+2. Sexual orientation
+3. Age
 4. Location/Region/Country
-5. Access to Technology aka (sub for education)
-6. Socio economic status
+6. Socioeconomic status
 7. Tenure (time with project) / Tenure with the ecosystem
 8. Race/Ethnicity
 9. First Language
 10. Confidence with English
-11. Disability
-12. Sexual orientation
-13. Parents with children
+11. Dis/Ability
+12. Neurodiversity
+13. Caregiver (child or eldercare)
+14. Identifies as a minority (which can include components of above, or be separate)
 
 
 ## Goals of analysis
