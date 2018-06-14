@@ -54,8 +54,6 @@ Please append email subject with: [wg-di]
 
 See file [di_metrics.md](./di_metrics.md)
 
-(Following section is outdated. We need to compare this the current metrics and make sure we have everything.)
-
 
 ## Software Work
 
