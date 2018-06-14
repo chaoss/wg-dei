@@ -14,7 +14,7 @@ An example of the expected outcomes is the [OpenStack Gender Report](http://supe
 that focuses on the analysis of the gender-diversity in the OpenStack Foundation. This project sponsored by Intel and Bitergia
 aims at helping the community with data. And we need data to make decisions!
 
-This project is under the [CHAOSS](https://chaoss.community) project that is part of The Linux Foundation.
+This project is under the [CHAOSS](https://chaoss.community) project that is part of The Linux Foundation, with participation from multiple other organizations and institutions  (see contributors list).
 
 As the CHAOSS project consists of two Technical Committees: Software and Metrics, this project aims at
 working closely with both and learn their best practices. In addition, this working group expects
@@ -42,7 +42,7 @@ base around this topic.
 
 - We meet every other week. Next meeting: <del>June 6th,</del> **June 7th,** 2018 at 6pm Eurpean Central Time (9am US Pacific Time). We will use the CHAOSS Zoom room: https://unomaha.zoom.us/j/720431288
 
-## Meeting Mintues
+## Meeting Minutes
 
 [View meeting minutes](./meeting-minutes.md)
 
@@ -56,67 +56,6 @@ See file [di_metrics.md](./di_metrics.md)
 
 (Following section is outdated. We need to compare this the current metrics and make sure we have everything.)
 
-More to be done.
-
-Metrics used in OpenStack Gender Report --- starting point for thinking about other diversity and inclusion metrics.
-
-__Governance and Leadership__
-
- - Board of Directors
- - Technical Committee
- - User Committee
- - Working Groups Chairs
- - OpenStack Ambassadors
- - Project Technical Leaders
- - OpenStack Foundation Officers
- - Ratio of minority identification to whole community
- - Role in community (basis for calculating minority ratios within each committee/workgroup/organ)
-
-__Summits Representation__
-
- - Keynote summits representation
- - Summit attendees
- - Summit speakers
-
-__Technical Contributions__
-
- - Number of commits by minority over time
- - Number of developers by minority authoring those commits over time
- - Types of contributions (code and others) by minority within those commits over time
- - Number of code review submissions by  minority over time
- - Number of developers who have submitted changesets, by minority over time
- - Number of code review votes undertaken by developers, by minority over time
- - Number of developers who have voted in a code review process, by minority over time
- - Number of core code review votes undertaken by developers, by minority over time
- - Number of core code review votes undertaken by developers, by minority over time
- - Number of developers who have participated in a core code review process, by minority over time
- - Ratio_Authors: The number in this column denotes the ratio of minority developers for every 100 developers for a given project.
- - Ratio_Commits: The number in this column denotes the ratio of commits submitted by minority developers for every 100 commits submitted by all developers for a given project.
- - Authors: The number in this column denotes the total number of individuals identified as minority who have contributed to a given project, as tracked through the Git repositories.
- - Commits: The number in this column denotes the total number of changes to the source code for a given project. A commit is usually submitted through a code review process.
-
-__Non Technical Contributions__
-
- - Number of emails by gender
- - Emails activity by gender
- - Characterization of mailing lists (development, users)
-
-
-__Minority identities__
-
-Standard survey questions for identity relating to diversity:
-https://github.com/drnikki/open-demographics/tree/master/doc-source/questions
-
- - Age
- - Disability
- - Education
- - Gender
- - Language
- - Location
- - Race
- - Religion
- - Sexual and Romantic Orientation
- - Socioeconomic Class
 
 ## Software Work
 
