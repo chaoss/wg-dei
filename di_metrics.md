@@ -10,7 +10,7 @@ Some of the language we use, and what we mean.
 * **Retention**: How long do different people stay engaged?
 * **Attraction**: How well do we extend a hand to different newcomers?
 
-*Example 1:* Two people in a room. They can be diverse, but they don’t have to work together or be there still tomorrow.  AND just because someone is there, doesn’t mean their experience is good.
+*Example 1:* Two people in a room. They can be diverse, but they don’t have to work together or stay there until tomorrow. AND just because someone is there, doesn’t mean their experience is great.
 
 *Example 2:* Some minorities are not necessarily visible, do we want to measure their degree of visibility/outness? (e.g., disability, socio-economic, LGBTIQ, religion)
 
