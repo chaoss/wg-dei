@@ -13,6 +13,6 @@ Kid Friendliness | Does the event host special activities for kids and youths?
 
 Comments/Discussion
 
-update to consider goals as identified in NumFocus Discover-Cookbook for events
+TODO: update to consider goals as identified in NumFocus Discover-Cookbook for events
 
 https://github.com/numfocus/discover-cookbook
