@@ -33,7 +33,7 @@ NOTE: that the legal, privacy and ethical issues related to asking for, storing 
 11. Dis/Ability
 12. Neurodiversity
 13. Caregiver (child or eldercare)
-14. Identifies as underepresented (which can include components of above, or be separate)
+14. Identifies as underrepresented (which can include components of above, or be separate)
 
 
 ## Goals of analysis
