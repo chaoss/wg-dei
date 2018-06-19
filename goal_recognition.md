@@ -9,4 +9,5 @@ Contribution Volume | Do we have a bias towards small contributions or multiple 
 Recognition Type |  TBD (i.e. thank you in PR comments, blog post, badges  etc)
 Recognition Value | Do different demographics value different types of recognition?  (qualitative?)
 
-Comments/Discussion
+
+### Comments/Discussion
