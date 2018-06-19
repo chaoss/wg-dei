@@ -47,7 +47,7 @@ base around this topic.
 [View meeting minutes](./meeting-minutes.md)
 
 ## Mailing list
-We use the CHAOSS mailing list: https://wiki.linuxfoundation.org/chaoss/metrics#mail-list
+We use the [CHAOSS mailing list](https://chaoss.community/participate/#user-content-join-the-mailing-list).
 Please append email subject with: [wg-di]
 
 ## Metrics Work
