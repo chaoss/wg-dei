@@ -1,6 +1,6 @@
 ## Project Places
 
-Goal: Identify how diverse and inclusive  our project places (e.g., repositories, mailing lists, forum) are?
+**Goal:** Identify how diverse and inclusive  our project places (e.g., repositories, mailing lists, forum) are?
 
 Name | Question
 --- | ---

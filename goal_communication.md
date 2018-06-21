@@ -1,6 +1,6 @@
 ## Communication Inclusivity
 
-Goal: Identify how we are communicating with contributors, and potential contributors.
+**Goal:** Identify how we are communicating with contributors, and potential contributors.
 
 Name | Question
 --- | ---
