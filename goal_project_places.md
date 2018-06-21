@@ -12,3 +12,5 @@ Name | Question
 
 
 ### Comments/Discussion
+
+_Please create a pull request if you want to comment on this page or want to add a resource._
