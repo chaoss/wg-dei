@@ -1,4 +1,6 @@
-# Documentation
+# Project Places: Documentation
+
+**Question:**  What is the thoroughness, and accessibility of documentation according to a set of criteria. This includes README/CONTRIBUTING (TBD)
 
 
 ## 1. Description
