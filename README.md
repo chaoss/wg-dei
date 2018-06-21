@@ -37,10 +37,23 @@ base around this topic.
   * CHAOSScon NA
   * Others
 
+## Structure of Repository
+
+We are compiling [dimensions of diversity and inclusion](./di_metrics.md) that can be used in the following areas of analysis:
+
+1. [Event Diversity](./goal_events.md)
+2. [Contributor Community Diversity](./goal_contribution.md)
+3. [Communication Inclusivity](./goal_communication.md)
+4. [Recognition of Good Work](./goal_recognition.md)
+5. [Leadership](./goal_leadership.md)
+6. [Governance](./goal_governance.md)
+7. [Project Places](./goal_project_places.md)
+
+Each area lists a collection of relevant questions. If you are interested in answering a question for your community, go to the associated resource page where we collect strategies for answering the question.
 
 ## Upcoming meetings
 
-- We meet every other week. Next meeting: June 20th, 2018 at 6pm European Central Time (9am US Pacific Time). We will use the CHAOSS Zoom room: https://unomaha.zoom.us/j/720431288
+- We meet every other week. Next meeting: July 5th, 2018 at 6pm European Central Time (9am US Pacific Time). We will use the CHAOSS Zoom room: https://unomaha.zoom.us/j/720431288
 
 ## Meeting Minutes
 
@@ -73,7 +86,7 @@ about the metrics used or to be used. This is the same method as when updating t
 
 - [Daniel Izquierdo Cortazar](https://github.com/dicortazar)
 
-If you'd like to be on our squad, just go through the [issue list](https://github.com/chaoss/wg-diversity-inclusion/issues) and fix some. :tada: 
+If you'd like to be on our squad, just go through the [issue list](https://github.com/chaoss/wg-diversity-inclusion/issues) and fix some. :tada:
 
 
 ## Related Works
