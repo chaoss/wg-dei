@@ -4,7 +4,7 @@ Goal: Identify how diverse and inclusive  our project places (e.g., repositories
 
 Name | Question
 --- | ---
-Documentation | Throughness, and accessibility of documentation according to a set of criteria. This includes README/CONTRIBUTING (TBD)
+[Documentation](./resources/project_places-documentation.md) | Thoroughness, and accessibility of documentation according to a set of criteria. This includes README/CONTRIBUTING (TBD)
 Issue Tracker | How well a project issue tracker setup to invite new contributors, skilled contributors,  non-technical contributors. (Criteria TBD)
 Issue Tracker - Response Times & Quality | to suggestions, PRS, questions (Note: dependent on quality of PR, questions needs factored in)
 Communication Channels | How welcoming, responsive, respectful are interactions even on hot topics of debate?  What is the diversity of voices speaking/being heard?
