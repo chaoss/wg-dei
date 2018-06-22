@@ -37,3 +37,6 @@ These are the currently identified objectives, they are not definitive and we in
 * TODO: ways to analyze them.
 
 ### Existing Resources
+
+
+## Research / Citation 
