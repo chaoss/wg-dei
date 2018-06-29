@@ -1,9 +1,5 @@
 # How to Contribute
 
-## What is this document?
-
-This document outlines a generic process of contributing and applies to all CHAOSS repositories. Each repository may have unique guidelines specific to the project.
-
 ## Where can I contribute?
 
 Anyone can contribute to CHAOSS on any of our communication channels. See <https://chaoss.community/participate/>.
@@ -80,11 +76,4 @@ Notice a mistake? Please file any bugs, requests, or questions in [our issue tra
 ## Who is a CHAOSS repository maintainer?
 
 The README.md of the repository contains a list of who is maintainer. Each CHAOSS repositry brings together different people and they document in the repository specific CONTRIBUTING.md how somone becomes a maintainer on their repository.
-
-## What about releases?
-
-CHAOSS repository maintainers tag commits on the master branch as [releases][rl] (snapshots). Each CHAOSS repository has its own release cadence. Between releases, the master branch is under development.
-
-[rl]: https://help.github.com/articles/about-releases/
-
 
