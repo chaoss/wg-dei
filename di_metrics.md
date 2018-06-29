@@ -40,10 +40,10 @@ NOTE: that the legal, privacy and ethical issues related to asking for, storing 
 
 The following are the areas of analysis:
 
-1. [Event Diversity](goal_events.md)
-2. [Contributor Community Diversity](goal_contribution.md)
-3. [Communication Inclusivity](goal_communication.md)
-4. [Recognition of Good Work](goal_recognition.md)
-5. [Leadership](goal_leadership.md)
-6. [Governance](goal_governance.md)
-7. [Project Places](goal_project_places.md)
+1. [Event Diversity](./goal_events.md)
+2. [Contributor Community Diversity](./goal_contribution.md)
+3. [Communication Inclusivity](./goal_communication.md)
+4. [Recognition of Good Work](./goal_recognition.md)
+5. [Leadership](./goal_leadership.md)
+6. [Governance](./goal_governance.md)
+7. [Project Places](./goal_project_places.md)
