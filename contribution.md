@@ -10,7 +10,7 @@ Anyone can contribute to CHAOSS on any of our communication channels. See <https
 
 **Every issue in this repository is seeking contribution**. Click on issues to find ways to contribute. See this [list of all issues](https://github.com/chaoss/wg-diversity-inclusion/issues).
 
-**We need activists, enthusiasts, community input, and more… Anyone, with any skill set, can find a way to pitch in.**
+### We need activists, enthusiasts, community input, and more… Anyone, with any skill set, can find a way to pitch in.
 
 ## Contributing to the Chaoss Community
 
