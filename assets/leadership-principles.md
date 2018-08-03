@@ -30,7 +30,7 @@ Leveraging community code of conduct, leadership demonstrates and models positiv
    * Creates an environment where the CoC/CPG is understood & applied consistently
    * Enables leadership pathways that explicitly consider inclusion dimensions
 
-5. **People with leadership roles should be supported and recognized in a set of standard ways across Mozilla**
+5. **People with leadership roles should be supported and recognized in a set of standard ways across the project**
 
    * Enables people to have equal access to training and growth opportunities regardless of what part of the project they contribute to
    * Allows people to follow their passions/skills instead of just reward
