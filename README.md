@@ -96,6 +96,7 @@ Collection of initiatives and related works that can inform our work or that we 
 * [Django Girls](https://djangogirls.org/)
 * [GNOME Women](https://wiki.gnome.org/GnomeWomen)
 * [Mozilla Diversity and Inclusion Strategy](https://wiki.mozilla.org/Diversity_and_Inclusion_Strategy) related [OpenSource.com article](https://opensource.com/article/17/9/diversity-and-inclusion-innovation)
+* [Open Demographics](https://github.com/drnikki/open-demographics)
 * [OpenStack Gender Report](http://superuser.openstack.org/articles/bitergia-intel-report/)
 * [OpenStack - ideas for new survey](https://etherpad.openstack.org/p/diversity-survey-spring-2018_draft)
 * [Outreachy](https://www.outreachy.org/)
