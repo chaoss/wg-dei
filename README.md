@@ -23,6 +23,12 @@ base around this topic.
 
 *Note:* We want to make our tools and report inclusive globally.
 
+## What we are currently working on
+
+* We are prototyping a structure that we want to create our metrics and recommendations for a D&I report in. Current draft is in [this google doc](https://docs.google.com/document/d/1LRNBu5f3lw42_p8_NtXnt_2vRSPQvnt_POhDyse88sk/edit#heading=h.32q74ak03v67)
+  * Please leave comments and suggest edits where needed
+* Next up: We want to walk through the structure and prototype our first resource pages at the Open Source Summit North America 2018 on August 29th. -- If you are interested, watch the CHAOSS mailing list for details on when and where we meet.
+
 ## Roadmap
 
 * Integrate results with the general Metrics group
