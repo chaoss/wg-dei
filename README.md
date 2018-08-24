@@ -53,7 +53,7 @@ Each area lists a collection of relevant questions. If you are interested in ans
 
 ## Upcoming meetings
 
-- We meet every other week. Next meeting: August 22nd, 2018 at 6pm European Central Time (9am US Pacific Time). We will use the CHAOSS Zoom room: https://unomaha.zoom.us/j/720431288
+- We meet every other week. Next meeting: September 5th, 2018 at 6pm European Central Time (9am US Pacific Time). We will use the CHAOSS Zoom room: https://unomaha.zoom.us/j/720431288
 
 ## Meeting Minutes
 
