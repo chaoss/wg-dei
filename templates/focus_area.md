@@ -4,6 +4,6 @@
 
 ### Goal
 
-Name | Problem Statement
+Name | Question
 --- | ---
  . |  .
