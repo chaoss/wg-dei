@@ -1,4 +1,4 @@
-## Project Places
+## Project & Communities
 
 **Goal:** Identify how diverse and inclusive our project and community places are.
 
