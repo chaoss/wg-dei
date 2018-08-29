@@ -2,6 +2,8 @@
 
 **Goal:** Identify how diverse and inclusive our project and community places are.
 
+**Description:** 
+
 Name | Question
 --- | ---
 [Documentation](./resources/project_places-documentation.md) | What is the thoroughness, and accessibility of documentation according to a set of criteria. This includes README/CONTRIBUTING (TBD)
