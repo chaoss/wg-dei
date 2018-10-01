@@ -47,7 +47,7 @@ base around this topic.
 
 We are compiling [dimensions of diversity and inclusion](./di_metrics.md) that can be used in the following areas of analysis:
 
-1. [Event Diversity](./goal_events.md)
+1. [Event Diversity](./focus_areas/events/goal_events.md)
 2. [Contributor Community Diversity](./goal_contribution.md)
 3. [Communication Inclusivity](./goal_communication.md)
 4. [Recognition of Good Work](./goal_recognition.md)
