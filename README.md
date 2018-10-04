@@ -59,11 +59,15 @@ Each area lists a collection of relevant questions. If you are interested in ans
 
 ## Upcoming meetings
 
-- We meet every other week. Next meeting: October 3rd, 2018 at 6pm European Central Time (9am US Pacific Time). We will use the CHAOSS Zoom room: https://unomaha.zoom.us/j/720431288
+- We meet weekly on Mondays at 6pm European Central Time (9am US Pacific Time). We  use the CHAOSS Zoom room: https://unomaha.zoom.us/j/720431288
+
+- Agenda and meeting minutes: http://bit.ly/chaoss-diwg 
 
 ## Meeting Minutes
 
-[View meeting minutes](./meeting-minutes.md)
+[Google doc with meeting minutes](http://bit.ly/chaoss-diwg)
+
+[View old meeting minutes](./meeting-minutes.md)
 
 ## Mailing list
 We use the [CHAOSS mailing list](https://chaoss.community/participate/#user-content-join-the-mailing-list).
