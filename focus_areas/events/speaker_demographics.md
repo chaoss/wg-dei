@@ -10,7 +10,7 @@ Please feel free to contribute and improve this document.
 
 ## 1. Description
 
-Speakers with diverse backgrounds who represent a variety of demographics help an event provide different viewpoints and a broader perspective. Events with diverse speakers allow people from a variety of different backgrounds feel more included in an event when they see people with similar characteristics in a position of authority (speaking).
+Speakers with diverse backgrounds who represent a [variety of demographics](https://github.com/chaoss/wg-diversity-inclusion/blob/master/di_metrics.md) help an event provide different viewpoints and a broader perspective. Events with diverse speakers allow people from a variety of different backgrounds feel more included in an event when they see people with similar characteristics in a position of authority (speaking).
 
 ## 2. Sample Objectives
 - Speakers are from diverse backgrounds.
