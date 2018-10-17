@@ -1,5 +1,11 @@
 # Project Places: Communication Channels
 
+## Disclaimer / Caveats
+
+**This is a work in process document being used to gather feedback and may not yet represent the views of the CHAOSS project.**
+
+Please feel free to [contribute](https://github.com/chaoss/wg-diversity-inclusion/blob/master/CONTRIBUTING.md) and improve this document.
+
 ## Question
 
 **Question:** How welcoming, responsive, respectful are interactions even on hot topics of debate?  What is the diversity of voices speaking/being heard?

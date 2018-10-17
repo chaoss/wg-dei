@@ -1,5 +1,11 @@
 # Project Places: Response Times & Quality
 
+## Disclaimer / Caveats
+
+**This is a work in process document being used to gather feedback and may not yet represent the views of the CHAOSS project.**
+
+Please feel free to [contribute](https://github.com/chaoss/wg-diversity-inclusion/blob/master/CONTRIBUTING.md) and improve this document.
+
 ## Question
 
 **Question:** How quickly and well do we respond to suggestions, PRS, questions (Note: dependent on quality of PR, questions needs factored in)

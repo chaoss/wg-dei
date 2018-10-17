@@ -1,5 +1,11 @@
 # Contributions: Collaboration Style
 
+## Disclaimer / Caveats
+
+**This is a work in process document being used to gather feedback and may not yet represent the views of the CHAOSS project.**
+
+Please feel free to [contribute](https://github.com/chaoss/wg-diversity-inclusion/blob/master/CONTRIBUTING.md) and improve this document.
+
 ## Question
 
 **Question:** How inclusive is community collaboration? (what we mean by collaboration needs better defined)
