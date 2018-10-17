@@ -1,11 +1,12 @@
 # Governance - Board/Council Diversity
 
-## Disclaimer / Caveats 
- 
-**This is a work in process document being used to gather feedback and may not yet represent the views of the CHAOSS project.**
-Please feel free to contribute and improve this document.
+## Disclaimer / Caveats
 
-## 0. Question
+**This is a work in process document being used to gather feedback and may not yet represent the views of the CHAOSS project.**
+
+Please feel free to [contribute](https://github.com/chaoss/wg-diversity-inclusion/blob/master/CONTRIBUTING.md) and improve this document.
+
+## Question
 
 **Question**: What is the diversity within our governing board or council?
 
@@ -33,7 +34,7 @@ A governance board or council comprise a group of people who steer an open sourc
 **Qualitative**
 - None
 
-**Quantitative** 
+**Quantitative**
 - Observe the diversity of board or council members from the project webpage.
 - Survey project members about their perceived diversity of the board or council.
     - Likert scale [1-5] item: I feel represented in the board or council.
@@ -43,6 +44,3 @@ A governance board or council comprise a group of people who steer an open sourc
 ## 5. Resources
 
 This section provides a list of resources and references
-
-## Authors
-

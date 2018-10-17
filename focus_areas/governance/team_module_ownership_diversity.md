@@ -1,11 +1,12 @@
 # Governance - Team/Module Ownership Diversity
 
-## Disclaimer / Caveats 
- 
-**This is a work in process document being used to gather feedback and may not yet represent the views of the CHAOSS project.**
-Please feel free to contribute and improve this document.
+## Disclaimer / Caveats
 
-## 0.Question
+**This is a work in process document being used to gather feedback and may not yet represent the views of the CHAOSS project.**
+
+Please feel free to [contribute](https://github.com/chaoss/wg-diversity-inclusion/blob/master/CONTRIBUTING.md) and improve this document.
+
+## Question
 
 **Question**: What opportunities are there to move into governance?
 
@@ -50,12 +51,3 @@ Depending on the project, being a core member of a project is based on meritocra
 ## 5. Resources
 
 This section provides a list of resources and references
-
-## 6. Authors
-
-- Emma Irwin
-- Nicole Huesman
-- Daniel Izquierdo
-- Georg Link
-- Alexander Serebrenik
-- Please add yourself!!
