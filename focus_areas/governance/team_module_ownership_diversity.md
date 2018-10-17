@@ -50,12 +50,3 @@ Depending on the project, being a core member of a project is based on meritocra
 ## 5. Resources
 
 This section provides a list of resources and references
-
-## 6. Authors
-
-- Emma Irwin
-- Nicole Huesman
-- Daniel Izquierdo
-- Georg Link
-- Alexander Serebrenik
-- Please add yourself!!

@@ -43,5 +43,3 @@ A governance board or council comprise a group of people who steer an open sourc
 ## 5. Resources
 
 This section provides a list of resources and references
-
-## Authors
