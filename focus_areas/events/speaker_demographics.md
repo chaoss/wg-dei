@@ -6,7 +6,7 @@
 
 Please feel free to [contribute](https://github.com/chaoss/wg-diversity-inclusion/blob/master/CONTRIBUTING.md) and improve this document.
 
-## 0. Question
+## Question
 
 **Question:** How well does the speaker lineup for the event represent a diverse set of demographics?
 
