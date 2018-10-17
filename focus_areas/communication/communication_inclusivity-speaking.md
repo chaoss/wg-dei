@@ -1,5 +1,7 @@
 # Communication Inclusivity: Speaking
 
+## Question
+
 **Question:** Are we speaking to our communities in an accessible range?  (i.e. Non-English Speakers, captioning, age group)
 
 

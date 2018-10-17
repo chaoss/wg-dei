@@ -1,11 +1,11 @@
 # Governance - Team/Module Ownership Diversity
 
-## Disclaimer / Caveats 
- 
+## Disclaimer / Caveats
+
 **This is a work in process document being used to gather feedback and may not yet represent the views of the CHAOSS project.**
 Please feel free to contribute and improve this document.
 
-## 0.Question
+## Question
 
 **Question**: What opportunities are there to move into governance?
 

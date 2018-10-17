@@ -1,5 +1,7 @@
 # Contributions: Collaboration Style
 
+## Question
+
 **Question:** How inclusive is community collaboration? (what we mean by collaboration needs better defined)
 
 

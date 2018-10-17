@@ -1,5 +1,7 @@
 # Project Places: Issue Tracker
 
+## Question
+
 **Question:** How well a project issue tracker setup to invite new contributors, skilled contributors, non-technical contributors. (Criteria TBD)
 
 

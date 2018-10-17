@@ -1,5 +1,7 @@
 # Communication Inclusivity: Captioning
 
+## Question
+
 **Question:**  Do we provide text captioning for spoken communication?
 
 

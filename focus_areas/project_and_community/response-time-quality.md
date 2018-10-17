@@ -1,5 +1,7 @@
 # Project Places: Response Times & Quality
 
+## Question
+
 **Question:** How quickly and well do we respond to suggestions, PRS, questions (Note: dependent on quality of PR, questions needs factored in)
 
 

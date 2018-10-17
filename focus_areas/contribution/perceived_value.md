@@ -1,5 +1,7 @@
 # Contributions: Perceived Value
 
+## Question
+
 **Question:** TBD How are we valuing contributions, and contribution types.  This might be responsiveness to PRs, L10N suggestions [more]
 
 

@@ -1,5 +1,7 @@
 # Project Places: Communication Channels
 
+## Question
+
 **Question:** How welcoming, responsive, respectful are interactions even on hot topics of debate?  What is the diversity of voices speaking/being heard?
 
 

@@ -1,5 +1,7 @@
 # Communication Inclusivity: Listening
 
+## Question
+
 **Question:** How well do our mechanisms for listening accommodate community? i.e. text-based for asking questions where bandwidth is a challenge.
 
 

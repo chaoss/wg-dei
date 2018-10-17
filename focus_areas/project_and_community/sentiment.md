@@ -1,5 +1,7 @@
 # Project Places: Sentiment
 
+## Question
+
 **Question:** What is the sentiment within external communication channels regarding our own press releases and within our internal communication channels, e.g., mail lists or IRC?
 
 

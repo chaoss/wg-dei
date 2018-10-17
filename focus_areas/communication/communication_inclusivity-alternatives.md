@@ -1,5 +1,7 @@
 # Communication Inclusivity: Alternatives
 
+## Question
+
 **Question:** placeholder for variety of channels (choice?)
 
 
