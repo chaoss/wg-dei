@@ -1,4 +1,4 @@
-This older is intended to capture risk for people and organizations in associating data with demographics.  
+This document is intended to capture risk for people and organizations in associating data with demographics.  
 This needs to be built out, and informed by existing research and best practices. Please do propose industry standards we can leverage.
 
 
