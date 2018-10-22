@@ -4,11 +4,11 @@ Goal: Identify the diversity and inclusion at events.
 
 Name | Question
 --- | ---
-Speaker Demographics | What is the diversity of speakers? (overall and grouped by keynotes, sessions)
-Attendees Demographics | What is diversity of attendees? (for the event overall  grouped by sessions )
-Diversity Access Tickets | Are Diversity Access Tickets/scholarships/[other] offered for an event?
-Code of Conduct at Event | How does the Code of Conduct for events support diversity and inclusion?
-Kid Friendliness | Does the event host special activities for kids and youths? Mother's room/childcare [more]
+[Speaker Demographics](./speaker_demographics.md) | How well does the speaker lineup for the event represent a diverse set of demographics?
+[Attendees Demographics](./attendee_demographics.md) | How diverse are the attendees?
+[Diversity Access Tickets](diversity_tickets.md) | Are Diversity Access Tickets offered for an event?
+[Code of Conduct at Event](event_code_of_conduct.md) | How does the Code of Conduct for events support diversity and inclusion?
+[Family Friendliness](family_friendly.md) | Does the event empower those who care for children to attend?
 
 
 ### Comments/Discussion
