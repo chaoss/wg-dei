@@ -2,6 +2,10 @@
 
 This working group aims at bringing experiences measuring diversity and inclusion in open source projects.
 
+## Join our Mailing List
+
+https://lists.linuxfoundation.org/mailman/listinfo/chaoss-diversity-inclusion
+
 Its main goal focuses on understanding from a qualitative and quantitative point of view how diversity and inclusion
 can be measured. This will bring four main outcomes:
 * First a set of metrics curated by the community focused on understanding and measuring diversity
