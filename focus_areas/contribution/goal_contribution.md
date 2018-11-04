@@ -4,10 +4,10 @@
 
 Name | Question
 --- | ---
-[Collaboration Style](./resources/contributions-collaboration_style.md) | How inclusive is community collaboration? (what we mean by collaboration needs better defined)
-[Contribution-Type](./resources/contributions-contribution_type.md) | Coding, Quality Assurance/Testing, Localization/L10N, Diversity & Inclusion, Event Organization, Documenting, Community Building/Management, Teaching, Trouble-shooting/Support, Creative/Design, Social Media, Writing Articles, Bug Triaging, UI/UX, Security/Campaign Advocacy
-[Perceived Value](./resources/contributions-perceived_value.md) (might not be the right name) | TBD How are we valuing contributions, and contribution types.  This might be responsiveness to PRs, L10N suggestions [more]
-[Contribution Sentiment](./) | TBD - things like stars, thumbs up, sentiment in comments?
+[Collaboration Style](collaboration_style.md) | How inclusive is community collaboration? (what we mean by collaboration needs better defined)
+[Contribution-Type](contribution_type.md) | Coding, Quality Assurance/Testing, Localization/L10N, Diversity & Inclusion, Event Organization, Documenting, Community Building/Management, Teaching, Trouble-shooting/Support, Creative/Design, Social Media, Writing Articles, Bug Triaging, UI/UX, Security/Campaign Advocacy
+[Perceived Value](perceived_value.md) (might not be the right name) | TBD How are we valuing contributions, and contribution types.  This might be responsiveness to PRs, L10N suggestions [more]
+[Contribution Sentiment](contribution_sentiment.md) | TBD - things like stars, thumbs up, sentiment in comments?
 
 
 ### Comments/Discussion
