@@ -4,10 +4,10 @@ Goal: Identify how we recognize/reward good work in our community.
 
 Name  |  Question
 --- | ---
-Contribution Type  |  Does recognition skew to a particular kind of contribution? How are we missing altogether(see Contribution for a list of types identified to track)
-Contribution Volume | Do we have a bias towards small contributions or multiple contributions?
-Recognition Type | TBD (i.e. thank you in PR comments, blog post, badges, etc.)
-Recognition Value | Do different demographics value different types of recognition?  (qualitative?)
+[Contribution Type](contribution_type.md)  |  Does recognition skew to a particular kind of contribution? How are we missing altogether (see Contribution for a list of types identified to track)
+[Contribution Volume](contribution_volume.md) | Do we have a bias towards small contributions or multiple contributions?
+[Recognition Type](recognition_type.md) | TBD (i.e. thank you in PR comments, blog post, badges, etc.)
+[Recognition Value](recognition_value.md) | Do different demographics value different types of recognition?  (qualitative?)
 
 
 ### Comments/Discussion
