@@ -75,11 +75,6 @@ We are compiling [dimensions of diversity and inclusion](./di_metrics.md) that c
 Each area lists a collection of relevant questions. If you are interested in answering a question for your community, go to the associated resource page where we collect strategies for answering the question.
 
 
-## Metrics Work
-
-See file [di_metrics.md](./di_metrics.md)
-
-
 ## Software Work
 
 To be done
