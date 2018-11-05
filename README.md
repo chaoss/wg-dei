@@ -2,9 +2,17 @@
 
 This working group aims at bringing experiences measuring diversity and inclusion in open source projects.
 
+
 ## Join our Mailing List
 
 https://lists.linuxfoundation.org/mailman/listinfo/chaoss-diversity-inclusion
+
+
+## Upcoming meetings
+
+- The D&I work group meets every Monday at 9:30am CT (usually 16:30 CET, [check your local time](http://arewemeetingyet.com/Chicago/2018-11-05/09:30/w/CHAOSS%20D%26I%20WG#eyJ1cmwiOiJodHRwczovL3Vub21haGEuem9vbS51cy9qLzcyMDQzMTI4OCJ9)) via [Zoom](https://unomaha.zoom.us/j/720431288).
+- Agenda and meeting minutes: http://bit.ly/chaoss-diwg 
+
 
 ## Background
 
@@ -29,11 +37,13 @@ base around this topic.
 
 *Note:* We want to make our tools and report inclusive globally.
 
+
 ## What we are currently working on
 
 * We are prototyping a structure that we want to create our metrics and recommendations for a D&I report in. Current draft is in [this google doc](https://docs.google.com/document/d/1LRNBu5f3lw42_p8_NtXnt_2vRSPQvnt_POhDyse88sk/edit#heading=h.32q74ak03v67)
   * Please leave comments and suggest edits where needed
 * Next up: We want to walk through the structure and prototype our first resource pages at the Open Source Summit North America 2018 on August 29th. -- If you are interested, watch the CHAOSS mailing list for details on when and where we meet.
+
 
 ## Roadmap
 
@@ -49,6 +59,7 @@ base around this topic.
   * CHAOSScon NA
   * Others
 
+
 ## Structure of Repository
 
 We are compiling [dimensions of diversity and inclusion](./di_metrics.md) that can be used in the following areas of analysis:
@@ -63,21 +74,6 @@ We are compiling [dimensions of diversity and inclusion](./di_metrics.md) that c
 
 Each area lists a collection of relevant questions. If you are interested in answering a question for your community, go to the associated resource page where we collect strategies for answering the question.
 
-## Upcoming meetings
-
-- The D&I work group meets every Monday at 9:30am CT (usually 16:30 CET, [check your local time](http://arewemeetingyet.com/Chicago/2018-11-05/09:30/w/CHAOSS%20D%26I%20WG#eyJ1cmwiOiJodHRwczovL3Vub21haGEuem9vbS51cy9qLzcyMDQzMTI4OCJ9)) via [Zoom](https://unomaha.zoom.us/j/720431288).
-
-- Agenda and meeting minutes: http://bit.ly/chaoss-diwg 
-
-## Meeting Minutes
-
-[Google doc with meeting minutes](http://bit.ly/chaoss-diwg)
-
-[View old meeting minutes](./meeting-minutes.md)
-
-## Mailing list
-We use the [CHAOSS mailing list](https://chaoss.community/participate/#user-content-join-the-mailing-list).
-Please append email subject with: [wg-di]
 
 ## Metrics Work
 
@@ -88,6 +84,7 @@ See file [di_metrics.md](./di_metrics.md)
 
 To be done
 
+
 ## How can you help?
 
 This project is open to anyone interested in the topic of diversity and inclusion. And this includes several areas of work such as **diversity and inclusion** from a broader perspective, mining software repositories, **Python** development,
@@ -97,6 +94,7 @@ The collaboration guide is still in progress, but a first good step would be to 
 
 Most of the work in the metrics side will be done through pull requests to the markdown files containing discussions
 about the metrics used or to be used. This is the same method as when updating the software side of the project.
+
 
 ## Maintainers
 
