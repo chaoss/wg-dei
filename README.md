@@ -95,6 +95,8 @@ about the metrics used or to be used. This is the same method as when updating t
 
 - [Daniel Izquierdo Cortazar](https://github.com/dicortazar)
 - [Emma Irwin](https://github.com/emmairwin)
+- [Dawn Foster](https://github.com/geekygirl)
+- [Georg Link](https://github.com/georglink)
 
 If you'd like to be on our squad, just go through the [issue list](https://github.com/chaoss/wg-diversity-inclusion/issues) and fix some. :tada:
 
