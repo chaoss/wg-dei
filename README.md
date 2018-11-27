@@ -64,13 +64,13 @@ base around this topic.
 
 We are compiling [dimensions of diversity and inclusion](./di_metrics.md) that can be used in the following areas of analysis:
 
-1. [Event Diversity](./focus_areas/events/goal_events.md)
-2. [Contributor Community Diversity](./focus_areas/contribution/goal_contribution.md)
-3. [Communication Inclusivity](./focus_areas/communication/goal_communication.md)
-4. [Recognition of Good Work](./focus_areas/recognition/goal_recognition.md)
-5. [Leadership](./focus_areas/leadership/goal_leadership.md)
-6. [Governance](./focus_areas/governance/goal_governance.md)
-7. [Project Places](./focus_areas/project_and_community/goal_project_and_communities.md)
+1. [Event Diversity](./focus_areas/events/)
+2. [Contributor Community Diversity](./focus_areas/contribution/)
+3. [Communication Inclusivity](./focus_areas/communication/)
+4. [Recognition of Good Work](./focus_areas/recognition/)
+5. [Leadership](./focus_areas/leadership/
+6. [Governance](./focus_areas/governance/)
+7. [Project Places](./focus_areas/project_and_community/)
 
 Each area lists a collection of relevant questions. If you are interested in answering a question for your community, go to the associated resource page where we collect strategies for answering the question.
 
