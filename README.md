@@ -68,7 +68,7 @@ We are compiling [dimensions of diversity and inclusion](./di_metrics.md) that c
 2. [Contributor Community Diversity](./focus_areas/contribution/)
 3. [Communication Inclusivity](./focus_areas/communication/)
 4. [Recognition of Good Work](./focus_areas/recognition/)
-5. [Leadership](./focus_areas/leadership/
+5. [Leadership](./focus_areas/leadership/)
 6. [Governance](./focus_areas/governance/)
 7. [Project Places](./focus_areas/project_and_community/)
 
