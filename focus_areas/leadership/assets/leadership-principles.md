@@ -2,7 +2,7 @@
 [Based on Mozilla's Volunteer Leadership 2018  - Shared Agreements](https://discourse.mozilla.org/t/what-s-next-for-volunteer-leadership-in-2018-shared-agreements/25091)
 
 
-1. **Informal, and formal leadership roles with influence on people and product should should have cycles of review and renewal.**
+1. **Informal, and formal leadership roles with influence on people and product should have cycles of review and renewal.**
 
 We recognize that gatekeeping is a symptom of unchecked, and tenured leadership in open communities.  We also recognize that good leaders become great leaders with opportunity to give and receive constructive feedback.
 
