@@ -113,6 +113,30 @@ People not participating over a 3 month period may be removed as core contributo
 If you'd like to be on our squad, an easy way to start is by going through the 
 [issue list](https://github.com/chaoss/wg-diversity-inclusion/issues) and fixing some. :tada:
 
+**All Contributors**
+Ordered by first name
+
+[Akshita Gupta](https://github.com/akshitac8), 
+Alexander Serebrenik, 
+Brian Proffitt, 
+[Daniel Izquierdo Cortazar](https://github.com/dicortazar), 
+[Dawn Foster](https://github.com/geekygirldawn), 
+[Drashti](https://github.com/drashti4), 
+[Emma Irwin](https://github.com/emmairwin), 
+[Georg Link](https://github.com/georglink), 
+[Jaice Singer Du Mars](https://github.com/jdumars),
+[Joshua R. Simmons](https://github.com/joshsimmons), 
+[Kevin Lumbard](https://github.com/klumb), 
+[Matt Germonprez](https://github.com/germonprez), 
+Nicole Huesman, 
+[Rupa Dachere](https://github.com/rdachere),
+[Shreyas](https://github.com/dunebuggie)
+
+Are you eligible to be on this list? You are if you helped in any capacity, for example: Filed an issue.
+Created a Pull Request. Gave feedback on our work.
+
+
+If you find yourself missing, please create a pull request or reach out to a maintainer. We started to maintain this list after starting the workgroup and are likely missing some of you, also because we lost our email archive. If you find yourself listed here and want to be removed, please create a pull request or ask a maintainer.
 
 ## Related Works
 
