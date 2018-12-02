@@ -91,14 +91,27 @@ Most of the work in the metrics side will be done through pull requests to the m
 about the metrics used or to be used. This is the same method as when updating the software side of the project.
 
 
-## Maintainers
+## Contributors
+
+**Maintainers**
 
 - [Daniel Izquierdo Cortazar](https://github.com/dicortazar)
 - [Emma Irwin](https://github.com/emmairwin)
 - [Dawn Foster](https://github.com/geekygirldawn)
 - [Georg Link](https://github.com/georglink)
 
-If you'd like to be on our squad, just go through the [issue list](https://github.com/chaoss/wg-diversity-inclusion/issues) and fix some. :tada:
+**Core Contributors**
+
+- Matt Germonprez
+- Nicole Huesman
+
+The criteria for becoming a core contributor is to participate at least once per month over a period of 3 months. 
+Participation could include providing feedback in the weekly D&I meetings, providing feedback on docs, or 
+making other contributions on GitHub (commits / issues). 
+People not participating over a 3 month period may be removed as core contributors.
+
+If you'd like to be on our squad, an easy way to start is by going through the 
+[issue list](https://github.com/chaoss/wg-diversity-inclusion/issues) and fixing some. :tada:
 
 
 ## Related Works
