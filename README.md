@@ -104,8 +104,8 @@ about the metrics used or to be used. This is the same method as when updating t
 
 **Core Contributors**
 
-- Matt Germonprez
-- Nicole Huesman
+- [Matt Germonprez](https://github.com/germonprez)
+- [Nicole Huesman](https://github.com/uoduckswtd)
 
 The criteria for becoming a core contributor is to participate at least once per month over a period of 3 months. 
 Participation could include providing feedback in the weekly D&I meetings, providing feedback on docs, or 
@@ -130,12 +130,13 @@ Ordered by first name
 [Joshua R. Simmons](https://github.com/joshsimmons), 
 [Kevin Lumbard](https://github.com/klumb), 
 [Matt Germonprez](https://github.com/germonprez), 
-Nicole Huesman, 
+[Nicole Huesman](https://github.com/uoduckswtd),
 [Rupa Dachere](https://github.com/rdachere),
 [Shreyas](https://github.com/dunebuggie)
 
 Are you eligible to be on this list? You are if you helped in any capacity, for example: Filed an issue.
-Created a Pull Request. Gave feedback on our work.
+Created a Pull Request. Gave feedback on our work. The team will try to update this list monthly,
+but please open an issue or post on the mailing list if we've missed anyone.
 
 
 If you find yourself missing, please create a pull request or reach out to a maintainer. We started to maintain this list after starting the workgroup and are likely missing some of you, also because we lost our email archive. If you find yourself listed here and want to be removed, please create a pull request or ask a maintainer.
