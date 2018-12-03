@@ -93,15 +93,52 @@ Most of the work in the metrics side will be done through pull requests to the m
 about the metrics used or to be used. This is the same method as when updating the software side of the project.
 
 
-## Maintainers
+## Contributors
+
+**Maintainers**
 
 - [Daniel Izquierdo Cortazar](https://github.com/dicortazar)
 - [Emma Irwin](https://github.com/emmairwin)
 - [Dawn Foster](https://github.com/geekygirldawn)
 - [Georg Link](https://github.com/georglink)
 
-If you'd like to be on our squad, just go through the [issue list](https://github.com/chaoss/wg-diversity-inclusion/issues) and fix some. :tada:
+**Core Contributors**
 
+- Matt Germonprez
+- Nicole Huesman
+
+The criteria for becoming a core contributor is to participate at least once per month over a period of 3 months. 
+Participation could include providing feedback in the weekly D&I meetings, providing feedback on docs, or 
+making other contributions on GitHub (commits / issues). 
+People not participating over a 3 month period may be removed as core contributors.
+
+If you'd like to be on our squad, an easy way to start is by going through the 
+[issue list](https://github.com/chaoss/wg-diversity-inclusion/issues) and fixing some. :tada:
+
+**All Contributors**
+Ordered by first name
+
+[Akshita Gupta](https://github.com/akshitac8), 
+[Alexander Serebrenik](https://github.com/aserebrenik), 
+[Brian Proffitt](https://github.com/bproffitt), 
+[Daniel Izquierdo Cortazar](https://github.com/dicortazar), 
+[Dawn Foster](https://github.com/geekygirldawn), 
+[Drashti](https://github.com/drashti4), 
+[Emma Irwin](https://github.com/emmairwin), 
+[Georg Link](https://github.com/georglink), 
+[Jaice Singer Du Mars](https://github.com/jdumars),
+[Joshua R. Simmons](https://github.com/joshsimmons), 
+[Kevin Lumbard](https://github.com/klumb), 
+[Matt Germonprez](https://github.com/germonprez), 
+Nicole Huesman, 
+[Rupa Dachere](https://github.com/rdachere),
+[Shreyas](https://github.com/dunebuggie)
+
+Are you eligible to be on this list? You are if you helped in any capacity, for example: Filed an issue.
+Created a Pull Request. Gave feedback on our work.
+
+
+If you find yourself missing, please create a pull request or reach out to a maintainer. We started to maintain this list after starting the workgroup and are likely missing some of you, also because we lost our email archive. If you find yourself listed here and want to be removed, please create a pull request or ask a maintainer.
 
 ## Related Works
 
