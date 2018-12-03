@@ -35,14 +35,21 @@ NOTE: that the legal, privacy and ethical issues related to asking for, storing 
 13. Identifies as underrepresented (which can include components of above, or be separate)
 
 
-## Goals of analysis
+## Metrics Focus Areas
 
 The following are the areas of analysis:
 
-1. [Event Diversity](./goal_events.md)
-2. [Contributor Community Diversity](./goal_contribution.md)
-3. [Communication Inclusivity](./goal_communication.md)
-4. [Recognition of Good Work](./goal_recognition.md)
-5. [Leadership](./goal_leadership.md)
-6. [Governance](./goal_governance.md)
-7. [Project Places](./goal_project_places.md)
+| Focus Area | Goal |
+| --- | --- |
+|1. [Event Diversity](./focus_areas/events/) | Identify the diversity and inclusion at events. |
+|2. [Contributor Community Diversity](./focus_areas/contribution/) | Identify the diversity of the contributions within a community, and howe those different contributions are valued.|
+|3. [Communication Inclusivity](./focus_areas/communication/) | Identify how we are communicating with contributors, and potential contributors.|
+|4. [Recognition of Good Work](./focus_areas/recognition/) | Identify how we recognize/reward good work in our community.|
+|5. [Leadership](./focus_areas/leadership/) | Identify how healthy our community leadership is.|
+|6. [Governance](./focus_areas/governance/) | Identify how diverse and inclusive our governance is.|
+|7. [Project and Community](./focus_areas/project_and_community/) | Identify how diverse and inclusive our project places, where community engagement occurs, are.|
+
+## Resources
+
+* Diversity exists on a continuum: http://www.nwlink.com/~donclark/leader/continuum.html
+
