@@ -47,7 +47,7 @@ The following are the areas of analysis:
 |4. [Recognition of Good Work](./focus_areas/recognition/) | Identify how we recognize/reward good work in our community.|
 |5. [Leadership](./focus_areas/leadership/) | Identify how healthy our community leadership is.|
 |6. [Governance](./focus_areas/governance/) | Identify how diverse and inclusive our governance is.|
-|7. [Project Places](./focus_areas/project_and_community/) | Identify how diverse and inclusive our project places, where community engagement occurs, are.|
+|7. [Project and Community](./focus_areas/project_and_community/) | Identify how diverse and inclusive our project places, where community engagement occurs, are.|
 
 ## Resources
 
