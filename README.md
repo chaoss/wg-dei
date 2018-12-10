@@ -129,6 +129,7 @@ Ordered by first name
 [Jaice Singer Du Mars](https://github.com/jdumars),
 [Joshua R. Simmons](https://github.com/joshsimmons), 
 [Kevin Lumbard](https://github.com/klumb), 
+[Luis Villa](https://github.com/tieguy), 
 [Matt Germonprez](https://github.com/germonprez), 
 [Nicole Huesman](https://github.com/uoduckswtd),
 [Rupa Dachere](https://github.com/rdachere),
