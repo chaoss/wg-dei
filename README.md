@@ -121,6 +121,7 @@ Ordered by first name
 [Akshita Gupta](https://github.com/akshitac8), 
 [Alexander Serebrenik](https://github.com/aserebrenik), 
 [Brian Proffitt](https://github.com/bproffitt), 
+[Chris Clark](https://github.com/christopherclark),
 [Daniel Izquierdo Cortazar](https://github.com/dicortazar), 
 [Dawn Foster](https://github.com/geekygirldawn), 
 [Drashti](https://github.com/drashti4), 
