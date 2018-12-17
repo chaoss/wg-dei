@@ -135,6 +135,7 @@ Ordered by first name
 [Matt Germonprez](https://github.com/germonprez), 
 [Nicole Huesman](https://github.com/uoduckswtd),
 [Rupa Dachere](https://github.com/rdachere),
+[Sarah Conway](https://github.com/SarahKConway),
 [Shreyas](https://github.com/dunebuggie)
 
 Are you eligible to be on this list? You are if you helped in any capacity, for example: Filed an issue.
