@@ -33,6 +33,7 @@ NOTE: that the legal, privacy and ethical issues related to asking for, storing 
 11. Dis/Ability
 12. Caregiver (child or eldercare)
 13. Identifies as underrepresented (which can include components of above, or be separate)
+14. Paid contributor vs. unpaid volunteer contributor
 
 
 ## Metrics Focus Areas
