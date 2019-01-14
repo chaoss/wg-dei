@@ -134,6 +134,7 @@ Ordered by first name
 [Luis Villa](https://github.com/tieguy), 
 [Matt Germonprez](https://github.com/germonprez), 
 [Nicole Huesman](https://github.com/uoduckswtd),
+[Nithya Ruff](https://github.com/nruff),
 [Rupa Dachere](https://github.com/rdachere),
 [Sarah Conway](https://github.com/SarahKConway),
 [Shreyas](https://github.com/dunebuggie)
