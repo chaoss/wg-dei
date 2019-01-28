@@ -13,7 +13,7 @@ The tech industry has a well-documented representation gap, and this issue is ev
 
 The CHAOSS D&I Working Group has between January 2018 and December 2018:
 
-* established collaboration spaces, including a mailing list, GitHub repository, and weekly calls. 
+* established collaboration spaces, including a mailing list, GitHub repository, and weekly calls.
 * defined 7 focus areas which group metrics.
 * established a template for resource pages that describe why D&I metrics are helpful and how to measure them.
 * filled out an initial 10 resource pages.
@@ -23,6 +23,7 @@ The CHAOSS D&I Working Group has between January 2018 and December 2018:
 ## Opportunity:
 
 For the D&I Working Group, within the CHAOSS project.
+
 CHAOSS mission from website:
 
 > The CHAOSS community is developing metrics, methodologies, and software for expressing open source project health and sustainability. By measuring open source project health and sustainability, CHAOSS seeks to improve the transparency of open source project health and sustainability so that relevant stakeholders can make more informed decisions about open source project engagement.
