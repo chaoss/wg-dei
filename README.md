@@ -29,6 +29,7 @@ The tech industry has a well-documented representation gap, and this issue is ev
 ### Opportunity
 
 For the D&I Working Group, within the CHAOSS project.
+
 CHAOSS mission from website:
 
 > The CHAOSS community is developing metrics, methodologies, and software for expressing open source project health and sustainability. By measuring open source project health and sustainability, CHAOSS seeks to improve the transparency of open source project health and sustainability so that relevant stakeholders can make more informed decisions about open source project engagement.
