@@ -12,7 +12,7 @@ Please feel free to [contribute](https://github.com/chaoss/wg-diversity-inclusio
 
 ## 1. Description
 
-Attendees who represent a variety of [demographics](https://github.com/chaoss/wg-diversity-inclusion/blob/master/di_metrics.md) help an event provide different viewpoints and a broader perspective. Attendees from a variety of different backgrounds feel included and welcome at the event.
+Attendees who represent a variety of [demographics](/demographic-data) help an event provide different viewpoints and a broader perspective. Attendees from a variety of different backgrounds feel included and welcome at the event.
 
 ## 2. Sample Objectives
 - Attendees are from diverse backgrounds.
