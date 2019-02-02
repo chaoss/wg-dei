@@ -7,11 +7,11 @@ We might want to investigate or specifically call out governance model by [arche
 
 Name | Question
 --- | ---
-[Foundation Staff Diversity](foundation_staff_diversity.md) | What is the diversity of foundation staff?
-[Board/Council Diversity](board_council_diversity.md) | What is the diversity within our governing board or council?
+[Foundation Staff Diversity](foundation-staff-diversity.md) | What is the diversity of foundation staff?
+[Board/Council Diversity](board-council-diversity.md) | What is the diversity within our governing board or council?
 [Code of Conduct](code-of-conduct.md) | Is the CoC *and* enforcement process visible, clear and current?
 Code of Conduct Enforcement | Is enforcement process running at scale?(volume, responsiveness, accuracy, fairness ...)
-[Team/Module Ownership Diversity](team_module_ownership_diversity.md) | What is the diversity of other bureaucratic and administrative foundation teams, e.g. working groups, committees, or ambassador groups?
+[Team/Module Ownership Diversity](team-module-ownership-diversity.md) | What is the diversity of other bureaucratic and administrative foundation teams, e.g. working groups, committees, or ambassador groups?
 Path to Influence | What opportunities are there to move into governance?
 
 
