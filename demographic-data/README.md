@@ -42,13 +42,13 @@ The following are the areas of analysis:
 
 | Focus Area | Goal |
 | --- | --- |
-|1. [Event Diversity](../focus_areas/events/) | Identify the diversity and inclusion at events. |
-|2. [Contributor Community Diversity](../focus_areas/contribution/) | Identify the diversity of the contributions within a community, and howe those different contributions are valued.|
-|3. [Communication Inclusivity](../focus_areas/communication/) | Identify how we are communicating with contributors, and potential contributors.|
-|4. [Recognition of Good Work](../focus_areas/recognition/) | Identify how we recognize/reward good work in our community.|
-|5. [Leadership](../focus_areas/leadership/) | Identify how healthy our community leadership is.|
-|6. [Governance](../focus_areas/governance/) | Identify how diverse and inclusive our governance is.|
-|7. [Project and Community](../focus_areas/project_and_community/) | Identify how diverse and inclusive our project places, where community engagement occurs, are.|
+|1. [Event Diversity](../focus-areas/events/) | Identify the diversity and inclusion at events. |
+|2. [Contributor Community Diversity](../focus-areas/contribution/) | Identify the diversity of the contributions within a community, and howe those different contributions are valued.|
+|3. [Communication Inclusivity](../focus-areas/communication/) | Identify how we are communicating with contributors, and potential contributors.|
+|4. [Recognition of Good Work](../focus-areas/recognition/) | Identify how we recognize/reward good work in our community.|
+|5. [Leadership](../focus-areas/leadership/) | Identify how healthy our community leadership is.|
+|6. [Governance](../focus-areas/governance/) | Identify how diverse and inclusive our governance is.|
+|7. [Project and Community](../focus-areas/project-and-community/) | Identify how diverse and inclusive our project places, where community engagement occurs, are.|
 
 ## Resources
 
