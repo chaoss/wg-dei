@@ -1,6 +1,6 @@
 # Metrics Focus Areas
 
-We are compiling [dimensions of diversity and inclusion](./di_metrics.md) that can be used in the following areas of analysis:
+We are compiling [dimensions of diversity and inclusion](/demographic-data) that can be used in the following areas of analysis:
 
 | Focus Area | Goal |
 | --- | --- |

@@ -14,7 +14,7 @@ Please feel free to [contribute](https://github.com/chaoss/wg-diversity-inclusio
 ## 1. Description
 
 _This section provides a rationale for why this question is important to diversity and inclusion._
-_Example for how to use this template: [Documentation](./resources/project_places-documentation.md)_
+_Example for how to use this template: [Documentation](/focus-areas/project-and-community/documentation.md)_
 
 ## 2. Sample Objectives
 
