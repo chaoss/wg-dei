@@ -10,7 +10,7 @@ https://lists.linuxfoundation.org/mailman/listinfo/chaoss-diversity-inclusion
 
 ## Upcoming meetings
 
-- The D&I working group meets every Monday at 9:30am CT (usually 16:30 CET, [check your local time](http://arewemeetingyet.com/Chicago/2018-11-05/09:30/w/CHAOSS%20D%26I%20WG#eyJ1cmwiOiJodHRwczovL3Vub21haGEuem9vbS51cy9qLzcyMDQzMTI4OCJ9)) via [Zoom](https://unomaha.zoom.us/j/720431288).
+- The D&I Working Group meets every Monday at 9:30am CT (usually 16:30 CET, [check your local time](http://arewemeetingyet.com/Chicago/2018-11-05/09:30/w/CHAOSS%20D%26I%20WG#eyJ1cmwiOiJodHRwczovL3Vub21haGEuem9vbS51cy9qLzcyMDQzMTI4OCJ9)) via [Zoom](https://unomaha.zoom.us/j/720431288).
 - Agenda and meeting minutes: http://bit.ly/chaoss-diwg
 
 
