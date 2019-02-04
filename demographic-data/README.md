@@ -18,8 +18,12 @@ Some of the language we use, and what we mean.
 
 ## Dimensions of Demographics
 NOTE: that *how* we might ask these questions, and what potential answers might be are currently out of scope.  
+
 NOTE: that regional appropriateness of demographics is also currently out of scope, and will be its own task.
+
 NOTE: that the legal, privacy and ethical issues related to asking for, storing and visualizing data is currently out of scope, and will be its own task.
+
+NOTE: that paid vs. unpaid contributors can indicate the culture within a project but should not be mistaken for how welcoming a community is towards volunteers.
 
 1. Gender Identity
 2. Sexual orientation
