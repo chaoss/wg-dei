@@ -130,7 +130,8 @@ Ordered by first name
 [Nithya Ruff](https://github.com/nruff),
 [Rupa Dachere](https://github.com/rdachere),
 [Sarah Conway](https://github.com/SarahKConway),
-[Shreyas](https://github.com/dunebuggie)
+[Shreyas](https://github.com/dunebuggie),
+[UTpH](https://github.com/UTpH)
 
 Are you eligible to be on this list? You are if you helped in any capacity, for example: Filed an issue.
 Created a Pull Request. Gave feedback on our work. The team will try to update this list monthly,
