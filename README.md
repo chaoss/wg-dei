@@ -99,6 +99,7 @@ about the metrics used or to be used. This is the same method as when updating t
 
 - [Matt Germonprez](https://github.com/germonprez)
 - [Nicole Huesman](https://github.com/uoduckswtd)
+- [Sarah Conway](https://github.com/SarahKConway)
 
 The criteria for becoming a core contributor is to participate at least once per month over a period of 3 months.
 Participation could include providing feedback in the weekly D&I meetings, providing feedback on docs, or
