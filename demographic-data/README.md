@@ -18,8 +18,10 @@ Some of the language we use, and what we mean.
 
 ## Dimensions of Demographics
 NOTE: that *how* we might ask these questions, and what potential answers might be are currently out of scope.  
-NOTE: that regional appropriateness of demographics is also currently out of scope, and will be its own task.
-NOTE: that the legal, privacy and ethical issues related to asking for, storing and visualizing data is currently out of scope, and will be its own task.
+
+*NOTE:* that regional appropriateness of demographics is also currently out of scope, and will be its own task.
+
+*NOTE:* that the legal, privacy and ethical issues related to asking for, storing and visualizing data is currently out of scope, and will be its own task.
 
 1. Gender Identity
 2. Sexual orientation
@@ -35,6 +37,7 @@ NOTE: that the legal, privacy and ethical issues related to asking for, storing 
 13. Identifies as underrepresented (which can include components of above, or be separate)
 14. Paid contributor vs. unpaid volunteer contributor
 
+*NOTE:* that paid vs. unpaid contributors can be problematic and nuanced from the perspective of diversity and inclusion. Many people who participate as volunteers are coming at it from a position of privilege because they can afford to spend their free time participating in an open source project instead of working a second job to make ends meet, caring for family members, or spending time meeting basic survival needs. In other words, having more volunteer contributors might actually mean that the project is less diverse, rather than more diverse. However, in a corporate sponsored project, involving volunteer contributors could be a sign that the community is welcoming and inclusive.
 
 ## Metrics Focus Areas
 
