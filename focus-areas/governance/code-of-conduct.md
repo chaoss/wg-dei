@@ -8,7 +8,7 @@ Please feel free to [contribute](https://github.com/chaoss/wg-diversity-inclusio
 
 ## Question
 
- Is a Code of Conduct setup to be understood and effective?
+ Is a Code of Conduct set up to be understood and effective?
 
 
 ## 1. Description
