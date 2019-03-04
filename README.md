@@ -112,27 +112,44 @@ If you'd like to be on our squad, an easy way to start is by going through the
 **All Contributors**
 Ordered by first name
 
+[Ahmed Zerouali](https://github.com/neglectos)
 [Akshita Gupta](https://github.com/akshitac8),
 [Alexander Serebrenik](https://github.com/aserebrenik),
+[Ana Jimenez Santamaria](https://github.com/anajsana)
 [Brian Proffitt](https://github.com/bproffitt),
+Camilo Velazquez Rodriguez,
+[Carol Chen](http://github.com//cybette),
 [Chris Clark](https://github.com/christopherclark),
 [Daniel Izquierdo Cortazar](https://github.com/dicortazar),
+Damien Legay,
 [Dawn Foster](https://github.com/geekygirldawn),
 [Drashti](https://github.com/drashti4),
+Eleni Constantinou,
 [Emma Irwin](https://github.com/emmairwin),
+Jeff McAffer,
 [Georg Link](https://github.com/georglink),
 [Jaice Singer Du Mars](https://github.com/jdumars),
+[Jesus Gonzalez-Barahona](https://github.com/jgbarah),
 [Joshua R. Simmons](https://github.com/joshsimmons),
 [Kevin Lumbard](https://github.com/klumb),
+[Kristof Van Tomme](https://github.com/kavantomme),
 [Laura Gaetano](https://github.com/alicetragedy),
+Lars,
 [Luis Villa](https://github.com/tieguy),
+Mark Matyas,
 [Matt Germonprez](https://github.com/germonprez),
+Mike Wu,
 [Nicole Huesman](https://github.com/uoduckswtd),
 [Nithya Ruff](https://github.com/nruff),
+[Remy DeCausemaker](https://github.com/decause),
+Robert Sanchez,
 [Rupa Dachere](https://github.com/rdachere),
 [Sarah Conway](https://github.com/SarahKConway),
+Sharan Foga,
 [Shreyas](https://github.com/dunebuggie),
-[UTpH](https://github.com/UTpH)
+[Tom Mens](https://github.com/tommens),
+[UTpH](https://github.com/UTpH),
+[Victor Coisne](https://github.com/vcoisne)
 
 Are you eligible to be on this list? You are if you helped in any capacity, for example: Filed an issue.
 Created a Pull Request. Gave feedback on our work. The team will try to update this list monthly,
