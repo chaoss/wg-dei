@@ -112,10 +112,10 @@ If you'd like to be on our squad, an easy way to start is by going through the
 **All Contributors**
 Ordered by first name
 
-[Ahmed Zerouali](https://github.com/neglectos)
+[Ahmed Zerouali](https://github.com/neglectos),
 [Akshita Gupta](https://github.com/akshitac8),
 [Alexander Serebrenik](https://github.com/aserebrenik),
-[Ana Jimenez Santamaria](https://github.com/anajsana)
+[Ana Jimenez Santamaria](https://github.com/anajsana),
 [Brian Proffitt](https://github.com/bproffitt),
 Camilo Velazquez Rodriguez,
 [Carol Chen](http://github.com//cybette),
