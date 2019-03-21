@@ -8,8 +8,7 @@ Please feel free to [contribute](https://github.com/chaoss/wg-diversity-inclusio
 
 ## Question
 
- Is a Code of Conduct setup to be understood and effective?
-
+Is the CoC *and* enforcement process visible, clear and current?
 
 ## 1. Description
 
