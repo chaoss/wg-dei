@@ -176,6 +176,8 @@ If you find yourself missing, please create a pull request or reach out to a mai
 
 ## License
 
-Text ([related issue #149](https://github.com/chaoss/wg-diversity-inclusion/issues/149))
+The documents in this repositories are released under the MIT License. See [LICENSE](https://github.com/chaoss/wg-diversity-inclusion/blob/master/LICENSE) for details.
+
+Copyright © 2018-2019 CHAOSS Project
 
 
