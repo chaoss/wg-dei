@@ -1,30 +1,31 @@
-# What is this working group about?
+# Introduction
 
-This working group aims at bringing experiences measuring diversity and inclusion in open source projects.
+Diversity and inclusion are central to the health of open source communities. The CHAOSS Diversity & Inclusion (D&I) Working Group aims at bringing experiences to measure diversity and inclusion consistently across open source projects, supported by software where possible. 
 
+We’ve defined seven (7) [focus areas of metrics](#metrics-focus-areas), and are working on further defining these areas. We’ve also established a roadmap of [2019 objectives](https://github.com/chaoss/wg-diversity-inclusion/blob/master/goals-2019.md) to guide our work.
 
-## Join our Mailing List
+We invite anyone interested in the topic of diversity and inclusion to learn more, and join us. See [Contributing](#contributing) below to join the mailing list, or one of our weekly video calls.
 
-https://lists.linuxfoundation.org/mailman/listinfo/chaoss-diversity-inclusion
+# Table of Contents
 
-
-## Upcoming meetings
-
-- The D&I Working Group meets every Monday at 9:30am CT (usually 16:30 CET, [check your local time](http://arewemeetingyet.com/Chicago/2018-11-05/09:30/w/CHAOSS%20D%26I%20WG#eyJ1cmwiOiJodHRwczovL3Vub21haGEuem9vbS51cy9qLzcyMDQzMTI4OCJ9)) via [Zoom](https://unomaha.zoom.us/j/720431288).
-- Agenda and meeting minutes: http://bit.ly/chaoss-diwg
-
-
-## Roadmap for 2019
-
-We have five Objectives for 2019. [Read more](goals-2019.md).
-
+- [Background](#background)
+  - [Problem Statement](#problem-statement)
+  - [Opportunity](#opportunity)
+  - [Goal](#goal)
+  - [Work to Date](#work-to-date)
+- [Objectives](#objectives)
+- [Metrics Focus Areas](#metrics-focus-areas)
+- [Workflow](#workflow)
+- [Related Works](#related-works)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+- [License](#license)
 
 ## Background
 
 ### Problem Statement
 
 The tech industry has a well-documented representation gap, and this issue is even more prevalent in open source communities. While there has been a marked emphasis on increasing diversity in these communities in recent years, numbers lag and the ability to foster inclusive environments remains challenging. With no standards or best practices for measuring inclusion, contributors, users and project teams lack the opportunity to make ethical, data-driven decisions.
-
 
 ### Opportunity
 
@@ -34,24 +35,26 @@ CHAOSS mission from website:
 
 > The CHAOSS community is developing metrics, methodologies, and software for expressing open source project health and sustainability. By measuring open source project health and sustainability, CHAOSS seeks to improve the transparency of open source project health and sustainability so that relevant stakeholders can make more informed decisions about open source project engagement.
 
-Community health cannot exist without diversity and inclusion. Diversity and inclusion is thus central to the CHAOSS project goals. See Objective 3 for more details on adding D&I to the CHAOSS mission.
-
+Community health cannot exist without diversity and inclusion. Diversity and inclusion is thus central to the CHAOSS project goals. See [Objective 3](https://github.com/chaoss/wg-diversity-inclusion/blob/master/goals-2019.md) for more details on adding D&I to the CHAOSS mission.
 
 ### Goal
 
-The CHAOSS D&I Working Group establishes and broadly communicates an ethical, peer-validated, research-informed, set of standards and best practices for measuring diversity and inclusion in open source projects, and ensures that CHAOSS project software can implement D&I metrics according to identified goals for inclusion with validation from key industry partnerships in open source.
-
+The CHAOSS D&I Working Group establishes and broadly communicates an ethical, peer-validated, research-informed, set of standards and best practices for measuring diversity and inclusion in open source projects, and ensures that CHAOSS project software can implement D&I metrics according to identified goals for inclusion with validation from key industry partnerships in open source. See [2019 objectives](https://github.com/chaoss/wg-diversity-inclusion/blob/master/goals-2019.md) for more detail. 
 
 ### Work To Date
 
-The CHAOSS D&I Working Group has between January 2018 and December 2018:
+Between January and December 2018, the CHAOSS D&I Working Group has:
 
 * established collaboration spaces, including a mailing list, GitHub repository, and weekly calls.
-* defined 7 focus areas which group metrics.
+* defined 7 focus areas, which group metrics.
 * established a template for resource pages that describe why D&I metrics are helpful and how to measure them.
 * filled out an initial 10 resource pages.
 * presented at 5 conferences via presentations, panels, and tutorials.
+* established [2019 objectives](https://github.com/chaoss/wg-diversity-inclusion/blob/master/goals-2019.md).
 
+## Objectives
+
+We have established specific objectives for 2019. Explore them [here](https://github.com/chaoss/wg-diversity-inclusion/blob/master/goals-2019.md).
 
 ## Metrics Focus Areas
 
@@ -69,22 +72,36 @@ We are compiling [dimensions of diversity and inclusion](./demographic-data/) th
 
 Each area lists a collection of relevant questions. If you are interested in answering a question for your community, go to the associated resource page where we collect strategies for answering the question.
 
+## Workflow
 
-## Software Work
+Most of the work in the metrics side will be done through pull requests to the markdown files containing discussions about the metrics used or to be used. This is the same method as when updating the software side of the project.
 
-To be done
+## Related Works
 
+Collection of initiatives and related works that can inform our work or that we can collaborate with.
 
-## How can you help?
+* [Django Girls](https://djangogirls.org/)
+* [GNOME Women](https://wiki.gnome.org/GnomeWomen)
+* [Mozilla Diversity and Inclusion Strategy](https://wiki.mozilla.org/Diversity_and_Inclusion_Strategy) related [OpenSource.com article](https://opensource.com/article/17/9/diversity-and-inclusion-innovation)
+* [Open Demographics](https://github.com/drnikki/open-demographics)
+* [OpenStack Gender Report](http://superuser.openstack.org/articles/bitergia-intel-report/)
+* [OpenStack - ideas for new survey](https://etherpad.openstack.org/p/diversity-survey-spring-2018_draft)
+* [Outreachy](https://www.outreachy.org/)
+* [Women in Linux](http://www.womeninlinux.com/)
+* [Women in OpenStack](https://wiki.openstack.org/wiki/Women_of_OpenStack)
+
+## Contributing
 
 This project is open to anyone interested in the topic of diversity and inclusion. And this includes several areas of work such as **diversity and inclusion** from a broader perspective, mining software repositories, **Python** development,
 **tech writing**, people interested in **speaking** at events and others.
 
-The collaboration guide is still in progress, but a first good step would be to introduce yourself at the [CHAOSS mailing list](https://chaoss.community/participate/#user-content-join-the-mailing-list) explaining a bit your interest.
+The collaboration guide is still in progress, but we’ve provided a few steps as good starting points:
 
-Most of the work in the metrics side will be done through pull requests to the markdown files containing discussions
-about the metrics used or to be used. This is the same method as when updating the software side of the project.
-
+- Introduce yourself on the [CHAOSS D&I WG mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss-diversity-inclusion), and tell us a little bit about your interests.
+- Join us on our weekly video conferences. We meet every Monday at 7:30 am PT / 9:30 am CT (usually 16:30 CET, [check your local time](http://arewemeetingyet.com/Chicago/2018-11-05/09:30/w/CHAOSS%20D%26I%20WG#eyJ1cmwiOiJodHRwczovL3Vub21haGEuem9vbS51cy9qLzcyMDQzMTI4OCJ9)) via [Zoom](https://unomaha.zoom.us/j/720431288). Check out our [agenda and meeting minutes](http://bit.ly/chaoss-diwg).
+- Come see us at upcoming [conferences and workshops](https://chaoss.community/community/#user-content-upcoming-events).
+- Review the Metrics Focus Areas and provide your feedback.
+- Review the [issue list](https://github.com/chaoss/wg-diversity-inclusion/issues) and fix some of the issues.
 
 ## Contributors
 
@@ -98,7 +115,7 @@ about the metrics used or to be used. This is the same method as when updating t
 **Core Contributors**
 
 - [Matt Germonprez](https://github.com/germonprez)
-- [Nicole Huesman](https://github.com/uoduckswtd)
+- [Nicole Huesman](https://github.com/uoduckswtd1)
 - [Sarah Conway](https://github.com/SarahKConway)
 
 The criteria for becoming a core contributor is to participate at least once per month over a period of 3 months.
@@ -139,7 +156,7 @@ Lars,
 Mark Matyas,
 [Matt Germonprez](https://github.com/germonprez),
 Mike Wu,
-[Nicole Huesman](https://github.com/uoduckswtd),
+[Nicole Huesman](https://github.com/uoduckswtd1),
 [Nithya Ruff](https://github.com/nruff),
 [Remy DeCausemaker](https://github.com/decause),
 Robert Sanchez,
@@ -155,19 +172,12 @@ Are you eligible to be on this list? You are if you helped in any capacity, for 
 Created a Pull Request. Gave feedback on our work. The team will try to update this list monthly,
 but please open an issue or post on the mailing list if we've missed anyone.
 
-
 If you find yourself missing, please create a pull request or reach out to a maintainer. We started to maintain this list after starting the working group and are likely missing some of you. If you find yourself listed here and want to be removed, please create a pull request or ask a maintainer.
 
-## Related Works
+## License
 
-Collection of initiatives and related works that can inform our work or that we can collaborate with.
+The documents in this repositories are released under the MIT License. See [LICENSE](https://github.com/chaoss/wg-diversity-inclusion/blob/master/LICENSE) for details.
 
-* [Django Girls](https://djangogirls.org/)
-* [GNOME Women](https://wiki.gnome.org/GnomeWomen)
-* [Mozilla Diversity and Inclusion Strategy](https://wiki.mozilla.org/Diversity_and_Inclusion_Strategy) related [OpenSource.com article](https://opensource.com/article/17/9/diversity-and-inclusion-innovation)
-* [Open Demographics](https://github.com/drnikki/open-demographics)
-* [OpenStack Gender Report](http://superuser.openstack.org/articles/bitergia-intel-report/)
-* [OpenStack - ideas for new survey](https://etherpad.openstack.org/p/diversity-survey-spring-2018_draft)
-* [Outreachy](https://www.outreachy.org/)
-* [Women in Linux](http://www.womeninlinux.com/)
-* [Women in OpenStack](https://wiki.openstack.org/wiki/Women_of_OpenStack)
+Copyright © 2018-2019 CHAOSS Project
+
+
