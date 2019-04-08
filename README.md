@@ -1,4 +1,7 @@
-# Introduction
+# CHAOSS Diversity and Inclusion Working Group
+
+
+## Introduction
 
 Diversity and inclusion are central to the health of open source communities. The CHAOSS Diversity & Inclusion (D&I) Working Group aims at bringing experiences to measure diversity and inclusion consistently across open source projects, supported by software where possible. 
 
@@ -6,7 +9,7 @@ We’ve defined seven (7) [focus areas of metrics](#metrics-focus-areas), and ar
 
 We invite anyone interested in the topic of diversity and inclusion to learn more, and join us. See [Contributing](#contributing) below to join the mailing list, or one of our weekly video calls.
 
-# Table of Contents
+## Table of Contents
 
 - [Background](#background)
   - [Problem Statement](#problem-statement)
