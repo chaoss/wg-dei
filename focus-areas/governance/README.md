@@ -10,7 +10,7 @@ Name | Question
 [Foundation Staff Diversity](foundation-staff-diversity.md) | What is the diversity of foundation staff?
 [Board/Council Diversity](board-council-diversity.md) | What is the diversity within our governing board or council?
 [Code of Conduct](code-of-conduct.md) | Is the CoC *and* enforcement process visible, clear and current?
-Code of Conduct Enforcement | Is enforcement process running at scale?(volume, responsiveness, accuracy, fairness ...)
+[Code of Conduct Enforcement](code-of-conduct-enforcement.md) | Is enforcement process running at scale?(volume, responsiveness, accuracy, fairness ...)
 [Team/Module Ownership Diversity](team-module-ownership-diversity.md) | What is the diversity of other bureaucratic and administrative foundation teams, e.g. working groups, committees, or ambassador groups?
 Path to Influence | What opportunities are there to move into governance?
 
