@@ -1,17 +1,13 @@
 # Event Diversity - Code of Conduct at Event
 
-## Disclaimer / Caveats
-
-**This is a work in process document being used to gather feedback and may not yet represent the views of the CHAOSS project.**
-
-Please feel free to [contribute](https://github.com/chaoss/wg-diversity-inclusion/blob/master/CONTRIBUTING.md) and improve this document.
-
 ## Question
 
-**Question:** Question: How does the Code of Conduct for events support diversity and inclusion?
+**Question:** How does the Code of Conduct for events support diversity and inclusion?
 
 ## 1. Description
 A code of conduct describes rules of good behavior between event participants and what avenues are available when someone violates those expected good behaviors. An event with a code of conduct sends the signal that the organizers are willing to respond to incidences.
+
+An event with a code of conduct sends the signal that the organizers are willing to respond to incidences, which helps people from all backgrounds feel included and comfortable attending the event. Event participants are empowered to report incidences and proactively help mitigate situations of unwanted behavior.
 
 ## 2. Sample Objectives
 - An event organizer wants to make sure they have effective processes in place to deal with misbehaving attendees.
@@ -41,12 +37,16 @@ _Quantitative_
 - Observe whether a code of conduct is posted at an event.
 - As an attendee or event staff, observe whether participants will have an easy time finding a code of conduct posted at the event. Having a code of conduct prominently posted at a registration site may be useful.
 - Survey participants about the code of conduct: 
-  * Likert scale [1-5] item: How well did the event meet your code of conduct expectations.
+  * Likert scale [1-4] item: How well did the event meet your code of conduct expectations.
   * Sample Question: On registration, and during the event were you made aware of the code of conduct and how to report violations? [i]
   * Did the existence of the code of conduct make you feel safer, and more empowered to fully participate at this event? [i]
   * If you reported a violation of the code of conduct, was it resolved to your satisfaction? [i]
 ## 5. Resources
-- TBD
+- https://github.com/python/pycon-code-of-conduct/blob/master/Attendee%20Procedure%20for%20incident%20handling.md
+- https://pycon.blogspot.com/2018/04/code-of-conduct-updates-for-pycon-2018.html
+- https://geekfeminism.wikia.org/wiki/Conference_anti-harassment 
+
+
 
 [i] Some sample questions re-used from the [Mozilla project](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/cpg-follow-up.md).
 
