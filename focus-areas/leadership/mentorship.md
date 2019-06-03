@@ -1,16 +1,8 @@
 # Leadership - Mentorship
 
-
-## Disclaimer / Caveats
-
-**This is a work in process document being used to gather feedback and may not yet represent the views of the CHAOSS project.**
-
-Please feel free to [contribute](https://github.com/chaoss/wg-diversity-inclusion/blob/master/CONTRIBUTING.md) and improve this document.
-
-
 ## Question
 
-**Question:** How effective are our mentorship programs at increasing diversity and inclusion in our project?
+**Question:** How effective are our mentorship programs at supporting diversity and inclusion in our project?
 
 
 ## 1. Description
@@ -49,9 +41,9 @@ _Qualitative_
 - Mentee grew their professional network
 - Mentee has taken on responsibilities within community
 - Mentee contributes to community after end of mentorship project
-- Survey Likert item (1-5): I have found the mentoring experience personally rewarding.
-- Survey Likert item (1-5): I would recommend mentoring for this community.
-- Survey Likert item (1-5): I would recommend mentoring for this community.
+- Survey Likert item (1-4): I have found the mentoring experience personally rewarding.
+- Survey Likert item (1-4): I would recommend mentoring for this community.
+- Survey Likert item (1-4): I would recommend mentoring for this community.
 - Mentor survey feedback:
     * What training did you receive that helped your mentoring activity?
     * What community support was helpful for your mentoring activity?
@@ -68,7 +60,8 @@ _Quantitative_
 - Mentors experience (rounds or years mentored)
 - Geographic distribution of mentees
 - Retention rate of mentees vs the usual retention rate in the community
-- Variety of projects participating in the mentorship program (e.g., in the OpenStack Gender Report a few of them were participating)
+- Variety of projects participating in a mentorship program (e.g., in the OpenStack Gender Report a few of them were participating)
+- Variety of mentorship programs across a project ecosystem targeting different contribution levels (e.g., contribution ladder, onion layers)
 - Number of official mentors in the mentorship programs
     * How many mentors repeat the position in the following years
 
