@@ -11,7 +11,7 @@
 Family friendliness at events can lower the barrier of entry for some attendees by allowing them to bring their family. This could include childcare, activities for children, or tracks at the event targeted at youths and families. 
 
 
-## 2. Sample Objectives
+## 2. Objectives
 
 - An open source project wants to know whether an event is inclusive for attendees with families.
 - An event organizer wants to know whether inviting people who are caregivers know about the availability of these family-oriented activities.
@@ -19,14 +19,14 @@ Family friendliness at events can lower the barrier of entry for some attendees 
 - A parent, guardian, or caregiver, with children under the age of 18, with no option, but to bring their children, evaluate their ability to attend as a family.
 
 
-## 3. Sample Strategies
+## 3. Strategies
 
 - Analyze conference website.
 - Interview conference staff.
 - Survey conference participants
 
 
-## 4. Sample Success Metrics
+## 4. Success Metrics
 
 _Qualitative_
 
