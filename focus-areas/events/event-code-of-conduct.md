@@ -9,20 +9,20 @@ A code of conduct describes rules of good behavior between event participants an
 
 An event with a code of conduct sends the signal that the organizers are willing to respond to incidences, which helps people from all backgrounds feel included and comfortable attending the event. Event participants are empowered to report incidences and proactively help mitigate situations of unwanted behavior.
 
-## 2. Sample Objectives
+## 2. Objectives
 - An event organizer wants to make sure they have effective processes in place to deal with misbehaving attendees.
 - An event organizer wants to make sure that participants have a positive experience at the event.
 - Event participants want to know how to report offensive behavior. 
 - Event participants want to know that they will be safe at an event.
 
-## 3. Sample Strategies
+## 3. Strategies
 - Observe event website for a code of conduct.
 - Observe that code of conduct has a clear avenue for reporting violations at the event.
 - Observe that code of conduct/event website provides information about possible ways to provide support victims of inappropriate behaviour, eventually links to external bodies?
 - Observe whether a code of conduct is posted at an event.
 - Survey participants about the code of conduct.
 
-## 4. Sample Success Metrics
+## 4. Success Metrics
 
 _Qualitative_
 
