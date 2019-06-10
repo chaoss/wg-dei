@@ -13,7 +13,7 @@ Inviting diverse groups of people may be made explicit by offering specific tick
 Diversity access tickets can enable community members to attend events and encourage new members to join. Especially unemployed, underemployed, or otherwise economically disadvantaged people may otherwise be excluded from attending an event. Furthermore, diversity access tickets can encourage additional contributions and ongoing contributions.
 
 
-## 2. Sample Objectives
+## 2. Objectives
 
 - Demonstrate effectiveness of increasing diversity at events.
 - Enable attendees to attend who could not without a discount due to their economic situation.
@@ -21,7 +21,7 @@ Diversity access tickets can enable community members to attend events and encou
 - Track effectiveness of outreach efforts.
 
 
-## 3. Sample Strategies
+## 3. Strategies
 
 - Observe website for availability and pricing of diversity access tickets.
 - Interview organizers to understand where and how the diversity access tickets were allocated (some organizers offer tickets directly to individuals or local groups focused on underrepresented segments, which cannot always be found by looking at the website).
@@ -29,7 +29,7 @@ Diversity access tickets can enable community members to attend events and encou
 - Track attendance numbers based on diversity access tickets.
 
 
-## 4. Sample Success Metrics
+## 4. Success Metrics
 
 _Qualitative_
 
