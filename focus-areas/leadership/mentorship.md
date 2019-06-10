@@ -10,7 +10,7 @@
 Mentorship programs are a vital component in growing and sustaining a community by inviting newcomers to join a community and helping existing members grow within a community, thereby ensuring the health of the overall community. Through mentorship programs, we can invite diverse contributors and create inclusive environments for contributors to grow and ideally give back to the community.
 
 
-## 2. Sample Objectives
+## 2. Objectives
 
 - Increase the number and diversity of new contributors
 - Increase the level of contributions from each contributor, from a quantitative or qualitative perspective
@@ -20,7 +20,7 @@ Mentorship programs are a vital component in growing and sustaining a community 
 - Cultivate a culture of inclusivity through identifying and supporting mentors and mentees
 
 
-## 3. Sample Strategies
+## 3. Strategies
 
 - Ask Foundation members about existing formal or informal mentorship programs
 - Look for people informally mentoring new contributors (e.g., those reviewing newcomers in the code review process)
@@ -31,7 +31,7 @@ Mentorship programs are a vital component in growing and sustaining a community 
 - Collect demographic information from mentors and mentees
 
 
-## 4. Sample Success Metrics
+## 4. Success Metrics
 
 _Qualitative_
 
