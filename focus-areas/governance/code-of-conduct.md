@@ -1,7 +1,5 @@
 # Focus Area: Governance - Code of Conduct
 
-## Disclaimer / Caveats
-
 ## Question
 
 **Question:** How does the Code of Conduct for the project support diversity and inclusion?
