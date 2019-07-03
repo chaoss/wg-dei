@@ -1,5 +1,6 @@
 # Event Diversity - Diversity Access Tickets
 
+[Comment on Release Candidate](https://github.com/chaoss/wg-diversity-inclusion/issues/183)
 
 ## Question
 
@@ -65,5 +66,3 @@ _Quantitative_
 # 5. Resources
 
 - https://diversitytickets.org/
-
-

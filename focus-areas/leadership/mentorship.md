@@ -1,5 +1,7 @@
 # Leadership - Mentorship
 
+[Comment on Release Candidate](https://github.com/chaoss/wg-diversity-inclusion/issues/186)
+
 ## Question
 
 **Question:** How effective are our mentorship programs at supporting diversity and inclusion in our project?
