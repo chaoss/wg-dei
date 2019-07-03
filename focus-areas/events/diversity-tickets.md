@@ -52,6 +52,9 @@ _Quantitative_
   * Where did you advertise diversity access tickets?
   * If any, who sponsored diversity access tickets?
 - Survey participants about perception of diversity access tickets.
+
+Usually, it's a good practice to design a Likert scale with odd numbers, so that participants can give neutral anser or option to opt-out.
+
   * Likert scale [1-4] item: The availability of discounted student [replace with whatever group was invited] tickets was effective in increasing participation of students [or other group].
   * True/False item: I was aware that [this conference] provided diversity access tickets.
   * True/False/Don't Know item: I qualified for a diversity access ticket.
