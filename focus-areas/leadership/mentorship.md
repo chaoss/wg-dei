@@ -65,8 +65,9 @@ _Quantitative_
 - Number of official mentors in the mentorship programs
     * How many mentors repeat the position in the following years
 
+## 5. Known Implementations
 
-## 5. Resources
+## 6. Resources
 
 - _[GSoC Mentor Guide](https://google.github.io/gsocguides/mentor/)_
 - _[GSoC Student Guide](http://google.github.io/gsocguides/student/)_
