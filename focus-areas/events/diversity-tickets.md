@@ -61,8 +61,9 @@ _Quantitative_
   * Count use of different discount codes to track outreach effectiveness and which groups make use of the diversity access tickets. Requires conference registration system that tracks use of discount codes.
   * Count at each event, how many diversity access tickets were sold or given out and compare this to how many participants with those tickets sign-in at the event.
 
+## 5. Known Implementations
 
-# 5. Resources
+## 6. Resources
 
 - https://diversitytickets.org/
 
