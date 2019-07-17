@@ -41,8 +41,10 @@ _Quantitative_
   * Sample Question: On registration, and during the event were you made aware of the code of conduct and how to report violations? [i]
   * Did the existence of the code of conduct make you feel safer, and more empowered to fully participate at this event? [i]
   * If you reported a violation of the code of conduct, was it resolved to your satisfaction? [i]
+  
+## 5. Known Implementations 
 
-## 5. Resources
+## 6. Resources
 - https://github.com/python/pycon-code-of-conduct/blob/master/Attendee%20Procedure%20for%20incident%20handling.md
 - https://pycon.blogspot.com/2018/04/code-of-conduct-updates-for-pycon-2018.html
 - https://geekfeminism.wikia.org/wiki/Conference_anti-harassment 
