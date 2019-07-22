@@ -1,14 +1,15 @@
 # Event Diversity - Family Friendliness
 
+[Comment on Release Candidate](https://github.com/chaoss/wg-diversity-inclusion/issues/185)
 
 ## Question
 
-**Question:** How does enabling families to attend together support diversity and inclusion of the event? 
+**Question:** How does enabling families to attend together support diversity and inclusion of the event?
 
 
 ## 1. Description
 
-Family friendliness at events can lower the barrier of entry for some attendees by allowing them to bring their family. This could include childcare, activities for children, or tracks at the event targeted at youths and families. 
+Family friendliness at events can lower the barrier of entry for some attendees by allowing them to bring their family. This could include childcare, activities for children, or tracks at the event targeted at youths and families.
 
 
 ## 2. Objectives
