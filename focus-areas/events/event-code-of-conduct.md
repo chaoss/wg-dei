@@ -29,8 +29,8 @@ An event with a code of conduct sends the signal that the organizers are willing
 _Qualitative_
 
 - Interview and/or survey participants to understand more about why the event code of conduct did or did not meet their expectations.
-  * Sample question: What can this event do to improve the code of conduct at this event?
-  * Sample question: What are some examples of how this event met or exceeded your code of conduct expectations?
+  * What can this event do to improve the code of conduct at this event?
+  * What are some examples of how this event met or exceeded your code of conduct expectations?
 
 _Quantitative_
 
@@ -40,7 +40,7 @@ _Quantitative_
 - As an attendee or event staff, observe whether participants will have an easy time finding a code of conduct posted at the event. Having a code of conduct prominently posted at a registration site may be useful.
 - Survey participants about the code of conduct:
   * Likert scale [1-4] item: How well did the event meet your code of conduct expectations.
-  * Sample Question: On registration, and during the event were you made aware of the code of conduct and how to report violations? [i]
+  * On registration, and during the event were you made aware of the code of conduct and how to report violations? [i]
   * Did the existence of the code of conduct make you feel safer, and more empowered to fully participate at this event? [i]
   * If you reported a violation of the code of conduct, was it resolved to your satisfaction? [i]
   
