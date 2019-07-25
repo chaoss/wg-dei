@@ -1,7 +1,5 @@
 # Event Diversity - Code of Conduct at Event
 
-[Comment on Release Candidate](https://github.com/chaoss/wg-diversity-inclusion/issues/184)
-
 ## Question
 
 **Question:** How does the Code of Conduct for events support diversity and inclusion?
@@ -43,8 +41,8 @@ _Quantitative_
   * On registration, and during the event were you made aware of the code of conduct and how to report violations? [i]
   * Did the existence of the code of conduct make you feel safer, and more empowered to fully participate at this event? [i]
   * If you reported a violation of the code of conduct, was it resolved to your satisfaction? [i]
-  
-## 5. Known Implementations 
+
+## 5. Known Implementations
 
 ## 6. Resources
 - https://github.com/python/pycon-code-of-conduct/blob/master/Attendee%20Procedure%20for%20incident%20handling.md

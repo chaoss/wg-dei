@@ -1,7 +1,5 @@
 # Focus Area: Governance - Code of Conduct
 
-[Comment on Release Candidate](https://github.com/chaoss/wg-diversity-inclusion/issues/187)
-
 ## Question
 
 **Question:** How does the Code of Conduct for the project support diversity and inclusion?
