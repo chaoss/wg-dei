@@ -1,7 +1,5 @@
 # Event Diversity - Diversity Access Tickets
 
-[Comment on Release Candidate](https://github.com/chaoss/wg-diversity-inclusion/issues/183)
-
 ## Question
 
 **Question:** How are Diversity Access Tickets used to support diversity and inclusion for an event?

@@ -1,7 +1,5 @@
 # Event Diversity - Family Friendliness
 
-[Comment on Release Candidate](https://github.com/chaoss/wg-diversity-inclusion/issues/185)
-
 ## Question
 
 **Question:** How does enabling families to attend together support diversity and inclusion of the event?
