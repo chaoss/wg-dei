@@ -38,9 +38,9 @@ _Qualitative_
 _Quantitative_
 
 - Survey conference participants
-  * Likert scale [1-4] item: How family friendly is the event?
-  * Likert scale [1-4] item: Anyone can bring their children to the event and know that they have things to do.
-  * Likert scale [1-4] item: Children have a place at the conference to play without disturbing other attendees.
+  * Likert scale [1-x] item: How family friendly is the event?
+  * Likert scale [1-x] item: Anyone can bring their children to the event and know that they have things to do.
+  * Likert scale [1-x] item: Children have a place at the conference to play without disturbing other attendees.
 - Analyze conference website [check list]
   * Does the conference promote having a mother’s room?
   * Does the conference promote activities for children and youth?
