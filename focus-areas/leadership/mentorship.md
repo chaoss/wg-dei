@@ -1,16 +1,15 @@
 # Leadership - Mentorship
 
-## Question
 
-**Question:** How effective are our mentorship programs at supporting diversity and inclusion in our project?
+Question: How effective are our mentorship programs at supporting diversity and inclusion in our project?
 
 
-## 1. Description
+## Description
 
 Mentorship programs are a vital component in growing and sustaining a community by inviting newcomers to join a community and helping existing members grow within a community, thereby ensuring the health of the overall community. Through mentorship programs, we can invite diverse contributors and create inclusive environments for contributors to grow and ideally give back to the community.
 
 
-## 2. Objectives
+## Objectives
 
 - Increase the number and diversity of new contributors
 - Increase the level of contributions from each contributor, from a quantitative or qualitative perspective
@@ -20,7 +19,7 @@ Mentorship programs are a vital component in growing and sustaining a community 
 - Cultivate a culture of inclusivity through identifying and supporting mentors and mentees
 
 
-## 3. Strategies
+## Strategies
 
 - Ask Foundation members about existing formal or informal mentorship programs
 - Look for people informally mentoring new contributors (e.g., those reviewing newcomers in the code review process)
@@ -41,9 +40,9 @@ _Qualitative_
 - Mentee grew their professional network
 - Mentee has taken on responsibilities within community
 - Mentee contributes to community after end of mentorship project
-- Survey Likert item (1-4): I have found the mentoring experience personally rewarding.
-- Survey Likert item (1-4): I would recommend mentoring for this community.
-- Survey Likert item (1-4): I would recommend mentoring for this community.
+- Survey Likert item (1-x): I have found the mentoring experience personally rewarding.
+- Survey Likert item (1-x): I would recommend mentoring for this community.
+- Survey Likert item (1-x): I would recommend mentoring for this community.
 - Mentor survey feedback:
     * What training did you receive that helped your mentoring activity?
     * What community support was helpful for your mentoring activity?
@@ -65,9 +64,9 @@ _Quantitative_
 - Number of official mentors in the mentorship programs
     * How many mentors repeat the position in the following years
 
-## 5. Known Implementations
+## Known Implementations
 
-## 6. Resources
+## Resources
 
 - _[GSoC Mentor Guide](https://google.github.io/gsocguides/mentor/)_
 - _[GSoC Student Guide](http://google.github.io/gsocguides/student/)_
