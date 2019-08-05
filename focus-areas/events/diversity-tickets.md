@@ -1,4 +1,4 @@
-# Event Diversity - Diversity Access Tickets
+# Diversity Access Tickets
 
 Question: How are Diversity Access Tickets used to support diversity and inclusion for an event?
 
