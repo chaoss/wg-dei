@@ -1,61 +1,74 @@
-# Focus Area: Governance - Code of Conduct for Project
+# Leadership - Mentorship
 
-Question: How does the Code of Conduct for the project support diversity and inclusion?
+
+Question: How effective are our mentorship programs at supporting diversity and inclusion in our project?
+
 
 ## Description
 
-A code of conduct signals to project members what behavior is acceptable. A code of conduct also provides enforcement mechanisms to deal with people who misbehave.
+Mentorship programs are a vital component in growing and sustaining a community by inviting newcomers to join a community and helping existing members grow within a community, thereby ensuring the health of the overall community. Through mentorship programs, we can invite diverse contributors and create inclusive environments for contributors to grow and ideally give back to the community.
 
 
-## Sample Objectives
+## Objectives
 
-- A project member wants to know that a community takes diversity and inclusion seriously.
-- A new contributor wants to evaluate a community for diverse and inclusive design, before investing any time in that project.
-- A person wants to identify whether or not their demographic is protected prior to participating in a project.
-- A grant, or award program wants to ensure that a project/org takes diversity and inclusion seriously by requiring the existence of a Code of Conduct.
-- An open source project, or other technology company/org wants to ensure their partnerships, and allies take diversity and inclusion seriously as it can impact their own reputation and community health.
-- A project member who experiences a violation needs to understand how to report the behavior.
-- A project member, or event participant wants to see that the code of conduct is being enforced; and not just the potential for enforcement.
-
+- Increase the number and diversity of new contributors
+- Increase the level of contributions from each contributor, from a quantitative or qualitative perspective
+- Increase the number of and diversity of contributors, encouraging them to grow into new roles with increasing responsibility within a community, e.g. from newcomers to contributing more extensively and becoming core reviewers, and ultimately, growing into maintainer roles within a community, or those who are more seasoned and moving into roles within new communities
+- Increase the number of advocates/evangelists for a project
+- Increase the number of paid mentors and mentees
+- Cultivate a culture of inclusivity through identifying and supporting mentors and mentees
 
 
-## Sample Strategies
+## Strategies
 
-- Identify the location of the code of conduct as it pertains to primary areas of interaction and participation in projects and events (i.e., repo root, event entrance, communication channels).
-- Survey project members about their perception of how a code of conduct influences their participation and sense of safety.
-- Follow-up survey for reporting, around discoverability, clarity, and relevance.
+- Ask Foundation members about existing formal or informal mentorship programs
+- Look for people informally mentoring new contributors (e.g., those reviewing newcomers in the code review process)
+- Survey mentors and mentees
+- Interview mentors and mentees
+- Observe contributions that mentees make during and after the mentorship program
+- Observe trajectory of mentees within project during and after mentorship program
+- Collect demographic information from mentors and mentees
 
 
-
-## Sample Success Metrics
+## Success Metrics
 
 _Qualitative_
 
-- Code of Conduct passes Mozilla’s Code of Conduct Assessment Tool
-- Interview and/or survey community members to understand more about why the code of conduct does or does not meet their expectations.
-  * What can the project do to improve the code of conduct?
-  * What are some examples of how this community met or exceeded your code of conduct expectations?
-
+- Mentee became a subject matter expert
+- Mentee is integrated in community
+- Mentee is comfortable asking for help from anyone in the community
+- Mentee grew their professional network
+- Mentee has taken on responsibilities within community
+- Mentee contributes to community after end of mentorship project
+- Survey Likert item (1-x): I have found the mentoring experience personally rewarding.
+- Survey Likert item (1-x): I would recommend mentoring for this community.
+- Survey Likert item (1-x): I would recommend mentoring for this community.
+- Mentor survey feedback:
+    * What training did you receive that helped your mentoring activity?
+    * What community support was helpful for your mentoring activity?
+    * What communication channels did you use for mentoring?
+    * What are the first things you do with a new mentee?
 
 _Quantitative_
 
-- Browse the project website. If code of conduct is posted and there is a clear avenue for reporting violations, this criteria is fulfilled. (Note: ideally, the code of conduct would be discoverable)
-- Survey participants about the code of conduct:
-  * Likert scale [1-x] item: How well did the project meet your code of conduct expectations?
-  * Likert scale [1-x] item: How clear are you on the rights and responsibilites of community members as described in the code of conduct?
-  * Were you made aware of the code of conduct and how to report violations? [i]
-  * Did the existence of the code of conduct make you feel safer, and more empowered to fully participate in this project? [i]
-  * If you reported a violation of the code of conduct, was it resolved to your satisfaction? [i]
-
+- Number of mentees who finished a mentorship program (assumes a time/project bound mentorship program like GSoC, Outreachy, or CommunityBridge)
+- Number of mentees who started mentorship
+- Number of mentors in community
+- Number of diverse mentees
+- Number of contributions from mentees
+- Mentors experience (rounds or years mentored)
+- Geographic distribution of mentees
+- Retention rate of mentees vs the usual retention rate in the community
+- Variety of projects participating in a mentorship program (e.g., in the OpenStack Gender Report a few of them were participating)
+- Variety of mentorship programs across a project ecosystem targeting different contribution levels (e.g., contribution ladder, onion layers)
+- Number of official mentors in the mentorship programs
+    * How many mentors repeat the position in the following years
 
 ## Known Implementations
 
-* [Mozilla Code of Conduct Assessment Tool](https://mozilla.github.io/diversity-coc-review.io/)
-
-
 ## Resources
 
-- [CHAOSS metric: Code of Conduct at Events](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/event-code-of-conduct.md)
-
-
-[i] Some sample questions re-used from the Mozilla project.
+- _[GSoC Mentor Guide](https://google.github.io/gsocguides/mentor/)_
+- _[GSoC Student Guide](http://google.github.io/gsocguides/student/)_
+- _Esther Schindler, 2009. [Mentoring in Open Source Communities: What Works? What Doesn't?](https://www.itworld.com/article/2768355/mentoring-in-open-source-communities--what-works--what-doesn-t-.html) _
+- _[OpenStack Gender Report: Mentorship focused](https://superuser.openstack.org/wp-content/uploads/2018/06/Gender-Diversity-Analysis-in-the-OpenStack-Community-2018.pdf)_
