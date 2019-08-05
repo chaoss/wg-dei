@@ -70,5 +70,5 @@ _Quantitative_
 
 - _[GSoC Mentor Guide](https://google.github.io/gsocguides/mentor/)_
 - _[GSoC Student Guide](http://google.github.io/gsocguides/student/)_
-- _Esther Schindler, 2009. [Mentoring in Open Source Communities: What Works? What Doesn't?](https://www.itworld.com/article/2768355/mentoring-in-open-source-communities--what-works--what-doesn-t-.html) _
+- _Esther Schindler, 2009. [Mentoring in Open Source Communities: What Works? What Doesn't?](https://www.itworld.com/article/2768355/mentoring-in-open-source-communities--what-works--what-doesn-t-.html)_
 - _[OpenStack Gender Report: Mentorship focused](https://superuser.openstack.org/wp-content/uploads/2018/06/Gender-Diversity-Analysis-in-the-OpenStack-Community-2018.pdf)_
