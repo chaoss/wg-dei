@@ -1,15 +1,13 @@
-# Focus Area: Governance - Code of Conduct
+# Code of Conduct for Project
 
-## Question
+Question: How does the Code of Conduct for the project support diversity and inclusion?
 
-**Question:** How does the Code of Conduct for the project support diversity and inclusion?
-
-## 1. Description
+## Description
 
 A code of conduct signals to project members what behavior is acceptable. A code of conduct also provides enforcement mechanisms to deal with people who misbehave.
 
 
-## 2. Sample Objectives
+## Sample Objectives
 
 - A project member wants to know that a community takes diversity and inclusion seriously.
 - A new contributor wants to evaluate a community for diverse and inclusive design, before investing any time in that project.
@@ -21,7 +19,7 @@ A code of conduct signals to project members what behavior is acceptable. A code
 
 
 
-## 3. Sample Strategies
+## Sample Strategies
 
 - Identify the location of the code of conduct as it pertains to primary areas of interaction and participation in projects and events (i.e., repo root, event entrance, communication channels).
 - Survey project members about their perception of how a code of conduct influences their participation and sense of safety.
@@ -29,7 +27,7 @@ A code of conduct signals to project members what behavior is acceptable. A code
 
 
 
-## 4. Sample Success Metrics
+## Sample Success Metrics
 
 _Qualitative_
 
@@ -43,18 +41,19 @@ _Quantitative_
 
 - Browse the project website. If code of conduct is posted and there is a clear avenue for reporting violations, this criteria is fulfilled. (Note: ideally, the code of conduct would be discoverable)
 - Survey participants about the code of conduct:
-  * Likert scale [1-4] item: How well did the project meet your code of conduct expectations.
+  * Likert scale [1-x] item: How well did the project meet your code of conduct expectations?
+  * Likert scale [1-x] item: How clear are you on the rights and responsibilites of community members as described in the code of conduct?
   * Were you made aware of the code of conduct and how to report violations? [i]
   * Did the existence of the code of conduct make you feel safer, and more empowered to fully participate in this project? [i]
   * If you reported a violation of the code of conduct, was it resolved to your satisfaction? [i]
 
 
-## 5. Known Implementations
+## Known Implementations
 
 * [Mozilla Code of Conduct Assessment Tool](https://mozilla.github.io/diversity-coc-review.io/)
 
 
-## 6. Resources
+## Resources
 
 - [CHAOSS metric: Code of Conduct at Events](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/event-code-of-conduct.md)
 
