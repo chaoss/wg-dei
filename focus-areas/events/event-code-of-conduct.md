@@ -1,4 +1,4 @@
-# Event Diversity - Code of Conduct at Event
+# Code of Conduct at Event
 
 Question: How does the Code of Conduct for events support diversity and inclusion?
 
