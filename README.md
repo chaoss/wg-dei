@@ -136,6 +136,7 @@ Ordered by first name
 [Akshita Gupta](https://github.com/akshitac8),
 [Alexander Serebrenik](https://github.com/aserebrenik),
 [Ana Jimenez Santamaria](https://github.com/anajsana),
+Anita Sarma,
 [Brian Proffitt](https://github.com/bproffitt),
 Camilo Velazquez Rodriguez,
 [Carol Chen](http://github.com//cybette),
