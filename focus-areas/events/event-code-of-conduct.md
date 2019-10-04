@@ -44,9 +44,10 @@ _Quantitative_
 ## Known Implementations
 
 ## Resources
-- https://github.com/python/pycon-code-of-conduct/blob/master/Attendee%20Procedure%20for%20incident%20handling.md
-- https://pycon.blogspot.com/2018/04/code-of-conduct-updates-for-pycon-2018.html
-- https://geekfeminism.wikia.org/wiki/Conference_anti-harassment
+- [Attendee Procedure For Incident Handling](https://github.com/python/pycon-code-of-conduct/blob/master/Attendee%20Procedure%20for%20incident%20handling.md)
+- [2018 Pycon Code Of Conduct](https://pycon.blogspot.com/2018/04/code-of-conduct-updates-for-pycon-2018.html)
+- [Conference anti-harassment](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment)
+- [Women In Tech Manifesto](https://manifestedesfemmesentech.com/en/code-of-conduct-template)
 
 
 
