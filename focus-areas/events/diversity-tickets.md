@@ -63,3 +63,4 @@ _Quantitative_
 ## Resources
 
 - https://diversitytickets.org/
+- https://internetfreedomfestival.org/internet-freedom-festival-diversity-inclusion-fund/
