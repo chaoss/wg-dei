@@ -13,27 +13,28 @@ An event with a code of conduct sends the signal that the organizers are willing
 - Event participants want to know how to report offensive behavior.
 - Event participants want to know that they will be safe at an event.
 
-## Strategies
-- Observe event website for a code of conduct.
-- Observe that code of conduct has a clear avenue for reporting violations at the event.
-- Observe that code of conduct/event website provides information about possible ways to provide support victims of inappropriate behaviour, eventually links to external bodies?
+## Implementation
+
+## Data Collection Strategies
+
 - Observe whether a code of conduct is posted at an event.
 - Survey participants about the code of conduct.
 
 ## Success Metrics
-
-_Qualitative_
 
 - Interview and/or survey participants to understand more about why the event code of conduct did or did not meet their expectations.
   * What can this event do to improve the code of conduct at this event?
   * What are some examples of how this event met or exceeded your code of conduct expectations?
   * Are participants required to accept the code of conduct before completing registration?
 
-_Quantitative_
-
 - Observe event website for a code of conduct.
+
+- Observe that code of conduct has a clear avenue for reporting violations at the event.
+
+- Observe that code of conduct/event website provides information about possible ways to provide support victims of inappropriate behaviour, eventually links to external bodies?
+
 - Browse the event website. If code of conduct is posted and there is a clear avenue for reporting violations at the event, this criteria is fulfilled. (Note: ideally, the code of conduct would be discoverable)
-- Observe whether a code of conduct is posted at an event.
+
 - As an attendee or event staff, observe whether participants will have an easy time finding a code of conduct posted at the event. Having a code of conduct prominently posted at a registration site may be useful.
 - Survey participants about the code of conduct:
   * Likert scale [1-x] item: How well did the event meet your code of conduct expectations.
@@ -41,14 +42,10 @@ _Quantitative_
   * Did the existence of the code of conduct make you feel safer, and more empowered to fully participate at this event? [i]
   * If you reported a violation of the code of conduct, was it resolved to your satisfaction? [i]
 
-## Known Implementations
-
 ## Resources
 - [Attendee Procedure For Incident Handling](https://github.com/python/pycon-code-of-conduct/blob/master/Attendee%20Procedure%20for%20incident%20handling.md)
 - [2018 Pycon Code Of Conduct](https://pycon.blogspot.com/2018/04/code-of-conduct-updates-for-pycon-2018.html)
 - [Conference anti-harassment](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment)
 - [Women In Tech Manifesto](https://manifestedesfemmesentech.com/en/code-of-conduct-template)
-
-
 
 [i] Some sample questions re-used from the [Mozilla project](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/cpg-follow-up.md).
