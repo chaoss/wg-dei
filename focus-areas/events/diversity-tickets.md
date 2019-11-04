@@ -21,9 +21,6 @@ Diversity access tickets can enable community members to attend events and encou
 
 ### Data Collection Strategies
 
-- Interview organizers:
-  * How were the diversity access tickets allocated?
-
 - Observe website for availability and pricing of diversity access tickets.
   * How many (different) diversity access tickets are available?
   * What are the criteria for qualifying for a diversity access ticket?
@@ -33,6 +30,7 @@ Diversity access tickets can enable community members to attend events and encou
   * Are numbers from previous conferences displayed on website about how many diversity access tickets were used?
 
 - Interview organizers:
+  * How were the diversity access tickets allocated?
   * How many (different) diversity access tickets are available?
   * What are the criteria for qualifying for a diversity access ticket?
   * How many attendees used diversity access tickets?
