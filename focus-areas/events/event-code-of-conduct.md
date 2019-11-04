@@ -24,6 +24,8 @@ An event with a code of conduct sends the signal that the organizers are willing
 
 - Observe event website for a code of conduct.
 
+- Observe whether a code of conduct is posted at an event.
+
 - Observe that code of conduct has a clear avenue for reporting violations at the event.
 
 - Observe that code of conduct/event website provides information about possible ways to provide support victims of inappropriate behaviour, eventually links to external bodies?
