@@ -1,7 +1,5 @@
 # Category: Diversity and Inclusion
 
-Goal: Identify the diversity and inclusion within a project.
-
 ## Definitions
 Some of the language we use, and what we mean.
 
