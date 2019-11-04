@@ -15,12 +15,7 @@ An event with a code of conduct sends the signal that the organizers are willing
 
 ## Implementation
 
-## Data Collection Strategies
-
-- Observe whether a code of conduct is posted at an event.
-- Survey participants about the code of conduct.
-
-## Success Metrics
+### Data Collection Strategies
 
 - Interview and/or survey participants to understand more about why the event code of conduct did or did not meet their expectations.
   * What can this event do to improve the code of conduct at this event?
@@ -36,6 +31,7 @@ An event with a code of conduct sends the signal that the organizers are willing
 - Browse the event website. If code of conduct is posted and there is a clear avenue for reporting violations at the event, this criteria is fulfilled. (Note: ideally, the code of conduct would be discoverable)
 
 - As an attendee or event staff, observe whether participants will have an easy time finding a code of conduct posted at the event. Having a code of conduct prominently posted at a registration site may be useful.
+
 - Survey participants about the code of conduct:
   * Likert scale [1-x] item: How well did the event meet your code of conduct expectations.
   * On registration, and during the event were you made aware of the code of conduct and how to report violations? [i]
