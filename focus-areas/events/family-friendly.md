@@ -17,7 +17,7 @@ Family friendliness at events can lower the barrier of entry for some attendees 
 
 ## Implementation 
 
-## Data Collection Strategies
+### Data Collection Strategies
 
 - Interview conference staff
   * Question: What services does the conference have for attendees who have children to take care of?
