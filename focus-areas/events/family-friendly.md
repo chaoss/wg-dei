@@ -15,17 +15,9 @@ Family friendliness at events can lower the barrier of entry for some attendees 
 - A parent, guardian, or caregiver with children under the age of 18, want to know if they can bring their children.
 - A parent, guardian, or caregiver, with children under the age of 18, with no option, but to bring their children, evaluate their ability to attend as a family.
 
+## Implementation 
 
-## Strategies
-
-- Analyze conference website.
-- Interview conference staff.
-- Survey conference participants
-
-
-## Success Metrics
-
-_Qualitative_
+## Data Collection Strategies
 
 - Interview conference staff
   * Question: What services does the conference have for attendees who have children to take care of?
@@ -35,20 +27,17 @@ _Qualitative_
   * Question: Are there activities and care that support tweens/teens (youth) and not only young children.
   * Question: Do you have special sessions for children? If yes, describe.
 
-_Quantitative_
-
 - Survey conference participants
   * Likert scale [1-x] item: How family friendly is the event?
   * Likert scale [1-x] item: Anyone can bring their children to the event and know that they have things to do.
   * Likert scale [1-x] item: Children have a place at the conference to play without disturbing other attendees.
+
 - Analyze conference website [check list]
   * Does the conference promote having a mother’s room?
   * Does the conference promote activities for children and youth?
   * Does the conference promote family-oriented activities?
   * Does the conference explicitly invite attendees to bring their children?
   * Does the conference offer childcare, including youth space?
-
-## Known Implementations
 
 ## Resources
 - [Childcare at Conferences Toolkit by Adacare](https://adacamp.org/adacamp-toolkit/childcare/)
