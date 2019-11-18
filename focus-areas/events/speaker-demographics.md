@@ -1,46 +1,44 @@
-# Event Diversity - Speaker Demographics
+# Speaker Demographics
 
-## Disclaimer / Caveats
+Question: How well does the speaker lineup for the event represent a diverse set of demographics and can be improved in the future?
 
-**This is a work in process document being used to gather feedback and may not yet represent the views of the CHAOSS project.**
 
-Please feel free to [contribute](https://github.com/chaoss/wg-diversity-inclusion/blob/master/CONTRIBUTING.md) and improve this document.
+## Description
 
-## Question
+Speakers with diverse backgrounds who represent a variety of [demographics](/demographic-data) help an event provide different viewpoints and broader perspectives. Events with diverse speakers allow people from a variety of different backgrounds to feel more included in an event when they see people with similar demographics in important positions within the community. 
 
-**Question:** How well does the speaker lineup for the event represent a diverse set of demographics?
 
-## 1. Description
+## Objectives
 
-Speakers with diverse backgrounds who represent a [variety of demographics](/demographic-data) help an event provide different viewpoints and a broader perspective. Events with diverse speakers allow people from a variety of different backgrounds feel more included in an event when they see people with similar characteristics in a position of authority (speaking).
-
-## 2. Sample Objectives
-- Speakers are from diverse backgrounds.
+- Speakers are from diverse [backgrounds](/demographic-data).
 - Speakers are diverse when grouped by keynotes, sessions, and tracks.
 - Repeat speakers are from diverse backgrounds (retention). 
 
-## 3. Sample Strategies
-- Review conference website to gather data.
-- Survey and / or interview speakers and attendees.
-- Diverse proposals submitted compared to those who were accepted
-- Registration data or event organizers may be able to provide data/stats
 
-## 4. Sample Success Metrics
+## Implementation
 
-_Qualitative_
+### Filters
 
-- Interview speakers and attendees to understand more about why the speakers did or did not meet their diversity and inclusion expectations.
-  * Interview question (ask speakers): What can we do to improve the diversity and inclusion of speakers at this event?
-  * Interview question (ask all attendees): Did you feel represented by the speakers?
+- [demographics](/demographic-data): Some subjective questions should be analyzed in light of the responder’s demographics. Everyone has a different perspective. Investigating the responses for each group of demographics can indicate whether some demographics feel less included than the average.
+- Keynotes, sessions, and tracks
 
-_Quantitative_
 
-- Survey speakers and attendees to learn to what extent the event met their diversity and inclusion expectations.
-  * Interview question (ask all attendees): How well did the event meet your diversity and inclusion expectations? (likert scale (e.g., 1-5) answer)
+### Data Collection Strategies
+
+- Interview speakers and attendees to understand more about why the speakers did or did not meet their diversity and inclusion expectations. Sample questions include: 
+  * Interview question: What can we do to improve the diversity and inclusion of speakers at this event?
+  * Interview question: Did you feel represented by the speakers?
+
+- Survey speakers and attendees to learn to what extent the event met their diversity and inclusion expectations. Sample questions include:
+  * Likert scale [1-x] item: How well did the speaker lineup meet your diversity and inclusion expectations?
+  * Likert scale [1-x] item: In light of your diversity and inclusion experience, how likely are you to recommend this event to speakers?
+
 - Use the event website, registration data, and other available details about speakers to quantify speaker diversity.
+  * Compare proposals submitted by speakers from diverse backgrounds to accepted proposals 
+  * Explore registration data or contact event organizers to provide data/stats regarding speaker demographics 
   * Other details may include speakers’ twitter account, listed pronouns, descriptions, or other speaking engagements.
 
-## 5. Resources
-- TBD
 
+## Resources
 
+none
