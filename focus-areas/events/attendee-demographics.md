@@ -1,44 +1,43 @@
-# Event Diversity - Attendees Demographics
+# Attendees Demographics
 
-## Disclaimer / Caveats
+Question: How diverse and inclusive are the attendees?
 
-**This is a work in process document being used to gather feedback and may not yet represent the views of the CHAOSS project.**
 
-Please feel free to [contribute](https://github.com/chaoss/wg-diversity-inclusion/blob/master/CONTRIBUTING.md) and improve this document.
+## Description
 
-## Question
+Attendee [demographics](/demographic-data) help indicate the potential for different viewpoints and broader perspectives at an event. 
 
-**Question:** How diverse are the attendees?
 
-## 1. Description
+## Objectives
 
-Attendees who represent a variety of [demographics](/demographic-data) help an event provide different viewpoints and a broader perspective. Attendees from a variety of different backgrounds feel included and welcome at the event.
+Determine if attendees are from diverse backgrounds. 
+Determine if the diversity is shared across different event spaces like sessions and tracks. 
+Help retain attendees from diverse backgrounds for future events. 
 
-## 2. Sample Objectives
-- Attendees are from diverse backgrounds.
-- Attendees are diverse when grouped by sessions and tracks.
-- Repeat attendees are from diverse backgrounds (retention).
 
-## 3. Sample Strategies
-- Analyze registration data for attendee demographics.
-- Survey and / or interview attendees.
+## Implementation
 
-## 4. Sample Success Metrics
+### Filters
 
-_Qualitative_
+- [demographics](/demographic-data): Some subjective questions should be analyzed in light of the responder’s demographics. Everyone has a different perspective. Investigating the responses for each group of demographics can indicate whether some demographics feel less included than the average.
+- Keynotes, sessions, and tracks
+
+
+### Data Collection Strategies 
 
 - Interview attendees to understand more about why the event did or did not meet their diversity and inclusion expectations.
-- Interview question: What can this event do to improve the diversity and inclusion at this event?
-- Interview question: What are some examples of how this event met or exceeded your diversity and inclusion expectations?
+  * Interview question: What can this event do to improve the diversity and inclusion at this event?
+  * Interview question: What are some examples of how this event met, exceeded, or fell short of your diversity and inclusion expectations?
 
-_Quantitative_
+- Survey speakers and attendees to learn to what extent the event met their diversity and inclusion expectations. Sample questions include: 
+  * Likert scale [1-x] item (ask all attendees): How well did the event meet your diversity and inclusion expectations?
+  * Likert scale [1-x] item (ask all attendees): How was your diversity and inclusion experience at this event?
 
-- Survey speakers and attendees to learn to what extent the event met their diversity and inclusion expectations.
-  * Likert scale [1-5] item (ask all attendees): How well did the event meet your diversity and inclusion expectations?
-- Quantify demographics of attendees.
+- Quantify the demographics of attendees.
   * Use registration data for attendee demographics (if available).
-  * Use the survey to gather attendee demographics.
+  * Use a survey to gather attendee demographics. (For example, using the [Open Demographics questions](http://nikkistevens.com/open-demographics/))
+  
+  
+## Resources
 
-## 5. Resources
-- TBD
-
+none
