@@ -1,46 +1,28 @@
 # Governance - Board/Council Diversity
 
-## Disclaimer / Caveats
+Question: What is the diversity within our governing board or council?
 
-**This is a work in process document being used to gather feedback and may not yet represent the views of the CHAOSS project.**
+## Description
 
-Please feel free to [contribute](https://github.com/chaoss/wg-diversity-inclusion/blob/master/CONTRIBUTING.md) and improve this document.
+A governance board or council comprises a group of people who steer an open source project. Diversity in this important group is beneficial to signal that the project embraces diversity and that leadership roles are available to everyone. A diverse board or council also increases the chance that issues of members of a diverse background are heard and understood.
 
-## Question
+## Objectives
 
-**Question**: What is the diversity within our governing board or council?
+A project member needs to know that someone on the board or council is representing their interests. A board or council wants to make sure that it is not living in an echo chamber. Having a diverse board or council helps others to see themselves reflected and advance in their careers. This metric helps the board to be aware of the current situation of the diversity of the board if compared to other areas such as technical leaders or the community itself.
 
-## 1. Description
+## Implementation
 
-A governance board or council comprise a group of people who steer an open source project. Diversity in this important group is beneficial to signal that the project embraces diversity and that leadership roles are available to everyone. A diverse board or council also increases the chance that issues of members of diverse background are heard and dealt with.
-
-
-## 2. Sample Objectives
-
-- A project member needs to know that someone in the board or council is representing their interest.
-- A board or council wants to make sure that it is not living in an echo chamber.
-- Having a diverse board helps others to see themselves reflected and advance in their careers.
-- Help the board to be aware of the current situation of the diversity of the board if compared to other areas such as technical leaders or the community itself.
-
-
-## 3. Sample Strategies
-- Observe whether open elections are held to see if candidates are representative of member base. (Note: elections typically favor candidates of majorities and do not ensure that minorities are represented after the election)
-- Observe the diversity of board or council members from the project webpage.
+### Data Collection Strategies
+- Observe whether open elections are held to see if candidates are representative of the member base. (Note: elections typically favor candidates of majorities and do not ensure that minorities are represented after the election)
+- Observe the diversity of board or council members from the project webpage (limitation: [demographics](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data) are not always self-evident).
+- Ask the board for a report of the diversity of the board or council.
 - Survey project members about their perceived diversity of the board or council.
-- Survey the project about their board members if information is not available by other means.
+    - Likert scale [1-x] item: I feel represented in the board or council.
+    - Likert scale [1-x] item: The board or council attentive to minorities within the project.
+- Likert scale [1-x] item: The board or council represents the diversity of the project community.
 
-## 4. Sample Success Metrics
+## References 
 
-**Qualitative**
-- None
+- https://www.openstack.org/foundation/2018-openstack-foundation-annual-report
+- https://www.linuxfoundation.org/about/diversity-inclusiveness/
 
-**Quantitative**
-- Observe the diversity of board or council members from the project webpage.
-- Survey project members about their perceived diversity of the board or council.
-    - Likert scale [1-5] item: I feel represented in the board or council.
-    - Likert scale [1-5] item: The board or council attentive to minorities within the project.
-    - Likert scale [1-5] item: The board or council represents the diversity of the project community.
-
-## 5. Resources
-
-This section provides a list of resources and references
