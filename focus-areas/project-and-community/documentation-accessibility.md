@@ -59,33 +59,3 @@ Documentation can be on the processes and practices of the community, thus empow
 4. [Stanford: Screen Reader Testing](https://soap.stanford.edu/tips/screen-reader-testing)
 5. [Apache: 2020 ASF Community Survey](https://communitysurvey.limequery.org/454363)
 6. [W3C Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
-
-<!--
-
-This metric seems to be too complex because it contains different aspects of documentation. To resolve this issue, we did an exercise of differentiating types of documentation issues that we can then create metrics for.
-
-
-- Documentation
-   - Documentation Accessibility
-      - this is what we will develop above metric for
-   - Documentation Accuracy
-      - Objectives
-         - (Relevance) Documentation is regularly updated
-         - (Relevance) Environment builds are up to date
-   - Documentation Classes
-      - Governance
-        - Code of Conduct
-        - Number of people using your project’s documentation (as measured by a tool)
-      - Contributing
-           - (FOSS standards) README & CONTRIBUTING files provide the intended information
-             > [Raymond Paik — In many cases, documentation is easier place to start contributing for new comers, so it's important to provide good experience for people contributing to documentation.](https://docs.google.com/document/d/1OaKDksmuoi6nhaduZ4F96mTwQJvIFnfI8BqLx4MRO38/edit?disco=AAAADmYp0Oo)
-      - Source Code
-      - User
-        - Number of questions received each month that aren’t already answered in the FAQ (could point to the incompleteness of info provided or not updated on a regular basis), and reduction of this number over time
-        - Number of questions received each month that are already answered in the FAQ (could point to discoverability issues), and reduction of this number over time
-
-
-- A fewer number of questions around specific areas of documentation over time (establish a baseline to measure against)
-  > [Matt Snell — Not sure what this means](https://docs.google.com/document/d/1OaKDksmuoi6nhaduZ4F96mTwQJvIFnfI8BqLx4MRO38/edit?disco=AAAAEEBRdHY)
-
--->
