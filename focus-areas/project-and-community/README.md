@@ -6,7 +6,7 @@
 
 Name | Question
 --- | ---
-[Documentation Accessibility](documentation-accessibility.md) | What is the accessibility of documentation? (TBD)
+[Documentation Accessibility](documentation-accessibility.md) | To what extent is the documentation provided accessible to the various segments of its intended audience. (TBD)
 [Issue Tracker](issue-tracker.md) | How well a project issue tracker setup to invite new contributors, skilled contributors, non-technical contributors. (Criteria TBD)
 [Communication Channels](channels.md) | How welcoming, responsive, respectful are interactions even on hot topics of debate?  What is the diversity of voices speaking/being heard?
 [Response Times & Quality](response-time-quality.md) | How quickly and well do we respond to suggestions, PRS, questions (Note: dependent on quality of PR, questions needs factored in)?

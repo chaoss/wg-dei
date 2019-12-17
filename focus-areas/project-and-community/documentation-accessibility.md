@@ -1,6 +1,6 @@
 # Project Places: Documentation Accessibility
 
-Question: What is the accessibility of documentation?
+Question: To what extent is the documentation provided accessible to the various segments of its intended audience.
 
 ## Description
 
