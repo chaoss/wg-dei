@@ -47,7 +47,7 @@ _Quantitative_
   * Did the existence of the code of conduct make you feel safer, and more empowered to fully participate in this project? [i]
   * If you reported a violation of the code of conduct, was it resolved to your satisfaction? [i]
 
-## Resources
+## References
 
 - [CHAOSS metric: Code of Conduct at Events](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/event-code-of-conduct.md)
 
