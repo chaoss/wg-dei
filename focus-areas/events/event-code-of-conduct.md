@@ -40,7 +40,7 @@ An event with a code of conduct sends the signal that the organizers are willing
   * Did the existence of the code of conduct make you feel safer, and more empowered to fully participate at this event? [i]
   * If you reported a violation of the code of conduct, was it resolved to your satisfaction? [i]
 
-## Resources
+## References
 - [Attendee Procedure For Incident Handling](https://github.com/python/pycon-code-of-conduct/blob/master/Attendee%20Procedure%20for%20incident%20handling.md)
 - [2018 Pycon Code Of Conduct](https://pycon.blogspot.com/2018/04/code-of-conduct-updates-for-pycon-2018.html)
 - [Conference anti-harassment](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment)
