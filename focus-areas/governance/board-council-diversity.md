@@ -1,4 +1,4 @@
-# Governance - Board/Council Diversity
+# Board/Council Diversity
 
 Question: What is the diversity within our governing board or council?
 
