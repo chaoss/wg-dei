@@ -38,6 +38,6 @@ Help retain attendees from diverse backgrounds for future events.
   * Use a survey to gather attendee demographics. (For example, using the [Open Demographics questions](http://nikkistevens.com/open-demographics/))
   
   
-## Resources
+## References
 
 none
