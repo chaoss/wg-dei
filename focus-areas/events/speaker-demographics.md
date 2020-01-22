@@ -39,6 +39,6 @@ Speakers with diverse backgrounds who represent a variety of [demographics](/dem
   * Other details may include speakers’ twitter account, listed pronouns, descriptions, or other speaking engagements.
 
 
-## Resources
+## References
 
 none
