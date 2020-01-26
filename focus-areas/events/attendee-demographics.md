@@ -39,5 +39,3 @@ Help retain attendees from diverse backgrounds for future events.
   
   
 ## References
-
-none
