@@ -40,5 +40,3 @@ Speakers with diverse backgrounds who represent a variety of [demographics](/dem
 
 
 ## References
-
-none
