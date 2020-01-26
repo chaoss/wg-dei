@@ -10,7 +10,7 @@ Speakers with diverse backgrounds who represent a variety of [demographics](http
 
 ## Objectives
 
-- Speakers are from diverse [backgrounds](/https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data).
+- Speakers are from diverse [backgrounds](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data).
 - Speakers are diverse when grouped by keynotes, sessions, and tracks.
 - Repeat speakers are from diverse backgrounds (retention). 
 
