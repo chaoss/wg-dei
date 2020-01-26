@@ -5,7 +5,7 @@ Question: How diverse and inclusive are the attendees?
 
 ## Description
 
-Attendee [demographics](/demographic-data) help indicate the potential for different viewpoints and broader perspectives at an event. 
+Attendee [demographics](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data) help indicate the potential for different viewpoints and broader perspectives at an event. 
 
 
 ## Objectives
@@ -19,7 +19,7 @@ Help retain attendees from diverse backgrounds for future events.
 
 ### Filters
 
-- [demographics](/demographic-data): Some subjective questions should be analyzed in light of the responder’s demographics. Everyone has a different perspective. Investigating the responses for each group of demographics can indicate whether some demographics feel less included than the average.
+- [demographics](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data): Some subjective questions should be analyzed in light of the responder’s demographics. Everyone has a different perspective. Investigating the responses for each group of demographics can indicate whether some demographics feel less included than the average.
 - Keynotes, sessions, and tracks
 
 
