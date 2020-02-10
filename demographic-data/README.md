@@ -21,6 +21,8 @@ NOTE: that *how* we might ask these questions, and what potential answers might 
 
 *NOTE:* that the legal, privacy and ethical issues related to asking for, storing and visualizing data is currently out of scope, and will be its own task.
 
+*NOTE:* The [Open Demographics Initiative](http://nikkistevens.com/open-demographics/index.html) defined standard ways to ask for demographic information. CHAOSS builds on this work and does not want to duplicate that effort.
+
 1. Gender Identity
 2. Sexual orientation
 3. Age
@@ -53,5 +55,6 @@ The following are the areas of analysis:
 
 ## Resources
 
+* Open Demographics Initiative: http://nikkistevens.com/open-demographics/index.html
 * Diversity exists on a continuum: http://www.nwlink.com/~donclark/leader/continuum.html
 
