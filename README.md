@@ -101,7 +101,7 @@ This project is open to anyone interested in the topic of diversity and inclusio
 The collaboration guide is still in progress, but we’ve provided a few steps as good starting points:
 
 - Introduce yourself on the [CHAOSS D&I WG mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss-diversity-inclusion), and tell us a little bit about your interests.
-- Join us on our weekly video conferences. We meets every Monday at 11:00am CT (usually 18:00 CET, [check your local time](https://arewemeetingyet.com/Chicago/2019-11-04/11:00/w/CHAOSS%20D%26I%20WG)) via [Zoom](https://unomaha.zoom.us/j/720431288). Checkout our [agenda and meeting minutes](https://docs.google.com/document/d/1MzDk84BL7FfHDxbFxJz39M72V2Hfc5Y6oCPhOl6woxo/edit).
+- Join us on our weekly video conferences. We meets every Wednesday at 10:00am CT (usually 17:00 CET, [check your local time](https://arewemeetingyet.com/Chicago/2020-02-19/10:00/w/CHAOSS%20D%26I%20WG)) via [Zoom](https://unomaha.zoom.us/j/720431288). Checkout our [agenda and meeting minutes](https://docs.google.com/document/d/1MzDk84BL7FfHDxbFxJz39M72V2Hfc5Y6oCPhOl6woxo/edit).
 - Come see us at upcoming [conferences and workshops](https://chaoss.community/community/#user-content-upcoming-events).
 - Review the Metrics Focus Areas and provide your feedback.
 - Review the [issue list](https://github.com/chaoss/wg-diversity-inclusion/issues) and fix some of the issues.
@@ -194,6 +194,6 @@ If you find yourself missing, please create a pull request or reach out to a mai
 
 The documents in this repositories are released under the MIT License. See [LICENSE](https://github.com/chaoss/wg-diversity-inclusion/blob/master/LICENSE) for details.
 
-Copyright © 2018-2019 CHAOSS Project
+Copyright © 2018-2020 CHAOSS Project
 
 
