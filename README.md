@@ -66,7 +66,7 @@ We are compiling [dimensions of diversity and inclusion](./demographic-data/) th
 | Focus Area | Goal |
 | --- | --- |
 |[Communication Inclusivity](./focus-areas/communication/) | Identify how we are communicating with contributors, and potential contributors.|
-|[Contributor Community Diversity](./focus-areas/contribution/) | Identify the diversity of the contributions within a community, and howe those different contributions are valued.|
+|[Contributor Community Diversity](./focus-areas/contribution/) | Identify the diversity of the contributions within a community, and how those different contributions are valued. |
 |[Event Diversity](./focus-areas/events/) | Identify the diversity and inclusion at events. |
 |[Governance](./focus-areas/governance/) | Identify how diverse and inclusive our governance is.|
 |[Leadership](./focus-areas/leadership/) | Identify how healthy our community leadership is.|
