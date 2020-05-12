@@ -5,7 +5,7 @@
 
 Diversity and inclusion are central to the health of open source communities. The CHAOSS Diversity & Inclusion (D&I) Working Group aims at bringing experiences to measure diversity and inclusion consistently across open source projects, supported by software where possible. 
 
-We’ve defined seven (7) [focus areas of metrics](#metrics-focus-areas), and are working on further defining these areas. We’ve also established a roadmap of [2019 objectives](https://github.com/chaoss/wg-diversity-inclusion/blob/master/goals-2019.md) to guide our work.
+We’ve defined seven (7) [focus areas of metrics](#metrics-focus-areas), and are working on further defining these areas. We’ve also established a roadmap of [D&I Objectives](https://github.com/chaoss/wg-diversity-inclusion/blob/master/goals-2019.md) to guide our work.
 
 We invite anyone interested in the topic of diversity and inclusion to learn more, and join us. See [Contributing](#contributing) below to join the mailing list, or one of our weekly video calls.
 
@@ -46,7 +46,7 @@ The CHAOSS D&I Working Group establishes and broadly communicates an ethical, pe
 
 ### Work To Date
 
-Between January and December 2018, the CHAOSS D&I Working Group has:
+The CHAOSS D&I Working Group has:
 
 * established collaboration spaces, including a mailing list, GitHub repository, and weekly calls.
 * defined 7 focus areas, which group metrics.
@@ -57,7 +57,7 @@ Between January and December 2018, the CHAOSS D&I Working Group has:
 
 ## Objectives
 
-We have established specific objectives for 2019. Explore them [here](https://github.com/chaoss/wg-diversity-inclusion/blob/master/goals-2019.md).
+We have established specific objectives. Explore them [here](https://github.com/chaoss/wg-diversity-inclusion/blob/master/goals-2019.md).
 
 ## Metrics Focus Areas
 
