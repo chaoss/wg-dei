@@ -1,12 +1,12 @@
-# Focus Area: Inclusive Leadership
+# Inclusive Leadership
 
 Leadership is central to project and community culture, and thus requires intentional design, and accountability for the inclusion of others.   
 
 As those in leadership roles have high visibility, the diversity of this group is critically important  - as a signal to newcomers about who is welcome, and who can be successful.  
 
-### Examples of leadership roles:
+### Examples of open source leadership (aka 'roles with influence' ) :
 
-* Project Maintainers
+* Project maintainers
 * Contributors with repository merge access.
 * OS Program Board Members.
 * Official Program Roles (Mozilla Reps, Mozilla Tech Speakers).
