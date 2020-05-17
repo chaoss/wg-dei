@@ -63,7 +63,7 @@ The first step is to understand the principles of inclusive leadership.
 * All leaders should follow, and continually evolve a shared framework for decision making.
 * Leadership should openly communicate periods of inactivity, or unavailability with the project, and community.
 
-### 4. Leadership should be diverse & inclusive
+### 4. Is our Governance setup to support and protect diverse participation?
 
 * Leaders should strive to include diverse voices and groups whenever possible.
 * Projects should enforce the Code of Conduct consistently and strictly
