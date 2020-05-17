@@ -30,9 +30,9 @@ They have been applied to the following projects/products:
 * [24 Pull Requests](https://24pullrequests.com/) ('File an Inclusion Bug!')
 * Add your project.
 
-## Objectives
+## Understand
 
-Below are the guiding principles for both qualitative and quantitative approaches.
+The first step is to understand the principles of inclusive leadership.  
 
 ----
 
@@ -45,7 +45,7 @@ Below are the guiding principles for both qualitative and quantitative approache
 * To avoid gatekeeping, periods of renewal should be set for all leadership roles. Minimally once per year.
 * Terms should include opportunities for review and feedback from the communities they serve.
 
-### 2. Leadership should be distributed
+### 2.Leadership should be distributed
 
 * The number of leadership roles one person can hold, should be limited.
 * New leadership opportunities and pathways should be decided and consulted on by the community involved in that area.
@@ -83,7 +83,7 @@ Below are the guiding principles for both qualitative and quantitative approache
 * Projects should value and recognize them equally.
 * Both should have a minimum capability in the other skill set (community management skills & technical skill).
 
-##  Strategies
+##  Example Strategies
 
 _Qualitative_
 
