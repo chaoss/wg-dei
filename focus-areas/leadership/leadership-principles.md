@@ -1,16 +1,7 @@
 # Focus Area: Inclusive Leadership
 
-
-In Mozilla's qualitative interviews and data analysis, ‘gatekeeping’* showed up as one of the greatest blockers for diversity in communities.  -[Reflection — Inclusive Organizing for Open Source Communities](https://medium.com/mozilla-open-innovation/reflection-inclusive-organizing-for-open-source-communities-9c44f0b689c1).
-
-
-## Question
-
- How well is a project setup for diverse leadership?
-
  > “Diversity is a number, inclusion a process, equity an outcome.” — [Jess Mitchell](https://twitter.com/jesshmitchell)
 
-## Description
 
 Leadership is central to project and community culture, and thus requires intentional design, and accountability for the inclusion of others.   
 
@@ -28,8 +19,6 @@ As those in leadership roles have high visibility, the diversity of this group i
 
 **NOTE:** The term 'leader' doesn't always resonate, if that's the case for your project, replace with 'roles of influence'.
 
-**NOTE:** This resource, assumes that people can 'step into leadership', and that the requirement of meritocracy (proving yourself over time, according to project norms) is outdated and known to reduce diversity overall.
-
 ### Background
 
 The principles and practices below were created and agreed upon by a cross-functional set of diverse group of Mozilla staff and volunteers who are most closely connected to the primary contribution areas SUMO, Mozilla Reps, L10N).
@@ -46,6 +35,8 @@ They have been applied to the following projects/products:
 
 
 ## Objectives
+
+Below are the guiding principles for both qualitative and quantitative approaches.
 
 ----
 
@@ -106,7 +97,6 @@ _Qualitative_
 
 ### Evaluation Tools
 
-- Use this Open Source [Governance Checklist](https://github.com/mozilla/diversity/blob/ce63d076853a8c17b844bc5310d59de2031196d2/evaluation_tools/governance-basic.md) to evaluate your project/community.
 - Ask non-community members to step into your project and evaluate leadership according to [this criteria](https://github.com/mozilla/diversity/blob/master/evaluation_tools/contributor-tes . Think 'user testing', but for [contributors](https://medium.com/@sunnydeveloper/technical-volunteer-needed-help-me-find-inclusivity-bugs-b13644bf583a). 
 
 
