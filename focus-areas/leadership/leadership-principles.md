@@ -1,7 +1,5 @@
 # Focus Area: Inclusive Leadership
 
- > “Diversity is a number, inclusion a process, equity an outcome.” — [Jess Mitchell](https://twitter.com/jesshmitchell)
-
 
 Leadership is central to project and community culture, and thus requires intentional design, and accountability for the inclusion of others.   
 
@@ -44,16 +42,12 @@ Below are the guiding principles for both qualitative and quantitative approache
 
 ----
 
-**It's important to establish 'leadership' as a goal of a project prior to investing in inclusive leadership**. You cannot decouple 'open and inclusion' - they are the same thing.   
-
-If a project understands, for example, that they need more support handling pull requests, or welcoming new comers in Matrix, then it's more likely you'll be successful, then generically attempting to be 'inclusive'.
-
-### Community/project leadership should be setup for regular review & renewal.
+### 1.Community/project leadership should be setup for regular review & renewal.
 
 * To avoid gatekeeping, periods of renewal should be set for all leadership roles. Minimally once per year.
 * Terms should include opportunities for review and feedback from the communities they serve.
 
-### Leadership should be distributed
+### 2. Leadership should be distributed
 
 * The number of leadership roles one person can hold, should be limited.
 * New leadership opportunities and pathways should be decided and consulted on by the community involved in that area.
@@ -61,7 +55,7 @@ If a project understands, for example, that they need more support handling pull
 * We should create clear definitions for roles and avoid the generic term “leader”.  
 * Leadership responsibility should be held by groups (and not individuals where possible.
 
-### Leadership should be accountable
+### 3. Leadership should be accountable
 
 * Leadership roles should be clearly defined, and publicly documented.
 * Leaders should agree to a standard by which they can be held accountable.
@@ -71,13 +65,13 @@ If a project understands, for example, that they need more support handling pull
 * All leaders should follow, and continually evolve a shared framework for decision making.
 * Leadership should openly communicate periods of inactivity, or unavailability with the project, and community.
 
-###  Leadership should be diverse & inclusive
+### 4. Leadership should be diverse & inclusive
 
 * Leaders should strive to include diverse voices and groups whenever possible.
 * Projects should enforce the Code of Conduct consistently and strictly
 * Leadership pathways should explicitly consider inclusion dimensions (i.e. time, language, bandwidth, cultural norms)
 
-###  Leadership should be consistent
+### 5. Leadership should be consistent
 
 * Leadership roles are valued the same across the org/areas. (recognition, access to resources, opportunities etc. )
 * All leaders should have clarity in their roles and expectations
@@ -86,7 +80,7 @@ If a project understands, for example, that they need more support handling pull
 * We should create clear definitions for roles and avoid the generic term “leader”.
 * Tools should be consistent and coherent where possible.
 
-###  Leadership should include Technical and  non-technical Experts
+### 6. Leadership should include Technical and  non-technical Experts
 
 * Projects should value and recognize them equally.
 * Both should have a minimum capability in the other skill set (community management skills & technical skill).
