@@ -83,8 +83,12 @@ The first step is to understand the principles of inclusive leadership.
 * Projects should value and recognize them equally.
 * Both should have a minimum capability in the other skill set (community management skills & technical skill).
 
-##  Example Strategies (Organized by Program Goals)
-Goals  you might already have, and the 'inclusive leadership checklists' that will help ensure your goals are also inclusive.
+## Evaluate
+The third step is to evaluate your project/community according to existing goals.   
 
-* Increase % in contribution typically done by project maintainers (pull request review, responding to, and trying to replicate issues).
+* **Goal**: Increase % in contribution typically done by project maintainers (pull request review, responding to, and trying to replicate issues).
+
+## Take Action
+
+* 
 
