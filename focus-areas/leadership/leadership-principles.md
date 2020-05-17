@@ -4,7 +4,7 @@ Leadership is central to project and community culture, and thus requires intent
 
 As those in leadership roles have high visibility, the diversity of this group is critically important  - as a signal to newcomers about who is welcome, and who can be successful.  
 
-### Examples of open source leadership (aka 'roles with influence' ) :
+**Examples of open source leadership (aka 'roles with influence' )**:
 
 * Project maintainers
 * Contributors with repository merge access.
@@ -84,11 +84,16 @@ The first step is to understand the principles of inclusive leadership.
 * Both should have a minimum capability in the other skill set (community management skills & technical skill).
 
 ## Evaluate
-The third step is to evaluate your project/community according to existing goals.   
+The second step is to evaluate your project/community according to existing goal for leadership.  
 
 * **Goal**: Increase % in contribution typically done by project maintainers (pull request review, responding to, and trying to replicate issues).
 
 ## Take Action
+The third step is to act on what you've learned.
 
-* 
+### Available Resources/Tools
+
+* [Create an Inclusive Leadership team page](https://github.com/mozilla/diversity/blob/master/leadership/inclusive-leadership-template.md)
+* [Run an 'Open Source Maintainer training program](https://mozilla.github.io/maintainer-cohort/)
+* Create a pull request for missing role descriptions, code of conduct information(etc).
 
