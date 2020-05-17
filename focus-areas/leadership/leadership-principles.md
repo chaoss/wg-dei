@@ -1,6 +1,5 @@
 # Focus Area: Inclusive Leadership
 
-
 Leadership is central to project and community culture, and thus requires intentional design, and accountability for the inclusion of others.   
 
 As those in leadership roles have high visibility, the diversity of this group is critically important  - as a signal to newcomers about who is welcome, and who can be successful.  
@@ -30,7 +29,6 @@ They have been applied to the following projects/products:
 * [Firefox Developer Tools / Debugger Program](https://github.com/firefox-devtools/debugger/blob/aa827095d86475f816017ff35d6f9c2e83cf7b9b/docs/community-team.md)
 * [24 Pull Requests](https://24pullrequests.com/) ('File an Inclusion Bug!')
 * Add your project.
-
 
 ## Objectives
 
