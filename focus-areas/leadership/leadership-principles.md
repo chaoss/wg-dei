@@ -4,6 +4,8 @@ Leadership is central to project and community culture, and thus requires intent
 
 As those in leadership roles have high visibility, the diversity of this group is critically important  - as a signal to newcomers about who is welcome, and who can be successful.  
 
+[Related blog post](https://medium.com/@sunnydeveloper/how-to-apply-metrics-for-inclusion-to-your-open-source-project-71b4e31a7b0c)
+
 **Examples of open source leadership (aka 'roles with influence' )**:
 
 * Project maintainers
