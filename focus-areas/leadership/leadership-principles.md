@@ -83,43 +83,8 @@ The first step is to understand the principles of inclusive leadership.
 * Projects should value and recognize them equally.
 * Both should have a minimum capability in the other skill set (community management skills & technical skill).
 
-##  Example Strategies
+##  Example Strategies (Organized by Program Goals)
+Goals  you might already have, and the 'inclusive leadership checklists' that will help ensure your goals are also inclusive.
 
-_Qualitative_
+* Increase % in contribution typically done by project maintainers (pull request review, responding to, and trying to replicate issues).
 
-### Evaluation Tools
-
-- Ask non-community members to step into your project and evaluate leadership according to [this criteria](https://github.com/mozilla/diversity/blob/master/evaluation_tools/contributor-tes . Think 'user testing', but for [contributors](https://medium.com/@sunnydeveloper/technical-volunteer-needed-help-me-find-inclusivity-bugs-b13644bf583a). 
-
-
-_Quantitative_
-
-##### Medium Effort
-
-Over time(at the start, and as you make changes or run interventions to make your leadership more inclusive)
-
-  - Evaluate the diversity on your leadership team.  This includes informal - anyone with a 'role of influence'.
-  - Evaluate the diversity of contributions over the last month, 6 months, and year to establish a baseline.  This should include issues, comments, PRs, forum posts, etc.
-
-**NOTE**: evaluating gender from things like Github issues is not an exact science. genderize.io is an imperfect but useful tool.
-
-## Ways to Act on What you Learn:
-
-#### Medium Effort Required
-
-- Co-Design your project leadership using this [Inclusive Leadership 'team' Template](https://github.com/mozilla/diversity/blob/1d0033201b68de3ed14357d1846ded168c688dd1/leadership/inclusive-leadership-template.md).
-
-#### Extended Effort
-
-- Run a [Open Source Maintainer](https://mozilla.github.io/maintainer-cohort/) Training Program (Curriculum) for underrepresented technical leaders.  NOTE: this will need updated for
-
-## Success Metrics
-
-_Quantitative_
-
-- Your projects leadership design has improved according to the principles listed.
-
-
-## Resources
-
-- See 'Background'
