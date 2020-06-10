@@ -39,7 +39,8 @@ For example, families of tags with a distinct color for each:
 
 ![example labels from kubernetes project](images/kubernetes-labels-example.png)
 From: https://github.com/kubernetes/kubernetes/labels 
-Tools Providing the Metric:
+
+#### Tools Providing the Metric: ####
 - Grimoire Lab 
 - Augur
 
