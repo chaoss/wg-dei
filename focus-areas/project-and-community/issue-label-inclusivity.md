@@ -6,13 +6,13 @@ Issue label inclusivity helps gauge the affordability of issues to different con
 
 ## Objectives
 
-*__Newcomer Friendly__*: Issues include appropriately labeled issues (e.g, “good first issue”, “newcomer-friendly”) for a new contributor to start with. 
+*__Newcomer Friendly__*: Issues include appropriately labeled issues (e.g, “good first issue”, “newcomer-friendly”) for a new contributor to start with 
 
-*__Mentor Availability__*: Issues identify a mentor who can provide guidance and help with the review process of a particular issue (e.g., “Mentor Available” tag).
+*__Mentor Availability__*: Issues identify a mentor who can provide guidance and help with the review process of a particular issue (e.g., “Mentor Available” tag)
 
-*__Issue List Diversity__*: Issues provide a diverse list of labels pertaining to different types of contributions (code and/or non-code) (e.g., “Documentation” tag).
+*__Issue List Diversity__*: Issues provide a diverse list of labels pertaining to different types of contributions (code and/or non-code) (e.g., “Documentation” tag)
 
-*__Usable Title and Description__*: Issue titles and descriptions follow the Documentation Usability metric objectives. 
+*__Usable Title and Description__*: Issue titles and descriptions follow the Documentation Usability metric objectives 
  
 *__Consistent Use of Labels__*: Issues use a curated list of labels with distinct colors in a consistent way. 
 For example, families of tags with a distinct color for each:
@@ -56,7 +56,7 @@ From: https://github.com/kubernetes/kubernetes/labels
   - *Skill labels*: 
      - Presence of labels to identify skills needed (e.g, Java, Python, HTML, machine learning) in the project’s list of labels and in the issue list (labels in use)
 
-- Observe the frequency of each label used across issues in a project.
+- Observe the frequency of each label used across issues in a project
 
 ## References
 - [GitHub Satellite](https://githubsatellite.com/)
