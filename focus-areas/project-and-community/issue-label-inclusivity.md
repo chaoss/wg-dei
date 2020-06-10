@@ -8,18 +8,18 @@ Issue label inclusivity helps gauge the affordability of issues to different con
 
 *__Newcomer Friendly__*: Issues include appropriately labeled issues (e.g, “good first issue”, “newcomer-friendly”) for a new contributor to start with. 
 
-*__Mentor Availability__*: Issues identify a mentor who can provide guidance and help with the review process of a particular issue (e.g., “Mentor Available” tag)
+*__Mentor Availability__*: Issues identify a mentor who can provide guidance and help with the review process of a particular issue (e.g., “Mentor Available” tag).
 
-*__Issue List Diversity__*: Issues provide a diverse list of labels pertaining to different types of contributions (code and/or non-code) (e.g., “Documentation” tag)
+*__Issue List Diversity__*: Issues provide a diverse list of labels pertaining to different types of contributions (code and/or non-code) (e.g., “Documentation” tag).
 
-*__Usable Title and Description__*: Issue titles and descriptions follow the Documentation Usability metric objectives 
+*__Usable Title and Description__*: Issue titles and descriptions follow the Documentation Usability metric objectives. 
  
 *__Consistent Use of Labels__*: Issues use a curated list of labels with distinct colors in a consistent way. 
 For example, families of tags with a distinct color for each:
 
-- Issue Type: “Feature” vs “Bug” vs “Documentation” ...
-- Issue Skills: the skills needed to resolve the issue (e.g, js, html, css...)
-- Issue Level of Familiarity: mentions the lowest level of familiarity needed (“good for newcomer” or “occasional contributor”or “core contributor”)
+- Issue Type: “Feature” vs “Bug” vs “Documentation”...
+- Issue Skills: the skills needed to resolve the issue (e.g, js, html, css)
+- Issue Level of Familiarity: mentions the lowest level of familiarity needed (“good for newcomer” or “occasional contributor”or “core contributor”...)
 
 ## Implementation
 
