@@ -5,88 +5,87 @@ Question: How well is a project setup for diverse leadership?
 
 ## Description
 
-Leadership is central to project and community culture, and thus requires intentional design, and accountability for the inclusion of others.    
-
-**Examples of open source leadership (aka 'roles with influence' )**:
-
-* Project maintainers
-* Contributors with repository merge access.
-* OS Program Board Members.
-* Official Program Roles (Mozilla Reps, Mozilla Tech Speakers).
-* Those listed in project documents as contacts for issues with builds, documentation (etc).
-* Those with > 5 pull requests to a project.
-* *please add other descriptions*
-
-**NOTE:** The term 'leader' doesn't always resonate, if that's the case for your project, replace with 'roles of influence'.
+Leadership is central to project and community culture, and thus requires intentional design and accountability for the inclusion of others. The term 'leader' doesn't always resonate; if that's the case for your project, replace it with 'roles of influence'. As those in leadership roles have high visibility, the diversity of this group is critically important.
 
 
 ## Objectives
 
-As those in leadership roles have high visibility, the diversity of this group is critically important  - as a signal to newcomers about who is welcome, and who can be successful. Ensure stable and consistent leadership that is representative of a project's diversity.
+Signal to newcomers about who is welcome, and who can be successful. Ensure stable and consistent leadership that is representative of a project's diversity.
 
 
 ## Implementation
 
-**Understand**
+**Examples of open source leadership (aka 'roles with influence'):**
 
-The first step is to understand the principles of inclusive leadership. This is structured in 6 principles which serve as a check-list.
+* Project maintainers (sometimes referred to as owners)
+* Contributors with repository merge access
+* Contributors who are organization members for the repository
+* OS Program Board Members
+* Official Program Roles (Mozilla Reps, Mozilla Tech Speakers)
+* Those listed in project documents as contacts for issues with builds, documentation, etc.
+* Those with more than 5 pull requests to a project
+
+
+**Step 1: Understand**
+
+The first step is to understand the principles of inclusive leadership by asking some questions. This is structured in 6 principles which serve as a check-list.
 
 ----
 
-![il](https://mozilla.github.io/maintainer-cohort/img/il.png)
+![Inclusive Leadership cycle](https://mozilla.github.io/maintainer-cohort/img/il.png)
 
 ----
 
-_1. Leadership should be setup for regular review & renewal._
+_1. Review & Renewal_
 
-* To avoid gatekeeping, periods of renewal should be set for all leadership roles. Minimally once per year.
-* Terms should include opportunities for review and feedback from the communities they serve.
+* Are all leadership roles limited by time and require term renewal?
+* Do the term renewals include opportunities for review and feedback from communities involved?
+* Is there a graceful way to move people out of leadership roles and into emeritus or advisory roles?
 
-_2. Leadership should be distributed._
+_2. Distribution of Leaders_
 
-* The number of leadership roles one person can hold, should be limited.
-* New leadership opportunities and pathways should be decided and consulted on by the community involved in that area.
-* Criteria for the role requirements should be validated by the community involved.
-* We should create clear definitions for roles and avoid the generic term “leader”.  
-* Leadership responsibility should be held by groups (and not individuals where possible.
+* Are leaders limited in the number of leadership roles one person can hold?
+* Are new leadership opportunities and pathways decided and consulted on by the community involved in that area?
+* Are the criteria for the role requirements validated by the community involved?
+* Does the project create clear definitions for roles? 
+* Does the project publicly document their definitions for roles?
+* Is leadership responsibility held by groups and not individuals, where possible?
 
-_3. Leadership should be accountable._
+_3. Accountability_
 
-* Leadership roles should be clearly defined, and publicly documented.
-* Leaders should agree to a standard by which they can be held accountable.
-* Staff & community should know, and understand how they can hold leaders accountable.
-* Projects/communities should enforce the Community Participation Guidelines (Code of Conduct) consistently.
-* All leaders should be aware that they represent the organization/project.
-* All leaders should follow, and continually evolve a shared framework for decision making.
-* Leadership should openly communicate periods of inactivity, or unavailability with the project, and community.
+* Do the project’s leaders agree to a standard by which they can be held accountable?
+* Do the staff & community know and understand how they can hold leaders accountable?
+* Are leaders aware that they represent the organization/project in their actions?
+* Are leaders following and continually evolving a shared framework for decision making?
+* Does the leadership openly communicate periods of inactivity or unavailability with the project and community?
 
-_4. Leadership should support diverse participation, protected by governance._
+_4. Diverse Participation_
 
-* Leaders should strive to include diverse voices and groups whenever possible.
-* Projects should enforce the Code of Conduct consistently and strictly.
-* Leadership pathways should explicitly consider inclusion dimensions (i.e. time, language, bandwidth, cultural norms).
+* Do the project leaders strive to include diverse voices and groups whenever possible?
+* Does the project enforce the Code of Conduct consistently and strictly?
+* Do the leadership pathway explicitly consider inclusion dimensions (e.g., time zone, language, bandwidth, cultural norms)?
 
-_5. Leadership should be consistent._
+_5. Roles & Consistency_
 
-* Leadership roles are valued the same across the org/areas. (recognition, access to resources, opportunities etc.).
-* All leaders should have clarity in their roles and expectations.
-* All leaders should have a shared foundational knowledge base & skills (i.e. Community Participation Guidelines).
-* Follow a shared framework for decision making.
-* We should create clear definitions for roles and avoid the generic term “leader”.
-* Tools should be consistent and coherent where possible.
+* Are the leadership roles valued similarly across the project (e.g., recognition, access to resources, opportunities)?
+* Do all leaders have clarity in their roles and expectations?
+* Do all leaders have a shared foundational knowledge base & skills (e.g., Community Participation Guidelines).
+* Does project leadership follow a shared framework for decision making?
+* Are project roles clearly defined?
+* Are the related tools consistent and coherent, where possible?
 
-_6. Leadership should include technical and non-technical experts._
+_6. Equal Value_
 
-* Projects should value and recognize them equally.
-* Both should have a minimum capability in the other skill set (community management skills & technical skill).
+* Does the project value and recognize different types of experts equally (e.g., technical and non-technical)?
 
-**Evaluate**
-The second step is to evaluate your project/community according to existing goal for leadership.  
 
-* **Goal**: Increase % in contribution typically done by project maintainers (pull request review, responding to, and trying to replicate issues).
+**Step 2: Evaluate**
+The second step is to evaluate your project/community according to existing goals for leadership.  
 
-**Take Action**
-The third step is to act on what you've learned.
+_Example Goal:_ Increase % in contribution typically done by project maintainers (pull request review, responding to, and trying to replicate issues).
+
+**Step 3: Take Action**
+The third step is to act on what you've learned. What those steps are depends on your specific project community and giving recommendations is outside the scope of this document. Below references have some ideas.
 
 
 ## References
@@ -95,6 +94,7 @@ The third step is to act on what you've learned.
 * [Create an Inclusive Leadership team page](https://github.com/mozilla/diversity/blob/master/leadership/inclusive-leadership-template.md)
 * [Run an 'Open Source Maintainer training program](https://mozilla.github.io/maintainer-cohort/)
 * Create a pull request for missing role descriptions, code of conduct information(etc).
+
 
 **Background**
 
