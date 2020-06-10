@@ -33,8 +33,8 @@ For example, families of tags with a distinct color for each:
 - Code-related issues vs. documentation-related issues
 
 #### Visualization ####
-![grimoire lab example #1](images/grimoire-lab-viz-example1.PNG)
-![grimoire lab example #2](/images/grimoire-lab-viz-example2.PNG)
+![grimoire lab example #1](/images/grimoire-lab-viz-example1.png)
+![grimoire lab example #2](images/grimoire-lab-viz-example2.png)
 
 
 ![example labels from kubernetes project](/images/kubernetes-labels- example.PNG)
