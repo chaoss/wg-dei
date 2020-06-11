@@ -6,6 +6,7 @@
 
 Name | Question
 --- | ---
+[Documentation Usability](documentation-usability.md) | What is the usability of documentation from content and structure perspectives?
 [Documentation](documentation.md) | What is the thoroughness, and accessibility of documentation according to a set of criteria. This includes README/CONTRIBUTING (TBD)
 [Issue Tracker](issue-tracker.md) | How well a project issue tracker setup to invite new contributors, skilled contributors, non-technical contributors. (Criteria TBD)
 [Issue Label Inclusivity](issue-label-inclusivity.md) | How well are project issues labeled to invite new contributors, skilled contributors, non-code contributors, and other types of contributors?
