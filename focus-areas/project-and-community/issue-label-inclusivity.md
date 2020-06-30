@@ -1,20 +1,22 @@
 # Issue Label Inclusivity
 Question: How well are project issues labeled to invite new contributors, skilled contributors, non-code contributors, and other types of contributors?
 
+_This metric is a release candidate The 30 day comment period for this metric begins on 07/01/2020 and ends on 07/031/2020. To comment on this metric please see [Issue #291](https://github.com/chaoss/wg-diversity-inclusion/issues/291). Following the comment period this metric will be included in the next regular release._
+
 ## Description
 Issue label inclusivity helps gauge the affordability of issues to different contributors at different levels of familiarity (e.g., newcomer, occasional contributor, and core contributors), with different skills (e.g., languages, frameworks, APIs, documentation, frontend, and backend), and with different goals (e.g., code and non-code contributions).
 
 ## Objectives
 
-*__Newcomer Friendly__*: Issues include appropriately labeled issues (e.g, “good first issue”, “newcomer-friendly”) for a new contributor to start with 
+*__Newcomer Friendly__*: Issues include appropriately labeled issues (e.g, “good first issue”, “newcomer-friendly”) for a new contributor to start with
 
 *__Mentor Availability__*: Issues identify a mentor who can provide guidance and help with the review process of a particular issue (e.g., “Mentor Available” tag)
 
 *__Issue List Diversity__*: Issues provide a diverse list of labels pertaining to different types of contributions (code and/or non-code) (e.g., “Documentation” tag)
 
-*__Usable Title and Description__*: Issue titles and descriptions follow the Documentation Usability metric objectives 
- 
-*__Consistent Use of Labels__*: Issues use a curated list of labels with distinct colors in a consistent way. 
+*__Usable Title and Description__*: Issue titles and descriptions follow the Documentation Usability metric objectives
+
+*__Consistent Use of Labels__*: Issues use a curated list of labels with distinct colors in a consistent way.
 For example, families of tags with a distinct color for each:
 
 - Issue Type: “Feature” vs “Bug” vs “Documentation”...
@@ -29,7 +31,7 @@ For example, families of tags with a distinct color for each:
 - Type of repository
 - Age of open issue
 - Number of open issues
-- Date an issue was opened 
+- Date an issue was opened
 - Code-related issues vs. documentation-related issues
 
 #### Visualization ####
@@ -38,22 +40,22 @@ For example, families of tags with a distinct color for each:
 
 
 ![example labels from kubernetes project](images/kubernetes-labels-example.png)
-From: https://github.com/kubernetes/kubernetes/labels 
+From: https://github.com/kubernetes/kubernetes/labels
 
 #### Tools Providing the Metric: ####
-- Grimoire Lab 
+- Grimoire Lab
 - Augur
 
 ### Data Collection Strategies
 
-- Identify the published list of issue labels used for each project 
-   - *General labels*: 
+- Identify the published list of issue labels used for each project
+   - *General labels*:
       - Presence of labels to identify general needs of  “Feature”, “Bug”, and “Documentation” label”, a “Front End”, and a “Back End” labels in the project’s list of labels and in the issue list (labels in use)
    - *Inclusive labels*:
      - Newcomer friendly ones look for (*newcomer*, *first*) in the project’s list of labels and in the issue list (labels in use)
      - Mentor friendly ones look for (*mentor*) in the project’s list of labels and in the issue list (labels in use)
 
-  - *Skill labels*: 
+  - *Skill labels*:
      - Presence of labels to identify skills needed (e.g, Java, Python, HTML, machine learning) in the project’s list of labels and in the issue list (labels in use)
 
 - Observe the frequency of each label used across issues in a project

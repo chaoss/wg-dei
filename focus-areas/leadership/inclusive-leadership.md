@@ -2,6 +2,7 @@
 
 Question: How well is a project setup for diverse leadership?
 
+_This metric is a release candidate The 30 day comment period for this metric begins on 07/01/2020 and ends on 07/031/2020. To comment on this metric please see [Issue #292](https://github.com/chaoss/wg-diversity-inclusion/issues/292). Following the comment period this metric will be included in the next regular release._
 
 ## Description
 
@@ -47,7 +48,7 @@ _2. Distribution of Leaders_
 * Are leaders limited in the number of leadership roles one person can hold?
 * Are new leadership opportunities and pathways decided and consulted on by the community involved in that area?
 * Are the criteria for the role requirements validated by the community involved?
-* Does the project create clear definitions for roles? 
+* Does the project create clear definitions for roles?
 * Does the project publicly document their definitions for roles?
 * Is leadership responsibility held by groups and not individuals, where possible?
 
