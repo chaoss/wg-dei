@@ -31,19 +31,13 @@ Signal to newcomers about who is welcome, and who can be successful. Ensure stab
 
 The first step is to understand the principles of inclusive leadership by asking some questions. This is structured in 6 principles which serve as a check-list.
 
-----
-
-![Inclusive Leadership cycle](https://mozilla.github.io/maintainer-cohort/img/il.png)
-
-----
-
-_1. Review & Renewal_
+_Review & Renewal_
 
 * Are all leadership roles limited by time and require term renewal?
 * Do the term renewals include opportunities for review and feedback from communities involved?
 * Is there a graceful way to move people out of leadership roles and into emeritus or advisory roles?
 
-_2. Distribution of Leaders_
+_Distribution of Leaders_
 
 * Are leaders limited in the number of leadership roles one person can hold?
 * Are new leadership opportunities and pathways decided and consulted on by the community involved in that area?
@@ -52,7 +46,7 @@ _2. Distribution of Leaders_
 * Does the project publicly document their definitions for roles?
 * Is leadership responsibility held by groups and not individuals, where possible?
 
-_3. Accountability_
+_Accountability_
 
 * Do the project’s leaders agree to a standard by which they can be held accountable?
 * Do the staff & community know and understand how they can hold leaders accountable?
@@ -60,13 +54,13 @@ _3. Accountability_
 * Are leaders following and continually evolving a shared framework for decision making?
 * Does the leadership openly communicate periods of inactivity or unavailability with the project and community?
 
-_4. Diverse Participation_
+_Diverse Participation_
 
 * Do the project leaders strive to include diverse voices and groups whenever possible?
 * Does the project enforce the Code of Conduct consistently and strictly?
 * Do the leadership pathway explicitly consider inclusion dimensions (e.g., time zone, language, bandwidth, cultural norms)?
 
-_5. Roles & Consistency_
+_Roles & Consistency_
 
 * Are the leadership roles valued similarly across the project (e.g., recognition, access to resources, opportunities)?
 * Do all leaders have clarity in their roles and expectations?
@@ -75,7 +69,7 @@ _5. Roles & Consistency_
 * Are project roles clearly defined?
 * Are the related tools consistent and coherent, where possible?
 
-_6. Equal Value_
+_Equal Value_
 
 * Does the project value and recognize different types of experts equally (e.g., technical and non-technical)?
 
