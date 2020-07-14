@@ -6,7 +6,7 @@ _This metric is a release candidate. The 30 day comment period for this metric b
 
 ## Description
 
-Leadership is central to project and community culture, and thus requires intentional design and accountability for the inclusion of others. The term 'leader' doesn't always resonate; if that's the case for your project, replace it with 'roles of influence'. As those in leadership roles have high visibility, the diversity of this group is critically important.
+Leadership is central to project and community culture, and thus requires intentional design and accountability for the inclusion of others. The term 'leader' doesn't always resonate; if that's the case for your project, replace it with 'roles of influence'. As those in leadership roles have high visibility, the diversity of this group is critically important to fostering an inclusive community.
 
 
 ## Objectives
@@ -88,7 +88,7 @@ The third step is to act on what you've learned. What those steps are depends on
 * [Related blog post](https://medium.com/@sunnydeveloper/how-to-apply-metrics-for-inclusion-to-your-open-source-project-71b4e31a7b0c)
 * [Create an Inclusive Leadership team page](https://github.com/mozilla/diversity/blob/master/leadership/inclusive-leadership-template.md)
 * [Run an 'Open Source Maintainer training program](https://mozilla.github.io/maintainer-cohort/)
-* Create a pull request for missing role descriptions, code of conduct information(etc).
+* Create a pull request for missing role descriptions, code of conduct, and additional information
 
 
 **Background**
