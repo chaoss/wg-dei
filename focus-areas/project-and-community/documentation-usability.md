@@ -11,7 +11,7 @@ Documentation usability addresses the critical role of an open source project’
 
 ## Objectives
 * **Technical Jargon** — Documentation uses an appropriate level of technical jargon and provides an explanation for terminology as necessary to ensure the documentation is understandable for an entry-level contributor to the given project.
-* **Structural Clarity** — Documentation is easy to follow and structured intuitively.
+* **Structural Clarity** — Documentation is easy to follow and understand.
 * **Readability** — Documentation uses language that is clear and concise, using common meaning words and short sentences, to ensure the documentation is understandable to people for whom the language is not native or those who may not follow similar shorthand conventions or inference patterns.
 * **Language Inclusion** — Documentation avoids non-inclusive language (for example, ‘brogrammer’ language or exclusionary/derogatory language).
 * **Language Diversity** — Documentation is available in a common vernacular for the intended audience and different languages.
@@ -23,9 +23,9 @@ Documentation usability addresses the critical role of an open source project’
 
 * Interview newcomers to determine how documentation helped the contributor to, (a) understand the contribution process, and/or, (b) complete the task.
   Sample interview questions:
-  * What is your experience with using the documentation to understand the contribution process?
-  * What is your experience with using the documentation when you have a question about doing work in the community?
-  * Were you comfortable with the amount of technical terms present here?
+  * Describe your experience with using the documentation to understand the contribution process.
+  * Describe your experience with using the documentation when you have a question about doing work in the community.
+  * How comfortable were you with the amount of technical terms present here? (adapt to survey using Likert scale [1-5])
   * What suggestions do you have for improving the project’s policies, processes, or guidelines available to new contributors?
 * Ask questions regarding readability and scannability such as: Does the documentation use organizing constructs, such as:
   * Headings
@@ -35,6 +35,7 @@ Documentation usability addresses the critical role of an open source project’
 * Walkthrough with intended users of the documentation. Observe how they interact and use the documentation and where they get stuck. This can be a video conference session where the user of the documentation shares their screen.
 * Ask users of documentation to write a [friction log](https://devrel.net/developer-experience/an-introduction-to-friction-logging) and describe what issues they had with documentation. This gives concrete use cases for documentation editors to understand how to improve the documentation for the specific user.
 * Consider if different versions of documentation are available for different audiences. For example, a light-weight version and a very detailed version of the documentation.
+
 
 
 ## Resources
