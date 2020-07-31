@@ -11,7 +11,7 @@ Leadership is central to project and community culture, and thus requires intent
 
 ## Objectives
 
-Signal to newcomers about who is welcome, and who can be successful. Ensure stable and consistent leadership that is representative of a project's diversity.
+Signal to newcomers that everyone is welcome and everyone can be successful. Ensure stable and consistent leadership that is representative of a project's diversity.
 
 
 ## Implementation
@@ -78,6 +78,7 @@ _Equal Value_
 The second step is to evaluate your project/community according to existing goals for leadership.  
 
 _Example Goal:_ Increase % in contribution typically done by project maintainers (pull request review, responding to, and trying to replicate issues).
+
 
 **Step 3: Take Action**
 The third step is to act on what you've learned. What those steps are depends on your specific project community and giving recommendations is outside the scope of this document. Below references have some ideas.
