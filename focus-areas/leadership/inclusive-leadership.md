@@ -22,7 +22,7 @@ Signal to newcomers that everyone is welcome and everyone can be successful. Ens
 * Contributors with repository merge access
 * Contributors who are organization members for the repository
 * OS Program Board Members
-* Official Program Roles (Mozilla Reps, Mozilla Tech Speakers)
+* Official Program Roles (Program Representatives, Tech Speakers)
 * Those listed in project documents as contacts for issues with builds, documentation, etc.
 * Those with more than 5 pull requests to a project
 
