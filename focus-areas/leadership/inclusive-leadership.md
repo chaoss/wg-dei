@@ -11,7 +11,7 @@ Leadership is central to project and community culture, and thus requires intent
 
 ## Objectives
 
-Signal to newcomers about who is welcome, and who can be successful. Ensure stable and consistent leadership that is representative of a project's diversity.
+Signal to newcomers that everyone is welcome, as well as how to be successful within the project given any specified limitations listed as discussed in below. 
 
 
 ## Implementation
@@ -22,7 +22,7 @@ Signal to newcomers about who is welcome, and who can be successful. Ensure stab
 * Contributors with repository merge access
 * Contributors who are organization members for the repository
 * OS Program Board Members
-* Official Program Roles (Mozilla Reps, Mozilla Tech Speakers)
+* Official Program Roles (Program Representatives, Tech Speakers)
 * Those listed in project documents as contacts for issues with builds, documentation, etc.
 * Those with more than 5 pull requests to a project
 
@@ -78,6 +78,7 @@ _Equal Value_
 The second step is to evaluate your project/community according to existing goals for leadership.  
 
 _Example Goal:_ Increase % in contribution typically done by project maintainers (pull request review, responding to, and trying to replicate issues).
+
 
 **Step 3: Take Action**
 The third step is to act on what you've learned. What those steps are depends on your specific project community and giving recommendations is outside the scope of this document. Below references have some ideas.
