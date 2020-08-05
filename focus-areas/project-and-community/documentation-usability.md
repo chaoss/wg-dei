@@ -15,7 +15,7 @@ Documentation usability addresses the critical role of an open source project’
 * **Readability** — Documentation uses language that is clear and concise, using common meaning words and short sentences, to ensure the documentation is understandable to people for whom the language is not native or those who may not follow similar shorthand conventions or inference patterns.
 * **Language Inclusion** — Documentation avoids non-inclusive language (for example, ‘brogrammer’ language or exclusionary/derogatory language).
 * **Language Diversity** — Documentation is available in a common vernacular for the intended audience and different languages.
-
+* **Time/attention Diversity** — Documentation is inclusive of people that have differences in the time they can spend in documentation either reading or setting up/running commands. It is worthwile thinking about people with childcare or other caring roles that may pull their attention from their screens at any given point. 
 
 ## Implementation
 
