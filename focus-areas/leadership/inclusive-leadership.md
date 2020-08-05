@@ -11,7 +11,7 @@ Leadership is central to project and community culture, and thus requires intent
 
 ## Objectives
 
-Signal to newcomers that everyone is welcome and everyone can be successful. Ensure stable and consistent leadership that is representative of a project's diversity.
+Signal to newcomers that everyone is welcome, as well as how to be successful within the project given any specified limitations listed as discussed in below. 
 
 
 ## Implementation
