@@ -25,6 +25,7 @@ Documentation usability addresses the critical role of an open source project’
   Sample interview questions:
   * Describe your experience with using the documentation to understand the contribution process.
   * Describe your experience with using the documentation when you have a question about doing work in the community.
+  * Describe your experience with using the documentation to understand how to help outreach efforts.
   * How comfortable were you with the amount of technical terms present here? (adapt to survey using Likert scale [1-5])
   * Were there any terms or language you didn't understand?
   * What suggestions do you have for improving the project’s policies, processes, or guidelines available to new contributors?
