@@ -73,6 +73,12 @@ _Equal Value_
 
 * Does the project value and recognize different types of experts equally (e.g., technical and non-technical)?
 
+_Acknowledgement of Limitations_
+
+* Have project leaders identified technical, financial, or other limitations out of their control that may have an adverse impact on inclusivity?
+* Has leadership clearly and explicitly acknowledged these limitations publicly?
+* Are leaders open to discussing and implementing suggestions that reduce the impact of these limitations?
+
 
 **Step 2: Evaluate**
 The second step is to evaluate your project/community according to existing goals for leadership.  
