@@ -1,7 +1,6 @@
 # Issue Label Inclusivity
 Question: How well are project issues labeled to invite new contributors, skilled contributors, non-code contributors, and other types of contributors?
 
-_This metric is a release candidate. The 30 day comment period for this metric begins on 07/01/2020 and ends on 07/31/2020. To comment on this metric please see [Issue #291](https://github.com/chaoss/wg-diversity-inclusion/issues/291). Following the comment period, this metric will be included in the release._
 
 ## Description
 Issue label inclusivity helps gauge the affordability of issues to different contributors at different levels of familiarity (e.g., newcomer, occasional contributor, and core contributors), with different skills (e.g., languages, frameworks, APIs, documentation, frontend, and backend), and with different goals (e.g., code and non-code contributions).
