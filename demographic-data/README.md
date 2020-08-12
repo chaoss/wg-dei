@@ -25,17 +25,19 @@ NOTE: that *how* we might ask these questions, and what potential answers might 
 
 1. Gender Identity
 2. Sexual orientation
-3. Age
-4. Location/Region/Country
+3. Romatic orientation
+4. Age
+5. Location/Region/Country
 6. Socioeconomic status
 7. Tenure (time with project) / Tenure with the ecosystem
 8. Race/Ethnicity
-9. First Language
-10. Confidence with English
-11. Dis/Ability
-12. Caregiver (child or eldercare)
-13. Identifies as underrepresented (which can include components of above, or be separate)
-14. Paid contributor vs. unpaid volunteer contributor
+9. Religion 
+10. First Language
+11. Confidence with English
+12. Dis/Ability
+13. Caregiver (child or eldercare)
+14. Identifies as underrepresented (which can include components of above, or be separate)
+15. Paid contributor vs. unpaid volunteer contributor
 
 *NOTE:* that paid vs. unpaid contributors can be problematic and nuanced from the perspective of diversity and inclusion. Many people who participate as volunteers are coming at it from a position of privilege because they can afford to spend their free time participating in an open source project instead of working a second job to make ends meet, caring for family members, or spending time meeting basic survival needs. In other words, having more volunteer contributors might actually mean that the project is less diverse, rather than more diverse. However, in a corporate sponsored project, involving volunteer contributors could be a sign that the community is welcoming and inclusive.
 
