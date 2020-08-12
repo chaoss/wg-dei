@@ -25,13 +25,13 @@ NOTE: that *how* we might ask these questions, and what potential answers might 
 
 1. Gender Identity
 1. Sexual orientation
-1. Romatic orientation
+1. Romantic orientation
 1. Age
 1. Location/Region/Country
 1. Socioeconomic status
 1. Tenure (time with project) / Tenure with the ecosystem
 1. Race/Ethnicity
-1. Religion 
+1. Religion (or none)
 1. First Language
 1. Confidence with English
 1. Dis/Ability
