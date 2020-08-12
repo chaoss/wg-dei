@@ -24,20 +24,20 @@ NOTE: that *how* we might ask these questions, and what potential answers might 
 *NOTE:* The [Open Demographics Initiative](http://nikkistevens.com/open-demographics/index.html) defined standard ways to ask for demographic information. CHAOSS builds on this work and does not want to duplicate that effort.
 
 1. Gender Identity
-2. Sexual orientation
-3. Romatic orientation
-4. Age
-5. Location/Region/Country
-6. Socioeconomic status
-7. Tenure (time with project) / Tenure with the ecosystem
-8. Race/Ethnicity
-9. Religion 
-10. First Language
-11. Confidence with English
-12. Dis/Ability
-13. Caregiver (child or eldercare)
-14. Identifies as underrepresented (which can include components of above, or be separate)
-15. Paid contributor vs. unpaid volunteer contributor
+1. Sexual orientation
+1. Romatic orientation
+1. Age
+1. Location/Region/Country
+1. Socioeconomic status
+1. Tenure (time with project) / Tenure with the ecosystem
+1. Race/Ethnicity
+1. Religion 
+1. First Language
+1. Confidence with English
+1. Dis/Ability
+1. Caregiver (child or eldercare)
+1. Identifies as underrepresented (which can include components of above, or be separate)
+1. Paid contributor vs. unpaid volunteer contributor
 
 *NOTE:* that paid vs. unpaid contributors can be problematic and nuanced from the perspective of diversity and inclusion. Many people who participate as volunteers are coming at it from a position of privilege because they can afford to spend their free time participating in an open source project instead of working a second job to make ends meet, caring for family members, or spending time meeting basic survival needs. In other words, having more volunteer contributors might actually mean that the project is less diverse, rather than more diverse. However, in a corporate sponsored project, involving volunteer contributors could be a sign that the community is welcoming and inclusive.
 
