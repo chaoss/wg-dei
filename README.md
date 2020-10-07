@@ -105,6 +105,7 @@ The collaboration guide is still in progress, but we’ve provided a few steps a
 - Come see us at upcoming [conferences and workshops](https://chaoss.community/community/#user-content-upcoming-events).
 - Review the Metrics Focus Areas and provide your feedback.
 - Review the [issue list](https://github.com/chaoss/wg-diversity-inclusion/issues) and fix some of the issues.
+- Review the [metric template](https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md) to create a new metric.
 
 ## Contributors
 
