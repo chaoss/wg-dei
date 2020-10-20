@@ -5,17 +5,19 @@ Question: How is project burnout identified and managed within an open source pr
 
 ## Description
 
-Burnout is a condition of mental, emotional, and physical exhaustion resulting from chronic stress. The three dimensions characterising burnout are feelings of energy depletion or exhaustion, increased cynicism or psychological distance from one’s work and reduced professional efficacy (WHO, 2020). Project Burnout occurs when project members become overwhelmed with the amount of work expected with project participation. Project burnout occurs, not only with technical activities, but also activities of community management and organization. 
+Burnout is a condition of mental, emotional, and physical exhaustion resulting from chronic stress. The three dimensions characterising burnout are feelings of energy depletion or exhaustion, increased cynicism or psychological distance from one’s work and reduced professional efficacy (WHO, 2020). Project Burnout can occur:
+* When project members become overwhelmed with the amount of work expected with project participation
+* As a result of any community and contributor activities, including technical work, community management, and organizational work. 
 
 
 ## Objectives
 
-Project Burnout should be understood within projects and managed effectively to improve the well-being of all and this metric is intended to:
+Project Burnout should be understood within projects and managed effectively to improve the well-being of all. This metric is intended to:
 
-*   Help develop community strategies to help project-related burnout
-*   Identify activities that might be leading indicators for project burnout
-*   Help people manage burnout and even see burnout before it happens
-*   Help ensure that people maintain a healthy life with project activities 
+*   Develop strategies with communities to help project-related burnout
+*   Identify activities as leading indicators to identify project burnout
+*   Help people manage burnout by identifying signs before it happens
+*   Help people make decisions to maintain a healthy life in relation to project activities 
 
 
 ## Implementation
@@ -23,7 +25,7 @@ Project Burnout should be understood within projects and managed effectively to 
 
 ### Data Collection Strategies 
 
-*   The following is a way to better assess the well-being of open source project contributors and maintainers. The following is a useful set of questions that can be asked regarding the well-being of members
+*   The following is a way to better assess the well-being of open source project contributors and maintainers through a useful set of questions that can be asked regarding the well-being of community members
     *   [https://cdn.ymaws.com/www.palibraries.org/resource/collection/9E7F69CE-5257-4353-B71B-905854B5FA6B/Self-CareBurnoutSelf-Test.pdf](https://cdn.ymaws.com/www.palibraries.org/resource/collection/9E7F69CE-5257-4353-B71B-905854B5FA6B/Self-CareBurnoutSelf-Test.pdf)
     *   Following the questions, aggregate the results for the community and use individual scores, if they are shared, too.
 *   Surveys: Ask about the well-being of individuals in the project
