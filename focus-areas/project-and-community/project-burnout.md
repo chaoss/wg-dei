@@ -51,6 +51,10 @@ _This question is currently phrased broadly to identify a) if contributions will
     *   How do you measure the well-being of your community members in your open source project?
     *   How do you determine the well-being of contributors to your project?
 
+#### Trace Data: Explore online data to get a better understanding of the well-being of individuals in the project
+ * Analyze activity metrics around the number of contributions over time per individual to see if there is an abrupt drop off after an extended contribution time.
+ * Analyze if there are continuous contributions over a long period that abruptly end 
+ * Analyze if there are a large number of contributions by a very small group of people (see Bus Factor or [Elephant Factor](https://chaoss.community/metric-elephant-factor/) metrics)
 
 ## References
 
