@@ -34,18 +34,18 @@ How active are they?
 For example, very active chats can be difficult to follow and that difficulty will vary from person to person.
 
 * General:
-	* # of active Chat Platforms / rooms / groups
-	* # of messages per day, week, month
-	* # of active participants per day, week, month
-	* # of passive participants (i.e. reading but not participating)
-	* # of external participants (i.e. people who are not associated with a leading company working on an Open Source Project, such as Red Hat with the Fedora Project)
+  * Number of active Chat Platforms / rooms / groups
+  * Number of messages per day, week, month
+  * Number of active participants per day, week, month
+  * Number of passive participants (i.e. reading but not participating)
+  * Number of external participants (i.e. people who are not associated with a leading company working on an Open Source Project, such as Red Hat with the Fedora Project)
 * Identities:
-	* # of (independent) volunteers
-	* # of corporate volunteers (people being paid by another entity to to volunteer work)
-	* # of workers (employees or contractors)
+  * Number of (independent) volunteers
+  * Number of corporate volunteers (people being paid by another entity to to volunteer work)
+  * Number of workers (employees or contractors)
 * Platforms without persistent connections (i.e., IRC):
-	* # of daily connections to room
-	* # of repeat logins
+  * Number of daily connections to room
+  * Number of repeat logins
 
 ### Visualizations
 
@@ -53,7 +53,7 @@ For example, very active chats can be difficult to follow and that difficulty wi
 * Number of active new chat members vs. older chat members
 * Word clouds (for public Chat Platforms, e.g., public Mattermost rooms)
 * “On-topic” vs. “off-topic” conversation
-	* How often certain keywords or phrases show up, etc.
+  * How often certain keywords or phrases show up, etc.
 
 ### Tools Providing the Metric
 
@@ -62,27 +62,27 @@ For example, very active chats can be difficult to follow and that difficulty wi
 ### Data Collection Strategies
 
 * **Trace data from Chat Platforms**:
-	* See supported platforms for data collection [in Perceval][1].
+  * See supported platforms for data collection [in Perceval][1].
 * **Open Source status of Chat Platform**:
-	* See the [CHAOSS blog post on open source platform status][2].
-	* Does the chat service offer Open Source client applications?
-	* Does the chat service offer Open Source server implementations?
-	* Does the chat service offer an Open API for integrating with data collection or bridging?
+  * See the [CHAOSS blog post on open source platform status][2].
+  * Does the chat service offer Open Source client applications?
+  * Does the chat service offer Open Source server implementations?
+  * Does the chat service offer an Open API for integrating with data collection or bridging?
 * **Features for low-bandwidth connections**:
-	* Does it require a persistent Internet connection to use (e.g., IRC)?
-	* Does the Chat Platform function with minimal bandwidth?
+  * Does it require a persistent Internet connection to use (e.g., IRC)?
+  * Does the Chat Platform function with minimal bandwidth?
 * **Features for community management and moderation**:
-	* Does the Chat Platform offer robust moderation tools for moderators?
-	* Does the Chat Platform have bot functionality or does it require fully manual intervention for moderation?
+  * Does the Chat Platform offer robust moderation tools for moderators?
+  * Does the Chat Platform have bot functionality or does it require fully manual intervention for moderation?
 * **Features for internationalization**:
-	* Is the Chat Platform available in multiple countries, or are there geographic limitations?
-	* Does the Chat Platform provide tools for translation?
+  * Is the Chat Platform available in multiple countries, or are there geographic limitations?
+  * Does the Chat Platform provide tools for translation?
 * **Features for access**:
-	* Does the Chat Platform support tools for accessibility (e.g., friendly for screen readers)?
-	* Is the Chat Platform easy to use for newcomers?
-	* Is the Chat Platform available for a variety of devices?
+  * Does the Chat Platform support tools for accessibility (e.g., friendly for screen readers)?
+  * Is the Chat Platform easy to use for newcomers?
+  * Is the Chat Platform available for a variety of devices?
 * **Features for privacy**:
-	* Does the Chat Platform require personal information to be verified or submitted for users to sign up?
+  * Does the Chat Platform require personal information to be verified or submitted for users to sign up?
 
 
 ## References
