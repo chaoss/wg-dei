@@ -2,6 +2,7 @@
 
 Question: How do you review Chat Platform inclusivity for your community?
 
+### This metric is a release candidate. To comment on this metric please see [Issue #328](https://github.com/chaoss/wg-diversity-inclusion/issues/328). Following a comment period, this metric will be included in the next regular release.  
 
 ## Description
 
