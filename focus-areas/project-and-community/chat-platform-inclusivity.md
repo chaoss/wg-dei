@@ -95,7 +95,7 @@ For example, very active chats can be difficult to follow and that difficulty wi
 
 
 [1]: https://github.com/chaoss/grimoirelab-perceval#usage
-[2]: https://docs.google.com/document/d/1xJCCJluFS6sknChZup_hwFpGXO2AQ0defY70SR5TJ24/edit
+[2]: https://chaoss.community/blog-post/2020/12/15/di-metrics-definition/
 [3]: https://opensource.com/article/20/4/chat-tools-best-practices
 [4]: https://web.archive.org/web/20200522175549/https:///articles/2017-04/Moderation-guidelines
 [5]: https://www.drupaldiversity.com/docs/participation-moderation-guidelines
