@@ -10,6 +10,7 @@ Name | Question
 [Documentation Accessibility](documentation-accessibility.md) | How does the documentation accommodate different users?
 [Issue Label Inclusivity](issue-label-inclusivity.md) | How well are project issues labeled to invite new contributors, skilled contributors, non-code contributors, and other types of contributors?
 [Project Burnout](project-burnout.md) | How is project burnout identified and managed within an open source project?
+[Chat Platform Inclusivity](chat-platform-inclusivity.md ) | How do you review Chat Platform inclusivity for your community?
 | (The following metrics are not released, yet)
 [Documentation](documentation.md) | What is the thoroughness, and accessibility of documentation according to a set of criteria. This includes README/CONTRIBUTING (TBD)
 [Issue Tracker](issue-tracker.md) | How well a project issue tracker setup to invite new contributors, skilled contributors, non-technical contributors. (Criteria TBD)
