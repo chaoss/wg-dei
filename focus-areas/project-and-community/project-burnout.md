@@ -87,15 +87,3 @@ _This question is currently phrased broadly to identify a) if contributions will
 5. Help people identify what “stage” of burnout they are in, or if they are on a path to a more severe burnout stage: [Practical guide for avoiding Burnout and living a happier life](https://opensource.com/business/15/12/avoid-burnout-live-happy)
 6. [Burned out](https://www.scientificamerican.com/article/burned-out/)
 7. [How I learned about burnout the hard way](https://opensource.com/article/20/3/burnout)
-
-
-
-## References
-
-1. [What you need to know about burnout in open source communities](https://opensource.com/article/19/11/burnout-open-source-communities)
-2. [What does an open source maintainer do after burnout?](https://www.infoworld.com/article/3563326/what-does-an-open-source-maintainer-do-after-burnout.html)
-3. [Raman, N., Cao, M., Tsvetkov, Y., Kästner, C., & Vasilescu, B. (2020). Stress and Burnout in Open Source: Toward Finding, Understanding, and Mitigating Unhealthy Interactions. In International Conference on Software Engineering, New Ideas and Emerging Results (ICSE-NIER).](https://cmustrudel.github.io/papers/raman20toxicity.pdf)
-4. [Emotional Resilience In Leadership Report 2020](https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit#) (_“but not for OSS”_)
-5. Help people identify what “stage” of burnout they are in, or if they are on a path to a more severe burnout stage: [Practical guide for avoiding Burnout and living a happier life](https://opensource.com/business/15/12/avoid-burnout-live-happy)
-6. [Burned out](https://www.scientificamerican.com/article/burned-out/)
-7. [How I learned about burnout the hard way](https://opensource.com/article/20/3/burnout)
