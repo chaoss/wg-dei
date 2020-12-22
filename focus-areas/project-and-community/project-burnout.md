@@ -1,11 +1,11 @@
 # Project Burnout
 
 Question: How is project burnout identified and managed within an open source project?
- 
+
 
 ## Description
 
-Burnout is a condition of mental, emotional, and physical exhaustion resulting from chronic stress. The three dimensions characterising burnout are feelings of energy depletion or exhaustion, increased cynicism or psychological distance from one’s work and reduced professional efficacy (WHO, 2020). Project Burnout can occur:
+Burnout is a condition of mental, emotional, and physical exhaustion resulting from chronic stress. The three dimensions characterizing burnout are feelings of energy depletion or exhaustion, increased cynicism or psychological distance from one’s work and reduced professional efficacy (WHO, 2020). Project Burnout can occur:
 * When project members become overwhelmed with the amount of work expected with project participation
 * As a result of any community and contributor activities, including technical work, community management, and organizational work. 
 
@@ -23,11 +23,11 @@ Project Burnout should be understood within projects and managed effectively to 
 # Project Burnout
 
 Question: How is project burnout identified and managed within an open source project?
- 
+
 
 ## Description
 
-Burnout is a condition of mental, emotional, and physical exhaustion resulting from chronic stress. The three dimensions characterising burnout are feelings of energy depletion or exhaustion, increased cynicism or psychological distance from one’s work and reduced professional efficacy (WHO, 2020). Project Burnout occurs when project members become overwhelmed with the amount of work expected with project participation. Project burnout occurs, not only with technical activities, but also activities of community management and organization. 
+Burnout is a condition of mental, emotional, and physical exhaustion resulting from chronic stress. The three dimensions characterizing burnout are feelings of energy depletion or exhaustion, increased cynicism or psychological distance from one’s work and reduced professional efficacy (WHO, 2020). Project Burnout occurs when project members become overwhelmed with the amount of work expected with project participation. Project burnout occurs, not only with technical activities, but also activities of community management and organization. 
 
 
 ## Objectives
@@ -44,7 +44,7 @@ Project Burnout should be understood within projects and managed effectively to 
 
 #### Data will be collected via a combination of surveys, interviews and analysis of trace date.
 
-The working group is gettting agreement on a set of questions that can be used to measure project burnout and more generally the well-being of open source project contributors and maintainers. The questions are meant to be collected as individual scores and then reported on in aggregate.
+The working group is getting agreement on a set of questions that can be used to measure project burnout and more generally the well-being of open source project contributors and maintainers. The questions are meant to be collected as individual scores and then reported on in aggregate.
 
 * On a scale of (1-x), how strongly do you agree with the following:
   * I feel pressure to complete project tasks I don’t have time to complete
@@ -56,7 +56,7 @@ The working group is gettting agreement on a set of questions that can be used t
   * Emotionally drained
 
 
-_This question is currently phrased broadly to identify a) if contributions will increase or decrease and b) why the changes will occur. The Working Group should discuss what the goals are. Then we can operationalize and provide sample questions. In other words, we can just look at plans to decrease contributions based on increased committments._
+_This question is currently phrased broadly to identify a) if contributions will increase or decrease and b) why the changes will occur. The Working Group should discuss what the goals are. Then we can operationalize and provide sample questions. In other words, we can just look at plans to decrease contributions based on increased commitments._
 
 
 * In the next six months, how likely are you to increase or decrease the time you contribute to the project for the following reasons: (Very likely to increase; Somewhat likely to increase; Neutral—no change; Somewhat likely to decrease; Very likely to decrease; Don’t know)
