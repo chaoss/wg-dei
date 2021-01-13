@@ -2,6 +2,7 @@
 
 Question: How does the documentation accommodate different users?
 
+### This metric is a release candidate. To comment on this metric please see [Issue #321](https://github.com/chaoss/wg-diversity-inclusion/issues/321). Following a comment period, this metric will be included in the next regular release.  
 
 ## Description
 
@@ -19,7 +20,7 @@ These objectives help measure whether your documentation is accessible to a broa
 
 ## Implementation
 
-**Note:** Be attentive to the target audiences for documentation. Due to the broad spectrum of projects and people who may contribute, documentation should address the different requirements of all its audiences. 
+**Note:** Be attentive to the target audiences for documentation. Due to the broad spectrum of projects and people who may contribute, documentation should address the different requirements of all its audiences.
 
 
 ### Data Collection Strategies
@@ -32,7 +33,7 @@ Sample interview questions:
   * Were you comfortable with the technical terms present in the documentation?
 * **Survey** project members
   * Matrix item: When you need to locate information about this project’s processes, policies, or guidelines, which of the following describes your experience? [(2)](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=158869274)
-    * Matrix rows can be: 
+    * Matrix rows can be:
       * Mailing list communication
       * Chat communication
       * Performing code reviews
@@ -44,13 +45,13 @@ Sample interview questions:
       * Add new Committers/Maintainers
       * Project releases
       * Voting process
-    * Matrix columns can be: 
+    * Matrix columns can be:
       * Always easy to find
         * Easy to find
         * Difficult to find
         * Very difficult to find
   * Multiple choice: Did you face any challenges related to the accessibility of documentation when you started to participate in the project (e.g., language barriers, discoverability of documentation, structure of documentation)? [(2)](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=158869274)
-    * Answer options: 
+    * Answer options:
       * No challenges
       * A Few challenges
       * Several challenges
@@ -62,15 +63,15 @@ Sample interview questions:
   * Text and Code Blocks
   * Bullets or Paragraphs
   * Anchors
-* Evaluate searchability by considering: 
+* Evaluate searchability by considering:
   * How easily can this documentation be found by a user?
   * How easily can a user find what they require within the documentation?
   * Is the document easy to navigate with a keyboard?
 * Provide a quick micro-survey with only one question to readers of the documentation (i.e., bottom-page or popup when leaving documentation page):
   * Yes/No question: Was this documentation page accessible to you?
-  * Likert Scale [1-x]: How accessible was this documentation to you? 
+  * Likert Scale [1-x]: How accessible was this documentation to you?
   * Short Answer: How do you feel about the accessibility of the documentation?
-* **Walkthrough** with intended users of the documentation. Observe how they interact and use the documentation and where they get stuck. This can be a video conference session where the user of the documentation shares their screen. 
+* **Walkthrough** with intended users of the documentation. Observe how they interact and use the documentation and where they get stuck. This can be a video conference session where the user of the documentation shares their screen.
 * Ask users of documentation to write a **friction log** and describe what issues they had with documentation. This gives concrete use cases for documentation editors to understand how to improve the documentation for the specific user.
 * Consider if **different versions of documentation** are available for different audiences? For example, a light-weight version and a very detailed version.
 

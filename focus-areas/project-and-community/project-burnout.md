@@ -1,13 +1,14 @@
 # Project Burnout
 
 Question: How is project burnout identified and managed within an open source project?
- 
+
+ ### This metric is a release candidate. To comment on this metric please see [Issue #319](https://github.com/chaoss/wg-diversity-inclusion/issues/319). Following a comment period, this metric will be included in the next regular release.  
 
 ## Description
 
 Burnout is a condition of mental, emotional, and physical exhaustion resulting from chronic stress. The three dimensions characterising burnout are feelings of energy depletion or exhaustion, increased cynicism or psychological distance from one’s work and reduced professional efficacy (WHO, 2020). Project Burnout can occur:
 * When project members become overwhelmed with the amount of work expected with project participation
-* As a result of any community and contributor activities, including technical work, community management, and organizational work. 
+* As a result of any community and contributor activities, including technical work, community management, and organizational work.
 
 
 ## Objectives
@@ -17,13 +18,13 @@ Project Burnout should be understood within projects and managed effectively to 
 *   Develop strategies with communities to help project-related burnout
 *   Identify activities as leading indicators to identify project burnout
 *   Help people manage burnout by identifying signs before it happens
-*   Help people make decisions to maintain a healthy life in relation to project activities 
+*   Help people make decisions to maintain a healthy life in relation to project activities
 
 
 ## Implementation
 
 
-### Data Collection Strategies 
+### Data Collection Strategies
 
 *   The following is a way to better assess the well-being of open source project contributors and maintainers through a useful set of questions that can be asked regarding the well-being of community members
     *   [https://cdn.ymaws.com/www.palibraries.org/resource/collection/9E7F69CE-5257-4353-B71B-905854B5FA6B/Self-CareBurnoutSelf-Test.pdf](https://cdn.ymaws.com/www.palibraries.org/resource/collection/9E7F69CE-5257-4353-B71B-905854B5FA6B/Self-CareBurnoutSelf-Test.pdf)
@@ -33,7 +34,7 @@ Project Burnout should be understood within projects and managed effectively to 
     *   Survey Likert item (1-x): I feel emotionally drained from my work on this project
     *   Survey Likert item (1-x): I have felt tired when working on this open source project
     *   Survey Likert item (1-x): I take time for self-care, self-initiated practices that enhance health and positive well-being, [Bickley, 1998] when working on this open source project.
-    *   Survey Likert item (1-x): In the past six months, I have thought about leaving this project. 
+    *   Survey Likert item (1-x): In the past six months, I have thought about leaving this project.
     *   Survey Likert item (1-x): I have thought about or have taken a break from the project because of project-related stress.
     *   Survey Likert item (1-x): I have thought about or have taken a break from the project to balance with other parts of my life.
     *   Survey Likert item (1-x): I never seem to have enough time to get everything done on this project.
@@ -43,12 +44,12 @@ Project Burnout should be understood within projects and managed effectively to 
     *   Survey Likert item (1-x): We can openly talk in the project about how we are doing and feeling and check-in on each other.
 *   Trace Data: Explore online data to get a better understanding of the well-being of individuals in the project
     *   Analyze activity metrics around the number of contributions over time per individual to see if there is an abrupt drop off after an extended contribution time.
-    *   Analyze if there are continuous contributions over a long period that abruptly end 
+    *   Analyze if there are continuous contributions over a long period that abruptly end
     *   Analyze if there are a large number of contributions by a very small group of people (see Bus Factor or [Elephant Factor](https://chaoss.community/metric-elephant-factor/) metrics)
 *   Interviews: Talk with open source project contributors and maintainers with their own interpretation of terms
 *   Contributor Questions:
     *   How do you feel about working on this project?
-    *   Has a poor state of well-being affected your engagement with this open source project? How? 
+    *   Has a poor state of well-being affected your engagement with this open source project? How?
 *   Maintainer Questions:
     *   How should we be monitoring the well-being of individuals?
     *   How do you measure the well-being of your community members in your open source project?
