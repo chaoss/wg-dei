@@ -8,7 +8,7 @@ Question: How do you review Chat Platform inclusivity for your community?
 
 Open Source communities need places for contributors to interact and engage with each other.
 Much of this communication is likely to be project-related, but there may also be spaces for general social connection with other contributors.
-This metric describes synchronous communication in Chat Platforms, which includes platforms for chat rooms, real-time conversations, and video conferences.
+This metric describes synchronous communication in Chat Platforms, which includes platforms for public shared chat rooms, real-time conversations, and video conferences.
 
 Chat Platforms are essential to a functioning open source community.
 Chat Platforms support a healthy project by enabling cross-team collaboration in different skill areas, helping peer collaborators find and interact with each other faster, increasing project transparency which allows team members to notice potential problems before they occur, and saving time by cutting across organizational hierarchies.
@@ -66,9 +66,9 @@ For example, very active chats can be difficult to follow and that difficulty wi
   * See supported platforms for data collection [in Perceval][1].
 * **Open Source status of Chat Platform**:
   * See the [CHAOSS blog post on open source platform status][2].
-  * Does the chat service offer Open Source client applications?
-  * Does the chat service offer Open Source server implementations?
-  * Does the chat service offer an Open API for integrating with data collection or bridging?
+  * Does the chat platform offer Open Source client applications?
+  * Does the chat platform offer Open Source server implementations?
+  * Does the chat platform offer an Open API for integrating with data collection or bridging?
 * **Features for low-bandwidth connections**:
   * Does it require a persistent Internet connection to use (e.g., IRC)?
   * Does the Chat Platform function with minimal bandwidth?
