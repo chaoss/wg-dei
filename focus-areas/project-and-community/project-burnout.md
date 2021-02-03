@@ -24,7 +24,7 @@ Project Burnout should be understood within projects and managed effectively to 
 ## Implementation
 
 
-#### Data will be collected via a combination of surveys, interviews and analysis of trace date.
+### Data will be collected via a combination of surveys, interviews and analysis of trace date.
 
 The working group is getting agreement on a set of questions that can be used to measure project burnout and more generally the well-being of open source project contributors and maintainers. The questions are meant to be collected as individual scores and then reported on in aggregate.
 
@@ -46,7 +46,7 @@ _This question is currently phrased broadly to identify a) if contributions will
   * Change in work-related commitments
   * Change in expectations from maintainers
     
-#### Interviews: Talk with open source project contributors and maintainers with their own interpretation of terms
+### Interviews: Talk with open source project contributors and maintainers with their own interpretation of terms
 *   Contributor Questions:
     *   How do you feel about working on this project? 
     *   Has a poor state of well-being affected your engagement with this open source project? How? 
@@ -55,7 +55,7 @@ _This question is currently phrased broadly to identify a) if contributions will
     *   How do you measure the well-being of your community members in your open source project?
     *   How do you determine the well-being of contributors to your project?
 
-#### Trace Data: Explore online data to get a better understanding of the well-being of individuals in the project
+### Trace Data: Explore online data to get a better understanding of the well-being of individuals in the project
  * Analyze activity metrics around the number of contributions over time per individual to see if there is an abrupt drop off after an extended contribution time.
  * Analyze if there are continuous contributions over a long period that abruptly end 
  * Analyze if there are a large number of contributions by a very small group of people (see Bus Factor or [Elephant Factor](https://chaoss.community/metric-elephant-factor/) metrics)
