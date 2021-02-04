@@ -5,28 +5,6 @@ Question: How is project burnout identified and managed within an open source pr
 
 ## Description
 
-Burnout is a condition of mental, emotional, and physical exhaustion resulting from chronic stress. The three dimensions characterizing burnout are feelings of energy depletion or exhaustion, increased cynicism or psychological distance from one’s work and reduced professional efficacy (WHO, 2020). Project Burnout can occur:
-* When project members become overwhelmed with the amount of work expected with project participation
-* As a result of any community and contributor activities, including technical work, community management, and organizational work. 
-
-
-## Objectives
-
-Project Burnout should be understood within projects and managed effectively to improve the well-being of all. This metric is intended to:
-
-*   Develop strategies with communities to help project-related burnout
-*   Identify activities as leading indicators to identify project burnout
-*   Help people manage burnout by identifying signs before it happens
-*   Help people make decisions to maintain a healthy life in relation to project activities 
-
-
-# Project Burnout
-
-Question: How is project burnout identified and managed within an open source project?
-
-
-## Description
-
 Burnout is a condition of mental, emotional, and physical exhaustion resulting from chronic stress. The three dimensions characterizing burnout are feelings of energy depletion or exhaustion, increased cynicism or psychological distance from one’s work and reduced professional efficacy (WHO, 2020). Project Burnout occurs when project members become overwhelmed with the amount of work expected with project participation. Project burnout occurs, not only with technical activities, but also activities of community management and organization. 
 
 
@@ -39,41 +17,50 @@ Project Burnout should be understood within projects and managed effectively to 
 *   Help people manage burnout and even see burnout before it happens
 *   Help ensure that people maintain a healthy life with project activities 
 
-
 ## Implementation
 
-#### Data will be collected via a combination of surveys, interviews and analysis of trace date.
+### Data Collection Strategies
 
-The working group is getting agreement on a set of questions that can be used to measure project burnout and more generally the well-being of open source project contributors and maintainers. The questions are meant to be collected as individual scores and then reported on in aggregate.
+Data can be collected via a combination of surveys, interviews, and analysis of trace data.
+
+**Surveys**
+
+The following questions can help measure project burnout and more generally the well-being of open source project contributors and maintainers. The questions are meant to be collected as individual scores and then reported on in aggregate.
 
 * On a scale of (1-x), how strongly do you agree with the following:
   * I feel pressure to complete project tasks I don’t have time to complete
   * I would recommend that a friend or colleague volunteer to participate in the project
   * My contributions to the project are recognized
-  
-* On average, are you more likely to feel energized or emotionally drained after engaging with the project's community?
-  * Energized
-  * Emotionally drained
-
-
-_This question is currently phrased broadly to identify a) if contributions will increase or decrease and b) why the changes will occur. The Working Group should discuss what the goals are. Then we can operationalize and provide sample questions. In other words, we can just look at plans to decrease contributions based on increased commitments._
-
-
-* In the next six months, how likely are you to increase or decrease the time you contribute to the project for the following reasons: (Very likely to increase; Somewhat likely to increase; Neutral—no change; Somewhat likely to decrease; Very likely to decrease; Don’t know)
-  * Change in personal-related commitments
-  * Change in work-related commitments
-  * Change in expectations from maintainers
+  * I feel energized working on this open source project
+  * I feel emotionally drained from my work on this project
+  * I have felt tired when working on this open source project
+  * I take time for self-care, self-initiated practices that enhance health and positive well-being, [Bickley, 1998] when working on this open source project.
+  * I have thought about leaving this project.
+  * I have thought about or have taken a break from the project because of project-related stress.
+  * I have thought about or have taken a break from the project to balance with other parts of my life.
+  * I never seem to have enough time to get everything done on this project.
+  * I have to neglect some tasks related to this project because I have too much to do.
+  * I feel that my contributions in the project are valued and rewarding to me.
+  * I feel that my voice is heard in the project.
+  * We can openly talk in the project about how we are doing and feeling and check-in on each other.
+  * On average, are you more likely to feel energized or emotionally drained after engaging with the project's community?
+    * Energized
+    * Emotionally drained
+  * How likely are you to increase or decrease the time you contribute to the project for the following reasons: (Very likely to increase; Somewhat likely to increase; Neutral—no change; Somewhat likely to decrease; Very likely to decrease; Don’t know)
+    * Change in personal-related commitments
+    * Change in work-related commitments
+    * Change in expectations from maintainers
     
-#### Interviews: Talk with open source project contributors and maintainers with their own interpretation of terms
-*   Contributor Questions:
-    *   How do you feel about working on this project? 
-    *   Has a poor state of well-being affected your engagement with this open source project? How? 
-*   Maintainer Questions:
-    *   How should we be monitoring the well-being of individuals?
-    *   How do you measure the well-being of your community members in your open source project?
-    *   How do you determine the well-being of contributors to your project?
+**Interviews**
+  * Contributor Questions:
+     * How do you feel about working on this project? 
+     * Has a poor state of well-being affected your engagement with this open source project? How? 
+  * Maintainer Questions:
+     * How should we be monitoring the well-being of individuals?
+     * How do you measure the well-being of your community members in your open source project?
+     * How do you determine the well-being of contributors to your project?
 
-#### Trace Data: Explore online data to get a better understanding of the well-being of individuals in the project
+**Trace Data**
  * Analyze activity metrics around the number of contributions over time per individual to see if there is an abrupt drop off after an extended contribution time.
  * Analyze if there are continuous contributions over a long period that abruptly end 
  * Analyze if there are a large number of contributions by a very small group of people (see Bus Factor or [Elephant Factor](https://chaoss.community/metric-elephant-factor/) metrics)
