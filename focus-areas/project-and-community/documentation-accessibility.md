@@ -45,6 +45,13 @@ Sample interview questions:
       * Add new Committers/Maintainers
       * Project releases
       * Voting process
+      * Installation procedures
+      * Feature development
+      * API integration
+      * Test suites
+      * Architecture overview
+      * User guide
+
     * Matrix columns can be:
       * Always easy to find
         * Easy to find
