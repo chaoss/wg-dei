@@ -35,7 +35,7 @@ How active are they?
 For example, very active chats can be difficult to follow and that difficulty will vary from person to person.
 
 * General:
-  * Number of active Chat Platforms / rooms / groups
+  * Number of active Chat rooms / groups
   * Number of messages per day, week, month
   * Number of active participants per day, week, month
   * Number of passive participants (i.e. reading but not participating)
