@@ -2,8 +2,6 @@
 
 Question: How is project burnout identified and managed within an open source project?
 
- ### This metric is a release candidate. To comment on this metric please see [Issue #319](https://github.com/chaoss/wg-diversity-inclusion/issues/319). Following a comment period, this metric will be included in the next regular release.  
-
 ## Description
 
 Burnout is a condition of mental, emotional, and physical exhaustion resulting from chronic stress. The three dimensions characterising burnout are feelings of energy depletion or exhaustion, increased cynicism or psychological distance from one’s work and reduced professional efficacy (WHO, 2020). Project Burnout can occur:

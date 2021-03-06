@@ -2,12 +2,9 @@
 
 Question: How does the documentation accommodate different users?
 
-### This metric is a release candidate. To comment on this metric please see [Issue #321](https://github.com/chaoss/wg-diversity-inclusion/issues/321). Following a comment period, this metric will be included in the next regular release.  
-
 ## Description
 
 Documentation accessibility is critical due to the role documentation plays in open source projects. Users of documentation have different abilities, requiring the documentation to be offered in different formats to be equally empowering for these different users. The goal is to foster understanding for the widest audience of contributors to a project.
-
 
 ## Objectives
 
