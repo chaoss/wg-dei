@@ -2,8 +2,6 @@
 
 Question: How do you review Chat Platform inclusivity for your community?
 
-### This metric is a release candidate. To comment on this metric please see [Issue #328](https://github.com/chaoss/wg-diversity-inclusion/issues/328). Following a comment period, this metric will be included in the next regular release.  
-
 ## Description
 
 Open Source communities need places for contributors to interact and engage with each other.
@@ -35,7 +33,7 @@ How active are they?
 For example, very active chats can be difficult to follow and that difficulty will vary from person to person.
 
 * General:
-  * Number of active Chat rooms / groups
+  * Number of active Chat Platforms / rooms / groups
   * Number of messages per day, week, month
   * Number of active participants per day, week, month
   * Number of passive participants (i.e. reading but not participating)
