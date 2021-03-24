@@ -3,11 +3,11 @@
 
 ## Introduction
 
-Diversity and inclusion are central to the health of open source communities. The CHAOSS Diversity & Inclusion (D&I) Working Group aims at bringing experiences to measure diversity and inclusion consistently across open source projects, supported by software where possible. 
+Diversity, equity, and inclusion are central to the health of open source communities. The CHAOSS Diversity, Equity, & Inclusion (DEI) Working Group aims at bringing experiences to measure diversity and inclusion consistently across open source projects, supported by software where possible. 
 
 We’ve defined seven (7) [focus areas of metrics](#metrics-focus-areas), and are working on further defining these areas. We’ve also established a roadmap of [D&I Objectives](https://github.com/chaoss/wg-diversity-inclusion/blob/master/goals-2019.md) to guide our work.
 
-We invite anyone interested in the topic of diversity and inclusion to learn more, and join us. See [Contributing](#contributing) below to join the mailing list, or one of our weekly video calls.
+We invite anyone interested in the topic of diversity, equity, and inclusion to learn more, and join us. See [Contributing](#contributing) below to join the mailing list, or one of our weekly video calls.
 
 ## Table of Contents
 
@@ -32,27 +32,26 @@ The tech industry has a well-documented representation gap, and this issue is ev
 
 ### Opportunity
 
-For the D&I Working Group, within the CHAOSS project.
+For the DEI Working Group, within the CHAOSS project.
 
 CHAOSS mission from website:
 
 > The CHAOSS community is developing metrics, methodologies, and software for expressing open source project health and sustainability. By measuring open source project health and sustainability, CHAOSS seeks to improve the transparency of open source project health and sustainability so that relevant stakeholders can make more informed decisions about open source project engagement.
 
-Community health cannot exist without diversity and inclusion. Diversity and inclusion is thus central to the CHAOSS project goals. See [Objective 3](https://github.com/chaoss/wg-diversity-inclusion/blob/master/goals-2019.md) for more details on adding D&I to the CHAOSS mission.
+Community health cannot exist without diversity, equity, and inclusion. DEI is thus central to the CHAOSS project goals. See [Objective 3](https://github.com/chaoss/wg-diversity-inclusion/blob/master/goals-2019.md) for more details on adding D&I to the CHAOSS mission.
 
 ### Goal
 
-The CHAOSS D&I Working Group establishes and broadly communicates an ethical, peer-validated, research-informed, set of standards and best practices for measuring diversity and inclusion in open source projects, and ensures that CHAOSS project software can implement D&I metrics according to identified goals for inclusion with validation from key industry partnerships in open source. See [2019 objectives](https://github.com/chaoss/wg-diversity-inclusion/blob/master/goals-2019.md) for more detail. 
+The CHAOSS DEI Working Group establishes and broadly communicates an ethical, peer-validated, research-informed, set of standards and best practices for measuring diversity and inclusion in open source projects, and ensures that CHAOSS project software can implement D&I metrics according to identified goals for inclusion with validation from key industry partnerships in open source. See [2019 objectives](https://github.com/chaoss/wg-diversity-inclusion/blob/master/goals-2019.md) for more detail. 
 
 ### Work To Date
 
-The CHAOSS D&I Working Group has:
+The CHAOSS DEI Working Group has:
 
 * established collaboration spaces, including a mailing list, GitHub repository, and weekly calls.
-* defined 7 focus areas, which group metrics.
-* established a template for resource pages that describe why D&I metrics are helpful and how to measure them.
-* filled out an initial 10 resource pages.
-* presented at 5 conferences via presentations, panels, and tutorials.
+* defined key focus areas, which group metrics.
+* established a template for resource pages that describe why DEI metrics are helpful and how to measure them.
+* presented our DEI work at conferences via presentations, panels, and tutorials.
 * established [2019 objectives](https://github.com/chaoss/wg-diversity-inclusion/blob/master/goals-2019.md).
 
 ## Objectives
@@ -95,13 +94,13 @@ Collection of initiatives and related works that can inform our work or that we 
 
 ## Contributing
 
-This project is open to anyone interested in the topic of diversity and inclusion. And this includes several areas of work such as **diversity and inclusion** from a broader perspective, mining software repositories, **Python** development,
+This project is open to anyone interested in the topic of diversity, equity, and inclusion. And this includes several areas of work such as **diversity, equity, and inclusion** from a broader perspective, mining software repositories, **Python** development,
 **tech writing**, people interested in **speaking** at events and others.
 
 The collaboration guide is still in progress, but we’ve provided a few steps as good starting points:
 
-- Introduce yourself on the [CHAOSS D&I WG mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss-diversity-inclusion), and tell us a little bit about your interests.
-- Join us on our weekly video conferences. We meets every Wednesday at 10:00am CT (usually 17:00 CET, [check your local time](https://arewemeetingyet.com/Chicago/2020-02-19/10:00/w/CHAOSS%20D%26I%20WG)) via [Zoom](https://zoom.us/j/4998687533). Checkout our [agenda and meeting minutes](https://docs.google.com/document/d/1MzDk84BL7FfHDxbFxJz39M72V2Hfc5Y6oCPhOl6woxo/edit).
+- Introduce yourself on the [CHAOSS DEI WG mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss-diversity-inclusion), and tell us a little bit about your interests.
+- Join us on our weekly video conferences. 
 - Come see us at upcoming [conferences and workshops](https://chaoss.community/community/#user-content-upcoming-events).
 - Review the Metrics Focus Areas and provide your feedback.
 - Review the [issue list](https://github.com/chaoss/wg-diversity-inclusion/issues) and fix some of the issues.
@@ -122,7 +121,6 @@ The collaboration guide is still in progress, but we’ve provided a few steps a
 - [Nicole Huesman](https://github.com/uoduckswtd1)
 - [Matt Snell](https://github.com/Nebrethar)
 - [Kevin Lumbard](https://github.com/klumb)
-
 
 The criteria for becoming a core contributor is to participate at least once per month over a period of 3 months.
 Participation could include providing feedback in the weekly D&I meetings, providing feedback on docs, or
@@ -195,6 +193,6 @@ If you find yourself missing, please create a pull request or reach out to a mai
 
 The documents in this repositories are released under the MIT License. See [LICENSE](https://github.com/chaoss/wg-diversity-inclusion/blob/master/LICENSE) for details.
 
-Copyright © 2018-2020 CHAOSS Project
+Copyright © 2018-2021 CHAOSS Project
 
 
