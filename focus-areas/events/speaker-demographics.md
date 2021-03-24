@@ -5,7 +5,7 @@ Question: How well does the speaker lineup for the event represent a diverse set
 
 ## Description
 
-Speakers with diverse backgrounds who represent a variety of [demographics](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data) help an event provide different viewpoints and broader perspectives. Events with diverse speakers allow people from a variety of different backgrounds to feel more included in an event when they see people with similar demographics in important positions within the community. 
+Speakers with diverse backgrounds who represent a variety of [demographics](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data) help an event provide different viewpoints and broader perspectives. Events with diverse speakers allow people from a variety of different backgrounds to feel more included in an event when they see people with similar demographics in important positions within the community.
 
 
 ## Objectives
@@ -13,6 +13,8 @@ Speakers with diverse backgrounds who represent a variety of [demographics](http
 - Speakers are from diverse [backgrounds](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data).
 - Speakers are diverse when grouped by keynotes, sessions, and tracks.
 - Repeat speakers are from diverse backgrounds (retention). 
+- New speakers are from diverse backgrounds. 
+- Keynote, track, and sessions selection committees are themselves diverse. 
 
 
 ## Implementation
@@ -20,7 +22,7 @@ Speakers with diverse backgrounds who represent a variety of [demographics](http
 ### Filters
 
 - [demographics](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data): Some subjective questions should be analyzed in light of the responder’s demographics. Everyone has a different perspective. Investigating the responses for each group of demographics can indicate whether some demographics feel less included than the average.
-- Keynotes, sessions, and tracks
+- Diversity as found within keynotes, sessions, and tracks of all topics. 
 
 
 ### Data Collection Strategies
