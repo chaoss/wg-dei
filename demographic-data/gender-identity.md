@@ -3,7 +3,7 @@
 
 This standard is based on the following research:
 *  **D&I in Open Source Survey** : Providing a long list of gender-spectrum questions (from [Open Demographics](https://drnikki.github.io/sphinx-ghpages/index.html)) resulted in the selection of at least one of each.  Some respondents also indicated that desire for multiple choice options.  Low participation from regions like Asia and Africa may have been linked to the less-traditional, and familiar list of genders.
-* **India Groups survey:** In India gender choice for government forms is Male, Female and 'Third Gender'. To accomodate that norm, while making room for self-identifcation we added an Other____ field.
+* **India Groups survey:** In India gender choice for government forms is Male, Female and 'Third Gender'. To accomodate that norm, while making room for self-identification we added an Other____ field.
 * Recommendations from [uxdesign.cc](https://uxdesign.cc/designing-forms-for-gender-diversity-and-inclusion-d8194cf1f51)   and [hrc.org resources](https://www.hrc.org/resources/collecting-transgender-inclusive-gender-data-in-workplace-and-other-surveys).
 
 
