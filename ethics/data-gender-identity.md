@@ -5,7 +5,7 @@ NOTE: This is a work in progress.
 Refers to:  
 
 Collecting demographics data is important in helping open projects understand the impact of interventions we make to be a more inclusive, and welcoming project.
-That said, it's extremely important to always, always, always ensure you know why you are asking for sensitive data and avoid risk to underrepresented groups and idnviduals. Here are some prompts.
+That said, it's extremely important to always, always, always ensure you know why you are asking for sensitive data and avoid risk to underrepresented groups and individuals. Here are some prompts.
 
 Always include your organization's privacy policy.
 
