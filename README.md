@@ -9,7 +9,7 @@ https://tinyurl.com/yemecfhc
 
 ## Background
 
-Diversity, equity, and inclusion are central to the health of open source communities. The CHAOSS Diversity, Equity, & Inclusion (DEI) Working Group aims at bringing experiences to help others center diversity, equity, and inclusion in their own open source projects. The CHAOSS DEI Working Group establishes and broadly communicates an ethical, peer-validated, research-informed, set of standards and best practices for measuring diversity, equity, and inclusion in open source projects, and ensures that CHAOSS project software can implement DEI metrics according to identified goals for inclusion with validation from key industry partnerships in open source. We invite anyone interested in the topic of diversity, equity, and inclusion to learn more, and join us. See [Contributing](#contributing) below to become part of our community. 
+Diversity, equity, and inclusion are central to the health of open source communities. The CHAOSS Diversity, Equity, & Inclusion (DEI) Working Group aims at bringing experiences to help others center diversity, equity, and inclusion in their own open source projects. The CHAOSS DEI Working Group establishes and broadly communicates an ethical, peer-validated, research-informed, set of standards and best practices for measuring diversity, equity, and inclusion in open source projects. We invite anyone interested in the topic of diversity, equity, and inclusion to learn more, and join us. See [Contributing](#contributing) below to become part of our community. 
 
 ## Focus Areas
 
