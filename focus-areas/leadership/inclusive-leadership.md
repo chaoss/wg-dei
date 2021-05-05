@@ -1,6 +1,6 @@
 # Inclusive Leadership
 
-Question: How well is a project/community setup for diverse leadership?
+Question: How well is a project and community setup for diverse leadership?
 
 
 ## Description
@@ -18,19 +18,19 @@ Leadership is central to a project/community's culture and how the leadership is
 
 **Examples of open source leadership (e.g., influential community roles):**
 
-* People serving as project maintainers (sometimes referred to as owners)
-* People with repository merge access
-* People who are organization members for the repository
-* People who have defined community roles (community representatives, community speakers)
-* People listed in project documents as contacts for issues with builds, documentation, or other community concerns
-* People serving as community event organizers 
-* Pepole serving as community mentors for available mentorship programs
+* Individuals serving as project maintainers (sometimes referred to as owners)
+* Individuals with repository merge access
+* Individuals who are organization members for the repository
+* Individuals who have defined community roles (community representatives, community speakers)
+* Individuals listed in project documents as contacts for issues with builds, documentation, or other community concerns
+* Individuals serving as community event organizers 
+* Individuals serving as community mentors for available mentorship programs
 
 ### Data Collection Strategies
 
 **Step 1: Understand**
 
-The first step is to understand the principles of inclusive leadership by asking some questions that can include.
+The first step is to understand the principles of inclusive leadership by asking some questions that can include:
 
 _Review & Renewal_
 
