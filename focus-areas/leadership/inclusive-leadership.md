@@ -5,7 +5,7 @@ Question: How well is a project setup for diverse leadership?
 
 ## Description
 
-Leadership is central to project and community culture, and thus requires intentional design and accountability for the inclusion of others. The term 'leader' doesn't always resonate; if that's the case for your project, replace it with 'roles of influence'. As those in leadership roles have high visibility, the diversity of this group is critically important to fostering an inclusive community.
+Leadership is central to a project/community's culture and how the leadership is determined requires intentional design and accountability for the inclusion of others. Note the term leadership may vary depending on the project/community. Leadership roles have high visibility and the diversity of this group is critically important to fostering an inclusive community.
 
 
 ## Objectives
