@@ -1,4 +1,4 @@
-### This metric is a release candidate To comment on this metric please see [Issue #313](https://github.com/chaoss/wg-diversity-inclusion/issues/313). Following a comment period, this metric will be included in the next regular release.
+### This metric is a release candidate. To comment on this metric please see [Issue #313](https://github.com/chaoss/wg-diversity-inclusion/issues/313). Following a comment period, this metric will be included in the next regular release.
 
 # Documentation Discoverability 
 Question: How easily can users and contributors find the information they are looking for in a project’s documentation?
