@@ -1,4 +1,4 @@
-## Project & Communities
+# Project & Communities
 
 **Goal:** Identify how diverse and inclusive our project places, where community engagement occurs, are.
 
