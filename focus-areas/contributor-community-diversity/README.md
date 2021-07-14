@@ -1,4 +1,4 @@
-## Contributor Community Diversity
+# Contributor Community Diversity
 
 **Goal:** Identify the diversity of the contributions within a community, and howe those different contributions are valued.
 

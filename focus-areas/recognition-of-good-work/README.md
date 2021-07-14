@@ -1,6 +1,6 @@
-## Recognition of Good Work
+# Recognition of Good Work
 
-Goal: Identify how we recognize/reward good work in our community.
+**Goal:** Identify how we recognize/reward good work in our community.
 
 Name  |  Question
 --- | ---
