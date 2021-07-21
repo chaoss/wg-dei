@@ -17,12 +17,6 @@ Examples of Time Inclusion which can be implemented include:
 - Preparing and sending a recording to be live within an hour
 - Network bandwidth options by platform for both live participation and video streaming at a later date
 
-### Filters
-
-### Visualizations
-
-### Tools Providing the Metric
-
 ### Data Collection Strategies
 
 Survey attendees and speakers with Likert Scale [1-5] (Or Emoji Scale):
