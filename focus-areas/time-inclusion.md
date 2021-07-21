@@ -11,17 +11,17 @@ Global accessibility is vital due to the role it brings in choosing when an even
 
 ## Implementation
 
-Examples of Global Inclusion which can be implemented include:
+Examples of Time Inclusion which can be implemented include:
 - Having the speaker do a pre-recording where the speaker is able to answer questions live in the chat
 - Doing a presentation within a certain time block for certain time zones
 - Preparing and sending a recording to be live within an hour
 - Network bandwidth options by platform for both live participation and video streaming at a later date
 
-### Filters (optional)
+### Filters
 
-### Visualizations (optional)
+### Visualizations
 
-### Tools Providing the Metric (optional)
+### Tools Providing the Metric
 
 ### Data Collection Strategies
 
