@@ -1,5 +1,7 @@
 # Event Diversity
 
+### This metric is a release candidate. To comment on this metric please see Issue [#375](https://github.com/chaoss/wg-diversity-inclusion/issues/375). Following a comment period, this metric will be included in the next regular release
+
 **Goal:** Identify the diversity and inclusion at events.
 
 Name | Question
