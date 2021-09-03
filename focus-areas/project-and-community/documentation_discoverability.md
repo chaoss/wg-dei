@@ -1,20 +1,21 @@
 ### This metric is a release candidate. To comment on this metric please see [Issue #313](https://github.com/chaoss/wg-diversity-inclusion/issues/313). Following a comment period, this metric will be included in the next regular release.
 
 # Documentation Discoverability 
-Question: How easily can users and contributors find the information they are looking for in a project’s documentation?
+## Question
+How easily can users and contributors find the information they are looking for in a project’s documentation?
 ## Description
 Documentation discoverability is critical due to the role it plays in open source project’s inclusivity. If people cannot find and then easily navigate through the body of documentation, or find the answers they seek, they are less likely to use or contribute to the project thus decreasing the project ability to attract diverse participants. Documentation discoverability has the goal to ensure searchability and visibility as well as improve inclusivity across a diverse audience.
 ## Objectives
-**Visibility** — Documentation is easy to find and reference.
-**Searchability** — Documentation can easily be navigated by users based on their ability, and they can find the relevant information they need through search.
-**Method of Discovery** — Identification of the ways in which people find the documentation
-**Inclusivity** - Knowledge is shared more equitably among project contributors, and new contributors can more easily participate..
+**Visibility** — Documentation is easy to find and reference. <br/>
+**Searchability** — Documentation can easily be navigated by users based on their ability, and they can find the relevant information they need through search. <br/>
+**Method of Discovery** — Identification of the ways in which people find the documentation <br/>
+**Inclusivity** - Knowledge is shared more equitably among project contributors, and new contributors can more easily participate.. <br/>
 ## Implementation
 ### Data Collection Strategies
 
 
-Survey project members
-- Likert scale [easy to find - impossible to find] regarding the discoverability of documentation such as:
+Survey project members: <br/> <br/>
+Likert scale [easy to find - impossible to find] regarding the discoverability of documentation such as:
  - Mailing list archived communication; 
  - Mailing list membership management 
  - Chat channel archived communication; 
@@ -46,7 +47,10 @@ Open-ended follow-up question if the answer is anything other than “No challen
 - Open-ended follow-up question: 
  - What suggestions do you have for improving the project’s documentation regarding policies, processes, or guidelines available to new contributors? 
 
-Walkthrough with intended users of the documentation. Observe how they interact and use the documentation and where they get stuck. For example, this can be a video conference session where the user of the documentation shares their screen. 
+Walkthrough with intended users of the documentation.  <br/>
+
+Observe how they interact and use the documentation and where they get stuck. For example, this can be a video conference session where the user of the documentation shares their screen.  <br/>
+
 Ask users of documentation to write a friction log to describe what issues they had with documentation. This gives concrete use cases for documentation editors to understand how to improve the documentation for the specific user.
 
 ## Resources
