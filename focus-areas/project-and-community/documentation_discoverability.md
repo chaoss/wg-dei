@@ -1,8 +1,7 @@
 ### This metric is a release candidate. To comment on this metric please see [Issue #313](https://github.com/chaoss/wg-diversity-inclusion/issues/313). Following a comment period, this metric will be included in the next regular release.
 
 # Documentation Discoverability 
-## Question
-How easily can users and contributors find the information they are looking for in a project’s documentation?
+Question: How easily can users and contributors find the information they are looking for in a project’s documentation?
 ## Description
 Documentation discoverability is critical due to the role it plays in open source project’s inclusivity. If people cannot find and then easily navigate through the body of documentation, or find the answers they seek, they are less likely to use or contribute to the project thus decreasing the project ability to attract diverse participants. Documentation discoverability has the goal to ensure searchability and visibility as well as improve inclusivity across a diverse audience.
 ## Objectives
