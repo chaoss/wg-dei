@@ -16,16 +16,16 @@ Documentation discoverability is critical due to the role it plays in open sourc
 
 Survey project members: <br/> <br/>
 Likert scale [easy to find - impossible to find] regarding the discoverability of documentation such as:
- - Mailing list archived communication; 
+ - Mailing list archived communication
  - Mailing list membership management 
- - Chat channel archived communication; 
- - Performing code reviews; 
- - Process of getting code accepted; 
- - Code of conduct; 
- - Onboarding newcomers; 
- - Licensing, trademark; 
- - Project leadership; 
- - Project releases; 
+ - Chat channel archived communication
+ - Performing code reviews
+ - Process of getting code accepted
+ - Code of conduct
+ - Onboarding newcomers
+ - Licensing, trademark
+ - Project leadership
+ - Project releases
  - Voting process
 
 Multiple-choice checkbox: How do you discover project documentation? 
