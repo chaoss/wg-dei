@@ -44,10 +44,8 @@ Interview attendees and speakers:
 
 ## References
 
-[Linux Foundation Inclusivity Training](https://www.techrepublic.com/article/the-linux-foundation-launches-free-online-inclusivity-training/) 
-
-
-[Fedora Community Badge](https://badges.fedoraproject.org/badge/inclusive-open-source-community-orientation) 
+ - [Linux Foundation Inclusivity Training](https://www.techrepublic.com/article/the-linux-foundation-launches-free-online-inclusivity-training/) 
+ - [Fedora Community Badge](https://badges.fedoraproject.org/badge/inclusive-open-source-community-orientation) 
 
 ## Contributors
 
