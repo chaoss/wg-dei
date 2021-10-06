@@ -17,7 +17,7 @@ Attendee and Speaker [demographics](https://github.com/drnikki/open-demographics
 - Determine if keynote, track, and session selection committees are diverse.
 - Share attendee, speaker, and volunteer demographic information with others 
 - Create a statement of privacy management of demographic information 
-Discover less-visible stories with regard to intersectionality of the demographic data
+- Discover less-visible stories with regard to intersectionality of the demographic data
 
 
 ## Implementation

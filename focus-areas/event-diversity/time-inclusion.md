@@ -21,13 +21,13 @@ Examples of Time Inclusion which can be implemented include:
 
 ### Data Collection Strategies
 
-Survey attendees and speakers with Likert Scale [1-5] (Or Emoji Scale):
+Survey attendees with Likert Scale [1-5] (Or Emoji Scale):
 - The event keeps time zone differences in mind
 - The event caters to my needs related to differences in time
 - The event provides adequate recordings of the talks I care about
 - I was provided with adequate low-bandwidth options at the event
 
-Survey attendees and speakers with Likert Scale [1-5] (Or Emoji Scale):
+Survey speakers with Likert Scale [1-5] (Or Emoji Scale):
 - The time block selected for my presentation at the event is fair to me
 - I have, or will receive, a recording of my presentation for later viewing
 

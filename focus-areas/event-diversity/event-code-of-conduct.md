@@ -3,8 +3,7 @@
 Question: How does the Code of Conduct for events support diversity and inclusion?
 
 ## Description
-A code of conduct describes rules of good behavior between event participants and what avenues are available when someone violates those expected good behaviors. An event with a code of conduct sends the signal that the organizers are willing to respond to incidences.
-
+A code of conduct describes rules of good behavior between event participants and what avenues are available when someone violates those expected good behaviors.
 An event with a code of conduct sends the signal that the organizers are willing to respond to incidences, which helps people from all backgrounds feel included and comfortable attending the event. Event participants are empowered to report incidences and proactively help mitigate situations of unwanted behavior.
 
 ## Objectives
