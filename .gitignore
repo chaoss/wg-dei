@@ -1,102 +1,133 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+######################## ----- OPERATING SYSTEMS ----- ########################
 
-# C extensions
-*.so
+##### ---- Linux ---- #####
+*~
+
+# temporary files which can be created if a process still has a handle open of
+# a deleted file
+.fuse_hidden*
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# .nfs files are created when an open file is removed but is still being
+# accessed
+.nfs*
+
+
+##### ---- macOS ---- #####
+# General
 .DS_Store
+.AppleDouble
+.LSOverride
 
-# Distribution / packaging
-.Python
-env/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
+# Icon must end with two \r
+Icon
 
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
-*.manifest
-*.spec
 
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
+# Thumbnails
+._*
 
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-.hypothesis/
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
 
-# Translations
-*.mo
-*.pot
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
 
-# Django stuff:
-*.log
-local_settings.py
 
-# Flask stuff:
-instance/
-.webassets-cache
+##### ---- Windows ---- #####
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
 
-# Scrapy stuff:
-.scrapy
+# Dump file
+*.stackdump
 
-# Sphinx documentation
-docs/_build/
+# Folder config file
+[Dd]esktop.ini
 
-# PyBuilder
-target/
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 
-# Jupyter Notebook
-.ipynb_checkpoints
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
 
-# pyenv
-.python-version
+# Windows shortcuts
+*.lnk
 
-# celery beat schedule file
-celerybeat-schedule
 
-# SageMath parsed files
-*.sage.py
+########################### ----- TEXT EDITORS ----- ##########################
 
-# dotenv
-.env
+##### ---- Sublime Text ---- #####
+# Cache files for Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
 
-# virtualenv
-.venv
-venv/
-ENV/
+# Workspace files are user-specific
+*.sublime-workspace
 
-# Spyder project settings
-.spyderproject
-.spyproject
+# Project files should be checked into the repository, unless a significant
+# proportion of contributors will probably not be using Sublime Text
+# *.sublime-project
 
-# Rope project settings
-.ropeproject
+# SFTP configuration file
+sftp-config.json
+sftp-config-alt*.json
 
-# mkdocs documentation
-/site
+# Package control specific files
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/
+Package Control.merged-ca-bundle
+Package Control.user-ca-bundle
+oscrypto-ca-bundle.crt
+bh_unicode_properties.cache
 
-# mypy
-.mypy_cache/
+# Sublime-github package stores a github token in this file
+# https://packagecontrol.io/packages/sublime-github
+GitHub.sublime-settings
+
+
+##### ---- Vim ---- #####
+# Swap
+[._]*.s[a-v][a-z]
+!*.svg  # comment out if you don't need vector files
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+# Session
+Session.vim
+Sessionx.vim
+
+# Temporary
+.netrwhist
+*~
+# Auto-generated tag files
+tags
+# Persistent undo
+[._]*.un~
