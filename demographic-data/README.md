@@ -1,4 +1,4 @@
-# Category: Diversity and Inclusion
+# Category: Diversity, Equity, and Inclusion
 
 ## Definitions
 Some of the language we use, and what we mean.
