@@ -1,34 +1,36 @@
 # Inclusive Leadership
 
-Question: How well is a project setup for diverse leadership?
+Question: How well is a project and community setup for diverse leadership?
 
 
 ## Description
 
-Leadership is central to project and community culture, and thus requires intentional design and accountability for the inclusion of others. The term 'leader' doesn't always resonate; if that's the case for your project, replace it with 'roles of influence'. As those in leadership roles have high visibility, the diversity of this group is critically important to fostering an inclusive community.
-
+Leadership is central to a project/community's culture and how the leadership is determined requires intentional design and accountability for the inclusion of others. Note the term leadership may vary depending on the project/community. Leadership roles have high visibility and the diversity of this group is critically important to fostering an inclusive community.
 
 ## Objectives
 
-Signal to newcomers that everyone is welcome, as well as how to be successful within the project given any specified limitations listed as discussed in below. 
-
+- Enable communities to reflect on their own leadership practices. 
+- Signal to newcomers that everyone is welcome, has an opportunity to take on leadership roles, and can be successful within the project. 
 
 ## Implementation
 
-**Examples of open source leadership (aka 'roles with influence'):**
+### Filters
 
-* Project maintainers (sometimes referred to as owners)
-* Contributors with repository merge access
-* Contributors who are organization members for the repository
-* OS Program Board Members
-* Official Program Roles (Program Representatives, Tech Speakers)
-* Those listed in project documents as contacts for issues with builds, documentation, etc.
-* Those with more than 5 pull requests to a project
+**Examples of open source leadership (e.g., influential community roles):**
 
+* Individuals serving as project maintainers (sometimes referred to as owners)
+* Individuals with repository merge access
+* Individuals who are organization members for the repository
+* Individuals who have defined community roles (community representatives, community speakers)
+* Individuals listed in project documents as contacts for issues with builds, documentation, or other community concerns
+* Individuals serving as community event organizers 
+* Individuals serving as community mentors for available mentorship programs
+
+### Data Collection Strategies
 
 **Step 1: Understand**
 
-The first step is to understand the principles of inclusive leadership by asking some questions. This is structured in 6 principles which serve as a check-list.
+The first step is to understand the principles of inclusive leadership by asking some questions that can include:
 
 _Review & Renewal_
 
@@ -57,11 +59,11 @@ _Diverse Participation_
 
 * Do the project leaders strive to include diverse voices and groups whenever possible?
 * Does the project enforce the Code of Conduct consistently and strictly?
-* Do the leadership pathway explicitly consider inclusion dimensions (e.g., time zone, language, bandwidth, cultural norms)?
+* Do the leadership pathway explicitly consider inclusion dimensions (e.g., time zone, language, bandwidth, and cultural norms)?
 
 _Roles & Consistency_
 
-* Are the leadership roles valued similarly across the project (e.g., recognition, access to resources, opportunities)?
+* Are the leadership roles valued similarly across the project (e.g., recognition, access to resources, and opportunities)?
 * Do all leaders have clarity in their roles and expectations?
 * Do all leaders have a shared foundational knowledge base & skills (e.g., Community Participation Guidelines).
 * Does project leadership follow a shared framework for decision making?
@@ -86,7 +88,7 @@ _Example Goal:_ Increase % in contribution typically done by project maintainers
 
 
 **Step 3: Take Action**
-The third step is to act on what you've learned. What those steps are depends on your specific project community and giving recommendations is outside the scope of this document. Below references have some ideas.
+The third step is to act on what you've learned. What those steps are depends on your specific project community and giving recommendations is outside the scope of this document.
 
 
 ## References
@@ -94,8 +96,6 @@ The third step is to act on what you've learned. What those steps are depends on
 * [Related blog post](https://medium.com/@sunnydeveloper/how-to-apply-metrics-for-inclusion-to-your-open-source-project-71b4e31a7b0c)
 * [Create an Inclusive Leadership team page](https://github.com/mozilla/diversity/blob/master/leadership/inclusive-leadership-template.md)
 * [Run an 'Open Source Maintainer training program](https://mozilla.github.io/maintainer-cohort/)
-* Create a pull request for missing role descriptions, code of conduct, and additional information
-
 
 **Background**
 
