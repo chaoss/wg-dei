@@ -16,7 +16,7 @@ Some of the language we use, and what we mean.
 *Example 3:* There may be women within a community that is less inclusive, but the women are determined to “see it through” and participate. In this case, retention does not necessarily reflect the level of inclusion within a community.
 
 ## Dimensions of Demographics
-NOTE: that *how* we might ask these questions, and what potential answers might be are currently out of scope.  
+NOTE: that *how* we might ask these questions, and what potential answers might be are currently out of scope.
 
 *NOTE:* that regional appropriateness of demographics is also currently out of scope, and will be its own task.
 
@@ -38,9 +38,7 @@ NOTE: that *how* we might ask these questions, and what potential answers might 
 1. Dis/Ability
 1. Caregiver (child or eldercare)
 1. Identifies as underrepresented (which can include components of above, or be separate)
-1. Paid contributor vs. unpaid volunteer contributor
 
-*NOTE:* that paid vs. unpaid contributors can be problematic and nuanced from the perspective of diversity, equity, and inclusion. Many people who participate as volunteers are coming at it from a position of privilege because they can afford to spend their free time participating in an open source project instead of working a second job to make ends meet, caring for family members, or spending time meeting basic survival needs. In other words, having more volunteer contributors might actually mean that the project is less diverse, rather than more diverse. However, in a corporate sponsored project, involving volunteer contributors could be a sign that the community is welcoming and inclusive.
 
 ## Metrics Focus Areas
 
@@ -55,6 +53,7 @@ The following are the areas of analysis:
 |[Leadership](../focus-areas/leadership/) | Identify how healthy our community leadership is.|
 |[Project and Community](../focus-areas/project-and-community/) | Identify how diverse and inclusive our project places, where community engagement occurs, are.|
 |[Recognition of Good Work](../focus-areas/recognition-of-good-work/) | Identify how we recognize/reward good work in our community.|
+
 
 ## Resources
 
