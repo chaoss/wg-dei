@@ -54,3 +54,4 @@ Attendee and Speaker [demographics](https://github.com/drnikki/open-demographics
 - Nikki Stevens
 - Kevin Lumbard
 - Lauren Phipps
+- Yehui Wang

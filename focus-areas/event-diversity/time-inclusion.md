@@ -41,3 +41,4 @@ Survey speakers with Likert Scale [1-5] (Or Emoji Scale):
 - Matt Germonprez
 - Matt Cantu
 - Lauren Phipps
+- Yehui Wang
