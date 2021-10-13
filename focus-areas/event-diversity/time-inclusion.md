@@ -1,7 +1,5 @@
 # Time Inclusion for Virtual Events
 
-### This metric is a release candidate. To comment on this metric please see Issue [#370](https://github.com/chaoss/wg-diversity-inclusion/issues/370). Following a comment period, this metric will be included in the next regular release
-
 Question: How can organizers of virtual events be mindful of attendees and speakers in other time zones?
 
 ## Description
