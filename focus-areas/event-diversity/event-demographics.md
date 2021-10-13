@@ -1,7 +1,5 @@
 # Event Demographics
 
-### This metric is a release candidate. To comment on this metric please see Issue [#371](https://github.com/chaoss/wg-diversity-inclusion/issues/371). Following a comment period, this metric will be included in the next regular release
-
 Question: To what extent does an event consider and pay attention to attendee, speaker, and volunteer demographics?
 
 ## Description
