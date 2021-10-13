@@ -1,7 +1,5 @@
 # Psychological Safety
 
-### This metric is a release candidate. To comment on this metric please see Issue [#376](https://github.com/chaoss/wg-diversity-inclusion/issues/376). Following a comment period, this metric will be included in the next regular release.
-
 Question: To what extent do community members feel safe within a community, including adding contributions, influencing change, bringing their authentic selves, and generally participating in the project? 
 
 ## Description
