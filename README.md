@@ -69,7 +69,7 @@ If you'd like to be on our squad, an easy way to start is by going through the
 Ordered by first name
 
 [Abi Noda](https://github.com/abinoda),
-[Mariam Guizani](https://github.com/mariamgui)
+[Mariam Guizani](https://github.com/mariamgui),
 [Ahmed Zerouali](https://github.com/neglectos),
 [Akshita Gupta](https://github.com/akshitac8),
 [Alexander Serebrenik](https://github.com/aserebrenik),
