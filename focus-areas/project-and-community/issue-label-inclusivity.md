@@ -35,12 +35,12 @@ For example, families of tags with a distinct color for each:
 
 ### Visualization
 
-![grimoire lab example #1](images/issue-label-inclusivity_grimoire-lab-viz-example1.png)
+![grimoire lab example #1](https://raw.githubusercontent.com/chaoss/wg-dei/main/focus-areas/project-and-community/images/issue-label-inclusivity_grimoire-lab-viz-example1.png)
 
-![grimoire lab example #2](images/issue-label-inclusivity_grimoire-lab-viz-example2.png)
+![grimoire lab example #2](https://raw.githubusercontent.com/chaoss/wg-dei/main/focus-areas/project-and-community/images/issue-label-inclusivity_grimoire-lab-viz-example2.png)
 
 
-![example labels from kubernetes project](images/issue-label-inclusivity_kubernetes-labels-example.png)
+![example labels from kubernetes project](https://raw.githubusercontent.com/chaoss/wg-dei/main/focus-areas/project-and-community/images/issue-label-inclusivity_kubernetes-labels-example.png)
 
 From: https://github.com/kubernetes/kubernetes/labels
 
