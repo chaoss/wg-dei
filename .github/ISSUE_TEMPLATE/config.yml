@@ -1,0 +1,9 @@
+---
+blank_issues_enabled: false
+contact_links:
+  - name: CHAOSS Slack
+    url: https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g
+    about: Join the official CHAOSS Slack to meet the community and ask any questions you may have.
+  - name: Learn more about contributing
+    url: https://chaoss.community/blog-post/2021/10/13/learn-more/
+    about: Check out this blog post to get more information about participating with CHAOSS.
