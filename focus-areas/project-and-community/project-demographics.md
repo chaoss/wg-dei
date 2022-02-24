@@ -61,5 +61,5 @@ __The usage and dissemination of health metrics may lead to privacy violations. 
 - Elizabeth Barron
 - - Matt Germonprez 
 
-***This metric was last reviewed on [date] as part of [ release version ] [or recurring review process]***
+***This metric was last reviewed on February 24, 2022 as part of 2022-04 review process***
 
