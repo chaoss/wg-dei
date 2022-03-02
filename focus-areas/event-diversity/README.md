@@ -12,14 +12,4 @@ Name | Question
 [Family Friendliness](family-friendly.md) | How does enabling families to attend together support diversity and inclusion of the event?
 [Inclusive Experience at Event](inclusive-experience.md) | To what extent does an event organizing team commit to an inclusive experience at an event?
 [Time Inclusion](time-inclusion.md) | How can organizers of virtual events be mindful of attendees and speakers in other time zones?
-
-
-### Comments/Discussion
-- questions we had under `Code of Conduct at Event`
-  - Is a Code of Conduct present for an event and visible?
-  - Is the Code of Conduct enforced?
-  - What is the sentiment towards the Code of conduct?
-  - Is the CoC trusted? Do people believe that the CoC is real?
-  - What is the readiness to report CoC violations?
-  - Are the steps known within minority groups?
-  - Do we see real differences in diversity and inclusion when we change the CoC?
+[Event Accessibility](event-accessibility.md) | To what extent does your event accommodate those with various accessibility needs?
