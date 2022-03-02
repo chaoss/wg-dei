@@ -12,6 +12,7 @@ Name | Question
 [Family Friendliness](family-friendly.md) | How does enabling families to attend together support diversity and inclusion of the event?
 [Inclusive Experience at Event](inclusive-experience.md) | To what extent does an event organizing team commit to an inclusive experience at an event?
 [Time Inclusion](time-inclusion.md) | How can organizers of virtual events be mindful of attendees and speakers in other time zones?
+[Event Accessibility](event-accessibility.md) | To what extent does your event accommodate those with various accessibility needs?
 
 
 ### Comments/Discussion
