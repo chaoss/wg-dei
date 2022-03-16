@@ -7,7 +7,7 @@ Question: What are the demographics within a project?
 Project demographics help indicate the potential for different viewpoints and broader perspectives and representation in the context of a project community. Because everyone has a different perspective, investigating the responses for each group of demographics can indicate whether people from various demographics feel more or less included than the average. 
 
 ## Objectives
-- Determine the [diversity] (https://github.com/drnikki/open-demographics) of project members. This can include gender identity, age, first language, and dis/ability.
+- Determine the [diversity] (https://github.com/drnikki/open-demographics) of project members. This can include gender, identity, age, first language, and dis/ability.
 - Help retain community members from diverse backgrounds within the project. 
 - Determine if community members are diverse when grouped by [board membership](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/governance/board-council-diversity.md), maintainers, conference organizers, and contributors.
 - Determine if new community members are from diverse backgrounds.
@@ -59,7 +59,7 @@ __The usage and dissemination of health metrics may lead to privacy violations. 
 
 ## Contributors
 - Elizabeth Barron
-- - Matt Germonprez 
+- Matt Germonprez 
 
 ***This metric was last reviewed on February 24, 2022 as part of 2022-04 review process***
 

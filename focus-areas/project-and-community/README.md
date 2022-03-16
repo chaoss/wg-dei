@@ -12,5 +12,5 @@ Name | Question
 [Issue Label Inclusivity](issue-label-inclusivity.md) | How well are project issues labeled to invite new contributors, skilled contributors, non-code contributors, and other types of contributors?
 [Project Burnout](project-burnout.md) | How is project burnout identified and managed within an open source project?
 [Chat Platform Inclusivity](chat-platform-inclusivity.md ) | How do you review Chat Platform inclusivity for your community?
-[Project Demographics](project-demographics.md ) | How do you review Chat Platform inclusivity for your community?What are the demographics within a project?
+[Project Demographics](project-demographics.md ) | What are the demographics within a project?
 
