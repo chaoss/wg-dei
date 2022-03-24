@@ -17,7 +17,7 @@ Project demographics help indicate the potential for different viewpoints and br
 - Identify potential areas of improvement for inclusivity based on demographic data.
 
 ## Implementation
-__The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document]() for additional guidance__ 
+_The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document]() for additional guidance_ 
 
 ## Filters
 - Demographics as described in the CHAOSS repository of demographic data.
