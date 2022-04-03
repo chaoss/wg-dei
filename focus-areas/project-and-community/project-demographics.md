@@ -1,20 +1,24 @@
-# Project Demographics
+# Datos Demográficos del proyecto //Project Demographics--
 ### This metric is a release candidate. To comment on this metric please see Issue [#[402]](https://github.com/chaoss/wg-dei/issues/402). Following a comment period, this metric will be included in the next regular release.
 
-Question: What are the demographics within a project? 
+Pregunta: ¿Cuáles son los datos demográficos dentro de un proyecto? //Question: What are the demographics within a project?-- 
 
-## Description
-Project demographics help indicate the potential for different viewpoints and broader perspectives and representation in the context of a project community. Because everyone has a different perspective, investigating the responses for each group of demographics can indicate whether people from various demographics feel more or less included than the average. 
+## Descripción //Description--
+Los datos demográficos del proyecto ayudan a indicar el potencial de diferentes puntos de vista y amplias perspectivas, así como la repressentación en el contexto de un proyecto comunitario. Dado que cada persona tiene una perspectiva diferente, investigar las respuestas por cada grupo de demográficas puede indicar si personas pertenecientes a varias demográficas se sienten más o menos incluidas que la persona promedio.
+//Project demographics help indicate the potential for different viewpoints and broader perspectives and representation in the context of a project community. Because everyone has a different perspective, investigating the responses for each group of demographics can indicate whether people from various demographics feel more or less included than the average.--
 
-## Objectives
-- Determine the [diversity] (https://github.com/drnikki/open-demographics) of project members. This can include gender, identity, age, first language, and dis/ability.
-- Help retain community members from diverse backgrounds within the project. 
-- Determine if community members are diverse when grouped by [board membership](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/governance/board-council-diversity.md), maintainers, conference organizers, and contributors.
-- Determine if new community members are from diverse backgrounds.
-- Share non-sensitive community demographic information with others.
-- Create a statement of privacy management of demographic information.
-- Discover less-visible stories with regard to intersectionality of the demographic data.
-- Identify potential areas of improvement for inclusivity based on demographic data.
+## Objetivos //Objectives
+- Determinar la [diversidad] (https://github.com/drnikki/open-demographics) de lxs miembros del proyecto. Esto puede incluir género, identidad, edad, lengua materna, y capacidades especiales.  
+//Determine the [diversity] (https://github.com/drnikki/open-demographics) of project members. This can include gender, identity, age, first language, and dis/ability.--
+- Ayudar a mantener un espacio seguro para lxs miembros de comunidades diversas que colaboran en el proyecto.
+//Help retain community members from diverse backgrounds within the project.-- 
+- Determinar si lxs miembros de la comunidad son de orígenes diversos cuando son analizados por grupo [miembro +](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/governance/board-council-diversity.md), mantenedores, organizadores de eventos y conferencias, y contribuyentes.
+//Determine if community members are diverse when grouped by [board membership](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/governance/board-council-diversity.md), maintainers, conference organizers, and contributors.--
+- Determinar si lxs nuevos miembros de la comunidad son de orígenes diversos. //Determine if new community members are from diverse backgrounds.--
+- Compartir la información demográfica no-sensible de la comunidad con otrxs. //Share non-sensitive community demographic information with others.
+- Crear una declaración de confidencialidad de la información demográfica. //Create a statement of privacy management of demographic information.--
+- Descubrir las historias menos visibles teniendo en cuenta la interseccionalidad de la data demográfica. //Discover less-visible stories with regard to intersectionality of the demographic data.--
+- Identificar las áreas que permitan un potencial crecimiento en la inclusión, basado en los datos demográficos extraídos. //Identify potential areas of improvement for inclusivity based on demographic data.--
 
 ## Implementation
 _The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document]() for additional guidance_ 
