@@ -1,7 +1,5 @@
 # Event Accessibility
 
-### This metric is a release candidate. To comment on this metric please see Issue [#401](https://github.com/chaoss/wg-dei/issues/401). Following a comment period, this metric will be included in the next regular release.
-
 Question: To what extent does your event accommodate those with various accessibility needs?
 
 ## Description
@@ -14,7 +12,7 @@ This metric aims to help event organizers present to event attendees and to trac
 
 ## Implementation
 
-__The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other laws. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/metrics/tree/main/resources) for additional guidance.__ 
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 Depending on the size of the event as well as the financial constraints and implementations may include:
 
@@ -72,6 +70,7 @@ List of people who would like to be mentioned as contributors to this metric
 - Justin W. Flory
 - Matt Germonprez 
 - Sean Goggins
+- Kevin Lumbard
 - Matt Cantu Snell
 - Kristi Progri
 - Kafayah Lawal
