@@ -1,5 +1,4 @@
 # Project Demographics
-### This metric is a release candidate. To comment on this metric please see Issue [#[402]](https://github.com/chaoss/wg-dei/issues/402). Following a comment period, this metric will be included in the next regular release.
 
 Question: What are the demographics within a project? 
 
@@ -17,7 +16,7 @@ Project demographics help indicate the potential for different viewpoints and br
 - Identify potential areas of improvement for inclusivity based on demographic data.
 
 ## Implementation
-_The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document]() for additional guidance_ 
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ## Filters
 - Demographics as described in the CHAOSS repository of demographic data.
