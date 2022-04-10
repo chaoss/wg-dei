@@ -7,7 +7,10 @@ Documentation discoverability is critical due to the role it plays in open sourc
 **Searchability** — Documentation can easily be navigated by users based on their ability, and they can find the relevant information they need through search. <br/>
 **Method of Discovery** — Identification of the ways in which people find the documentation <br/>
 **Inclusivity** - Knowledge is shared more equitably among project contributors, and new contributors can more easily participate.. <br/>
+
 ## Implementation
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
+
 ### Data Collection Strategies
 
 
