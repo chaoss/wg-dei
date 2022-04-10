@@ -10,6 +10,8 @@ Global accessibility is vital due to the role it brings in choosing when an even
  Global accessibility should be understood when creating a virtual event in order to allow attendees and speakers in all regions to benefit from the event. The goal of this metric is to help organizers of virtual events develop a reasonable method to ensure those in different time zones feel included.
 
 ## Implementation
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
+
 
 Examples of Time Inclusion which can be implemented include:
 - Having the speaker do a pre-recording where the speaker is able to answer questions live in the chat
