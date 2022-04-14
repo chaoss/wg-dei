@@ -5,6 +5,10 @@ labels: 'Revisiting Metic'
 
 ---
 
+### Name of the metric being revised
+<!-- Provide the GitHub issue link associated with the original metric release. -->
+
+
 ### Link to original metric release issue
 <!-- Provide the GitHub issue link associated with the original metric release. -->
 
