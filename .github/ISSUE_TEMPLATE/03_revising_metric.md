@@ -1,7 +1,7 @@
 ---
 name: Revising a Metric
 about: Use this template for revising a CHAOSS metric
-labels: 'Revisiting Metic'
+labels: 'Revising Metic'
 
 ---
 
@@ -16,13 +16,17 @@ labels: 'Revisiting Metic'
 ### Metrics details that require attention
 <!-- Using a list, explain specific parts of the metric that you recommend should be revised. -->
 
+- Item 1
+- Item 2
+- Item 3
+
 
 ### Checklist 
 <!-- This checklist is used for revised metrics to ensure we follow CHAOSS quality standards and processes. Below checklist items don’t have to be completed all at once: create the metric release candidate issue first and then start working on the checklist. -->
 
 #### Process
 
-- [ ] Create the “revisiting metric” labeled issue in the authoring WG’s repo for comments during review period and paste this template in
+- [ ] Create the “revising metric” labeled issue in the authoring WG’s repo for comments during review period and paste this template in
 - [ ] Create pull request to edit metric to WG’s repo (after checking Content Quality and Technical Requirements below)
 - [ ] Add the metric edit to release notes issue in working group repo
 - [ ] Update the [Metrics Spreadsheet](https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit) to indicate that the metric is under review
