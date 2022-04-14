@@ -18,7 +18,7 @@ labels: 'Revisiting Metic'
 
 
 ### Checklist 
-<!-- This checklist is used for edited metrics to ensure we follow CHAOSS quality standards and processes. Below checklist items don’t have to be completed all at once: create the metric release candidate issue first and then start working on the checklist. -->
+<!-- This checklist is used for revised metrics to ensure we follow CHAOSS quality standards and processes. Below checklist items don’t have to be completed all at once: create the metric release candidate issue first and then start working on the checklist. -->
 
 #### Process
 
@@ -42,7 +42,7 @@ labels: 'Revisiting Metic'
 - [ ] Metric adheres to the current [metrics template](https://github.com/chaoss/community/blob/main/templates/metric-template.md)
 - [ ] Metric name has changed and necessary updates are made to the WG README table
 
-#### Technical Requirements for any Edits
+#### Technical Requirements for any Revisions
 
 - [ ] Metric file name is the full metric name and only contains lower case letters and hyphens (“-”) for spaces
   - GitHub markdown filename is missing "at-event"
