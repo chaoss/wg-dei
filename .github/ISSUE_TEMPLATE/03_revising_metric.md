@@ -49,8 +49,8 @@ labels: 'Revising Metic'
 #### Technical Requirements for any Revisions
 
 - [ ] Metric file name is the full metric name and only contains lower case letters and hyphens (“-”) for spaces
-- [ ] Images are included using markdown and relative links (as described in the metrics template)
+- [ ] Images are included using markdown and absolute path links (as described in the metrics template)
 - [ ] Images have at least one empty line above and below them
-- [ ] Images are placed in image folder and followed [naming convention](https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md)
+- [ ] Images are placed in image folder and followed [naming convention](https://github.com/chaoss/community/blob/main/templates/metric-template.md)
 - [ ] If new a focus area is created, ensure focus area is added to wg repo readme and focus area folder readme
 - [ ] There is no HTML code in the metrics markdown file
