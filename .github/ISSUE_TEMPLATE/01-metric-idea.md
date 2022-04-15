@@ -6,7 +6,7 @@ assignees: ElizabethN, germonprez, jwflory, Nebrethar
 
 ---
 
-<!-- Thank you for sharing your metric idea with the CHAOSS DEI Working Group! Please use this template to propose your metric idea. This helps our small team of reviewers collect important info about your idea and work on a quicker response to your idea. We are a small team, so please be patient if you don't hear back right away. -->
+<!-- Thank you for sharing your metric idea with the CHAOSS Working Group! Please use this template to propose your metric idea. This helps our small team of reviewers collect important info about your idea and work on a quicker response to your idea. We are a small team, so please be patient if you don't hear back right away. -->
 
 # Metric basics
 <!-- Some basic details about your metric idea. -->
@@ -30,7 +30,7 @@ assignees: ElizabethN, germonprez, jwflory, Nebrethar
 <!-- Questions to help us understand your motive and interest in seeing this metric implemented. -->
 
 * **Are you interested in authoring this metric together with the Working Group?**: yes|no
-* **Have you attended a CHAOSS DEI Working Group meeting before?**: yes|no
+* **Have you attended a CHAOSS Working Group meeting before?**: yes|no
 * **If not, would you consider joining one to discuss your metric idea?**: yes|no
 * **Anything else you would like us to know?**:
 
