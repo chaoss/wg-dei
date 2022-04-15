@@ -1,7 +1,7 @@
 ---
-name: New metric
-about: Have an idea for a new metric in the DEI Working Group? Use this template to pitch your idea.
-labels: ['metric idea', 'T: new change', '?: needs triage']
+name: Metric Idea
+about: Have an idea for a new metric in the Working Group? Use this template to pitch your idea.
+labels: ['metric idea', '?: needs triage']
 assignees: ElizabethN, germonprez, jwflory, Nebrethar
 
 ---
