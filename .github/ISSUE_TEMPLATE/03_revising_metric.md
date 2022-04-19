@@ -6,7 +6,7 @@ labels: 'Revising Metic'
 ---
 
 ### Name of the Metric Being Revised
-<!-- Provide the GitHub issue link associated with the original metric release. -->
+<!-- Provide the name of metric and the website link associated with the original metric release. -->
 
 
 ### Link to Original Metric Release Issue
