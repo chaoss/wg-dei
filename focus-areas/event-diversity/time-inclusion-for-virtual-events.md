@@ -13,7 +13,7 @@ Global accessibility is vital due to the role it brings in choosing when an even
 *The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 
-Examples of Time Inclusion which can be implemented include:
+Examples of Time Inclusion for Virtual Events which can be implemented include:
 - Having the speaker do a pre-recording where the speaker is able to answer questions live in the chat
 - Doing a presentation within a certain time block for certain time zones
 - Preparing and sending a recording to be live within an hour
@@ -21,18 +21,18 @@ Examples of Time Inclusion which can be implemented include:
 
 ### Data Collection Strategies
 
-Survey attendees with Likert Scale [1-5] (Or Emoji Scale):
+Survey attendees with Likert Scale [1-x] (Or Emoji Scale):
 - The event keeps time zone differences in mind
 - The event caters to my needs related to differences in time
 - The event provides adequate recordings of the talks I care about
 - I was provided with adequate low-bandwidth options at the event
 
-Survey speakers with Likert Scale [1-5] (Or Emoji Scale):
+Survey speakers with Likert Scale [1-x] (Or Emoji Scale):
 - The time block selected for my presentation at the event is fair to me
 - I have, or will receive, a recording of my presentation for later viewing
 
 ## References
-[Medium Article](https://coonoor.medium.com/how-to-make-virtual-meetings-events-more-inclusive-de742ec0e672)
+- [How To Make Virtual Meetings & Events More Inclusive](https://coonoor.medium.com/how-to-make-virtual-meetings-events-more-inclusive-de742ec0e672)
 
 ## Contributors
 - Ruth Ikegah
@@ -42,3 +42,5 @@ Survey speakers with Likert Scale [1-5] (Or Emoji Scale):
 - Matt Cantu
 - Lauren Phipps
 - Yehui Wang
+
+***This metric was last reviewed on March 08, 2022 as part of 2022-04 release.***
