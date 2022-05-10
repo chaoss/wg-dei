@@ -11,12 +11,10 @@ Attendee and Speaker [demographics](https://github.com/drnikki/open-demographics
 - Determine the [diversity] (https://github.com/drnikki/open-demographics) of attendees, speakers, and volunteers. This can include gender identity, age, first language, and dis/ability. 
 - Help retain attendees, speakers, and volunteers from diverse backgrounds for future events.
 - Determine if the groups of speakers are diverse when grouped by keynotes, sessions, and tracks.
-- Determine if new attendees, speakers, and volunteers are from diverse backgrounds.
 - Determine if keynote, track, and session selection committees are diverse.
 - Share attendee, speaker, and volunteer demographic information with others 
 - Create a statement of privacy management of demographic information 
 - Discover less-visible stories with regard to intersectionality of the demographic data
-
 
 ## Implementation
 *The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
@@ -54,3 +52,5 @@ Attendee and Speaker [demographics](https://github.com/drnikki/open-demographics
 - Kevin Lumbard
 - Lauren Phipps
 - Yehui Wang
+
+***This metric was last reviewed on March 08, 2022 as part of 2022-04 release.***
