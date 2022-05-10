@@ -57,7 +57,6 @@ There are several different ways to signal attention to  this metric which may i
 - [Application to the CHAOSS Event Badging Initiative](https://github.com/badging)
 
 ## References
-- Blog posts, websites, academic papers, or books that mention the metric and provide more background.
 - [CHAOSS Family Friendliness at Events Metric](https://chaoss.community/metric-family-friendliness/)
 - [Open Source Virtual Events Guide](https://services.google.com/fh/files/blogs/open_source_virtual_events_guide.pdf): This document is designed for anyone that has some experience hosting events. It is meant to point to existing resources and serve as a guide on how to host virtual events, with a focus on 4 of the most popular event types in the Open Source world: developer summits, community calls or panels, workshops, and working group meetings.
 - [Making Online Events More Inclusive](https://www.flipsnack.com/unitarcatalogue/making-online-events-more-inclusive.html): These tips are for trainers and organizations that are transitioning their events online. They aim to mainstream inclusivity across all aspects of design and implementation to make online (and offline) events more inclusive, effective, and impactful.
