@@ -4,7 +4,7 @@ Question: To what extent does an event consider and pay attention to attendee, s
 
 ## Description
 
-Attendee and Speaker [demographics](https://github.com/drnikki/open-demographics) help indicate the potential for different viewpoints and broader perspectives and representation at an event. Because everyone has a different perspective, investigating the responses for each group of demographics can indicate whether people from various demographics feel less included than the average.
+Attendee, Speaker and Volunteer [demographics](https://github.com/drnikki/open-demographics) help indicate the potential for different viewpoints and broader perspectives and representation at an event. Because everyone has a different perspective, investigating the responses for each group of demographics can indicate whether people from various demographics feel less included than the average.
 
 ## Objectives
 
