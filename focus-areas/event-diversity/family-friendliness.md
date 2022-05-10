@@ -19,12 +19,11 @@ Family friendliness at events can lower the barrier of entry for some attendees 
 *The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Data Collection Strategies
-
 - Interview conference staff
   * Question: What services does the conference have for attendees who have children to take care of?
   * Question: Do you have a mother’s room? If yes, describe.
   * Question: Do you offer child care during the event? If yes, describe.
-  * Question, if childcare is offered, for what ages?
+  * Question, If childcare is offered, for what ages?
   * Question: Are there activities and care that support tweens/teens (youth) and not only young children.
   * Question: Do you have special sessions for children? If yes, describe.
 
@@ -44,3 +43,4 @@ Family friendliness at events can lower the barrier of entry for some attendees 
 - [Childcare at Conferences Toolkit by Adacare](https://adacamp.org/adacamp-toolkit/childcare/)
 - [Improving Childcare at Conferences](https://open.nytimes.com/what-if-child-care-were-as-standard-as-coffee-at-tech-conferences-568c5fba028e)
 
+***This metric was last reviewed on March 10, 2022 as part of 2022-04 release.***
