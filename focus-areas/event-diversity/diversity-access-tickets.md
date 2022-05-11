@@ -22,7 +22,7 @@ Diversity access tickets can enable community members to attend events and encou
 
 ### Data Collection Strategies
 
-- Observe website for availability and pricing of diversity access tickets.  
+- Observe website for availability and pricing of diversity access tickets.  2
  - How many (different) diversity access tickets are available?
  - What are the criteria for qualifying for a diversity access ticket?
  - What is the price difference between regular and diversity access tickets?
