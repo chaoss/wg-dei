@@ -48,10 +48,10 @@ Sponsoring is only recently adopted in industry. Sponsorship is an effective lea
 
 - https://fortune.com/2017/07/13/implicit-bias-perception-costs-companies/
 - Sponsor Effect 2.0: Road Maps for Sponsors and Protégés
-   - By Center for Talent Innovation (Pay Link)
-    - http://www.talentinnovation.org/publication.cfm?publication=1330
-   - The Key Role of Sponsorship:
-    - https://inclusion.slac.stanford.edu/sites/inclusion.slac.stanford.edu/files/The_Key_Role_of_a_Sponsorship_for_Diverse_Talent.pdf
+   - By Coqual (Pay Link)
+   - https://coqual.org/reports/sponsor-effect-2-0-road-maps-for-sponsors-and-proteges/
+- The Key Role of Sponsorship:
+   - https://inclusion.slac.stanford.edu/sites/default/files/The_Key_Role_of_a_Sponsorship_for_Diverse_Talent.pdf
 - Perceived unfairness is a major reason to leave a community
    - https://www.kaporcenter.org/tech-leavers/
 - Sponsors Need to Stop Acting Like Mentors
