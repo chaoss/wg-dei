@@ -41,4 +41,4 @@ Family friendliness at events can lower the barrier of entry for some attendees 
 - [Childcare at Conferences Toolkit by Adacare](https://adacamp.org/adacamp-toolkit/childcare/)
 - [Improving Childcare at Conferences](https://open.nytimes.com/what-if-child-care-were-as-standard-as-coffee-at-tech-conferences-568c5fba028e)
 
-***This metric was last reviewed on March 10, 2022 as part of 2022-04 release.***
+***This metric was last reviewed on May 18, 2022 as part of 2022 Metrics Review Period.***
