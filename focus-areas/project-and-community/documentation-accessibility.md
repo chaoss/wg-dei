@@ -14,12 +14,10 @@ These objectives help measure whether your documentation is accessible to a broa
 * **Learning Flexibility** — Documentation is accessible to people with various cognitive approaches, sensory differences, and neurodiversity [(1)](https://static.sched.com/hosted_files/kcsna2019/05/Breaking%20Down%20Barriers%20to%20Kubernetes%20Contribution%20for%20Neurodivergent%20Individuals%20%282%29.pdf).
 * **Blind or Visually Impaired** — Documentation is accessible for people who primarily read text. Charts and images are examples of non-accessible types of documentation.
 
-
 ## Implementation
 *The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 **Note:** Be attentive to the target audiences for documentation. Due to the broad spectrum of projects and people who may contribute, documentation should address the different requirements of all its audiences.
-
 
 ### Data Collection Strategies
 
@@ -89,7 +87,7 @@ Sample interview questions:
 4. [W3C Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
 5. [W3C Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
 6. [Some quick tests to evaluate web accessibility](https://a11yproject.com/#Quick-tests)
-7. [Knowability - a group that specializes in Accessibility](https://knowbility.org/services/document-accessibility/)
+7. [Knowability - a group that specializes in Accessibility](https://knowbility.github.io/knowbility-website/services/document-accessibility/)
 8. [Thoughts on Accessibility metrics](https://www.boia.org/blog/3-times-accessibility-and-disability-stats-matter-and-3-times-they-dont)
 9. [Paypal’s list of Guidelines for Accessibility](http://paypal.github.io/a11y/)
 10. [Universal Design](http://shop.oreilly.com/product/9780596518745.do)
