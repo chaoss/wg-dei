@@ -4,7 +4,7 @@ Question: How can organizers of virtual events be mindful of attendees and speak
 
 ## Description
 
-Global accessibility is vital due to the role it brings in choosing when an event should take place. Time Inclusion for Virtual Events ensures support for participation from a global community during an event. Through this metric, we are able to be more inclusive to attendees and speakers in all regions of the world. 
+Global accessibility is vital due to the role it brings in choosing when an event should take place. Time Inclusion for Virtual Events ensures support for participation from different timezones during an event. For virtual events it is impossible to schedule live presentations that are equally inclusive to all attendees and speakers from different timezones. Time inclusion for virtual events is accomplished by providing attendees and speakers inclusive ways to participate virtually in a synchronous way (e.g., in real time) while also providing methods for presenting, viewing, and taking part in event discussions asynchronously. A primary consideration for time inclusion for virtual events is the network bandwidth required to host and stream the virtual event and the network bandwidth required for virtual attendees and speakers to take part in the event. Due to inequities in the availibilty of high speed internet globally (e.g., the "Digital Divide"), time inclusion for events should include considerations for low network bandwidth options (i.e., pre-recorded presentations, chat platforms, audio only options, and availability of presentation slides for download) 
 
 ## Objectives
  Global accessibility should be understood when creating a virtual event in order to allow attendees and speakers in all regions to benefit from the event. The goal of this metric is to help organizers of virtual events develop a reasonable method to ensure those in different time zones feel included.
@@ -25,11 +25,12 @@ Survey attendees with Likert Scale [1-x] (Or Emoji Scale):
 - The event keeps time zone differences in mind
 - The event caters to my needs related to differences in time
 - The event provides adequate recordings of the talks I care about
-- I was provided with adequate low-bandwidth options at the event
+- I was provided with adequate low-bandwidth options for viewing presentations at the event
 
 Survey speakers with Likert Scale [1-x] (Or Emoji Scale):
 - The time block selected for my presentation at the event is fair to me
-- I have, or will receive, a recording of my presentation for later viewing
+- My presentation was recorded and easily accessible for later viewing by virtual attendees
+- I was provided with adequate low-bandwith options for presenting at the event
 
 ## References
 - [How To Make Virtual Meetings & Events More Inclusive](https://coonoor.medium.com/how-to-make-virtual-meetings-events-more-inclusive-de742ec0e672)
@@ -42,5 +43,7 @@ Survey speakers with Likert Scale [1-x] (Or Emoji Scale):
 - Matt Cantu
 - Lauren Phipps
 - Yehui Wang
+- Tejas Mate
+- Kevin Lumbard
 
-***This metric was last reviewed on March 08, 2022 as part of 2022-04 release.***
+***This metric was last reviewed on May 22nd, 2022 as part of the metrics revision process.***
