@@ -11,5 +11,5 @@ Name | Question
 [Code of Conduct at Event](event-code-of-conduct.md) | How does the Code of Conduct for events support diversity and inclusion?
 [Family Friendliness](family-friendliness.md) | How does enabling families to attend together support diversity and inclusion of the event?
 [Inclusive Experience at Event](inclusive-experience.md) | To what extent does an event organizing team commit to an inclusive experience at an event?
-[Time Inclusion](time-inclusion.md) | How can organizers of virtual events be mindful of attendees and speakers in other time zones?
+[Time Inclusion for Virtual Events](time-inclusion-for-virtual-events.md) | How can organizers of virtual events be mindful of attendees and speakers in other time zones?
 [Event Accessibility](event-accessibility.md) | To what extent does your event accommodate those with various accessibility needs?
