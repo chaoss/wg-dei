@@ -41,7 +41,6 @@ An event with a code of conduct sends the signal that the organizers are willing
 - [Attendee Procedure For Incident Handling](https://github.com/python/pycon-code-of-conduct/blob/master/Attendee%20Procedure%20for%20incident%20handling.md)
 - [2018 Pycon Code Of Conduct](https://pycon.blogspot.com/2018/04/code-of-conduct-updates-for-pycon-2018.html)
 - [Conference anti-harassment](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment)
-- [Women In Tech Manifesto](https://manifestedesfemmesentech.com/en/code-of-conduct-template)
 
 [i] Some sample questions re-used from the [Mozilla project](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/cpg-follow-up.md).
 
