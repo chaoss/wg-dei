@@ -44,3 +44,18 @@ An event with a code of conduct sends the signal that the organizers are willing
 - [Women In Tech Manifesto](https://manifestedesfemmesentech.com/en/code-of-conduct-template)
 
 [i] Some sample questions re-used from the [Mozilla project](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/cpg-follow-up.md).
+
+## Known Contributors
+* Dawn Foster
+* Poornima Haridas
+* Daniel Izquierdo Cortazar
+* Georg Link
+* Martin Coulombe
+* Yehui Wang
+* Armstrong Foundjem
+* Yash Prakash
+* Justin Flory
+* Matt Germonprez
+* Kevin Lumbard
+
+***This metric was last reviewed on June 2nd 2022 as part of the recurring review process***
