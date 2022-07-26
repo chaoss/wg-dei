@@ -1,6 +1,6 @@
-# Leadership
+# Leadership and Governance
 
-**Goal:** Identify how healthy our community leadership is.
+**Goal:** Identify how healthy our community leadership and governance is.
 
 Name | Question
 --- | ---
