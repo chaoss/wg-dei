@@ -10,3 +10,4 @@ Mode Alternatives | What alternative communication modes do we offer?
 Captioning | Do we provide text captioning for spoken communication?
 Technical Jargon |   Are we attentive to project specific-language that may discourage new community members? 
 
+Note: These metrics have not been developed yet. 
