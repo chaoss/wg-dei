@@ -12,4 +12,3 @@ Name | Question
 [Code of Conduct for Project](code-of-conduct.md) | How does the Code of Conduct for the project support diversity and inclusion?
 [Code of Conduct Enforcement](code-of-conduct-enforcement.md) | Is enforcement process running at scale?(volume, responsiveness, accuracy, fairness ...)
 [Team/Module Ownership Diversity](team-module-ownership-diversity.md) | What is the diversity of other bureaucratic and administrative foundation teams, e.g. working groups, committees, or ambassador groups?
-Path to Influence | What opportunities are there to move into governance?
