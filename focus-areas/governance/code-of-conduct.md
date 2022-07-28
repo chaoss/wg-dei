@@ -1,25 +1,25 @@
-# Code of Conduct for Project
+# Code of Conduct for a Project
 
-Question: How does the Code of Conduct for the project support diversity and inclusion?
+Question: How, and in what specific ways, does the code of conduct for a project support diversity, equity, and inclusion?
 
 ## Description
 
-A code of conduct signals to project members what behavior is acceptable. A code of conduct also provides enforcement mechanisms to deal with people who misbehave.
+The existence of a code of conduct signals the project’s awareness and concern for creating an equitable, diverse, and inclusive environment. The criteria outlined in a specific code of conduct clarifies for project members what is acceptable behavior, and potential consequences for unacceptable behavior. Finally, a code of conduct should provide well defined enforcement and reporting mechanisms for addressing violations of the code. The extent to which enforcement is easy to access, and consistently executed, the code of conduct is effective for ensuring a diverse, equitable, and inclusive project.
 
 
 ## Objectives
 
 A code of conduct in a project provides the following: 
 
-- Knowing that a community takes diversity and inclusion seriously.
-- Evaluating a community for diverse and inclusive design, before investing any time in that project.
-- Identifying whether or not their demographic is protected prior to participating in a project.
-- Ensuring that project partnerships, and allies take diversity and inclusion seriously as it can impact their own reputation and community health.
-- Understanding how a violation is reported and handled.
-- Observing that the code of conduct is being enforced; and not just the potential for enforcement.
+- A signal that a community takes diversity, equity, and inclusion seriously.
+- A way to evaluate a community for diverse, equitable, and inclusive design, before investing any time in that project.
+- Information about whether or not a person’s demographic is protected before participating in a project.
+- Reassurance that project partners and allies also take diversity, equity, and inclusion seriously- Understanding around how a violation is reported and handled.
+- Way of knowing that the code of conduct is being enforced; and not just the potential for enforcement.
+- Clear expectations of community behavior.
+- Information about possible avenues of support to victims of inappropriate behavior.
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Tools Providing the Metric
 
@@ -27,30 +27,41 @@ A code of conduct in a project provides the following:
 
 ### Data Collection Strategies
 
-- Identify the location of the code of conduct as it pertains to primary areas of interaction and participation in projects and events (i.e., repo root, event entrance, communication channels).
-- Survey project members about their perception of how a code of conduct influences their participation and sense of safety.
-- Follow-up survey for reporting, around discoverability, clarity, and relevance.
+
+
 
 _Qualitative_
 
-- Code of Conduct passes Mozilla’s Code of Conduct Assessment Tool
-- Interview and/or survey community members to understand more about why the code of conduct does or does not meet their expectations.
-  * What can the project do to improve the code of conduct?
-  * What are some examples of how this community met or exceeded your code of conduct expectations?
+- Identify the location of the code of conduct as it pertains to primary areas of interaction and participation in the projects (i.e., repository root, project website, communication channels).
+- Determine if the code of conduct passes [Mozilla’s Code of Conduct Assessment Tool](https://mozilla.github.io/diversity-coc-review.io/)
+- Interview community members to understand more about why the code of conduct does or does not meet their expectations.
+- Interview community members as to what the project can do to improve the code of conduct?
+- Interview community members regarding how this community met or exceeded code of conduct expectations
 
 _Quantitative_
 
-- Browse the project website. If code of conduct is posted and there is a clear avenue for reporting violations, this criteria is fulfilled. (Note: ideally, the code of conduct would be discoverable)
-- Survey participants about the code of conduct:
+- Survey participants about the code of conduct. Sample survey questions include: 
   * Likert scale [1-x] item: How well did the project meet your code of conduct expectations?
-  * Likert scale [1-x] item: How clear are you on the rights and responsibilites of community members as described in the code of conduct?
-  * Were you made aware of the code of conduct and how to report violations? [i]
-  * Did the existence of the code of conduct make you feel safer, and more empowered to fully participate in this project? [i]
-  * If you reported a violation of the code of conduct, was it resolved to your satisfaction? [i]
+  * Likert scale [1-x] item: How clear are you on the rights and responsibilities of community members as described in the code of conduct?
+- Likert scale [1-x] item: How much does  a code of conduct influence your participation and sense of safety?
+- Likert scale [1-x] item: How easily did you understand the code of conduct and how to report violations?
+  * Likert scale [1-x] item: How easily did you locate the code of conduct and how to report violations? [i]
+  * Likert scale [1-x] item: To what extent did the existence of the code of conduct make you feel safer, and more empowered to fully participate in this project? [i]
+  * Likert scale [1-x] item: If you reported a violation of the code of conduct, to what extent was it resolved to your satisfaction? [i]
 
 ## References
 
-- [CHAOSS metric: Code of Conduct at Events](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/event-code-of-conduct.md)
+- [CHAOSS metric: Code of Conduct at Events](https://chaoss.community/metric-code-of-conduct-at-event/)
 
 
 [i] Some sample questions re-used from the Mozilla project.
+
+## Contributors 
+- Matt Germonprez 
+- Lauren Phipps
+- Elizabeth Barron
+- Amy Marrich 
+- Sean Goggins
+- Kafayah Lawal
+
+***This metric was last reviewed on July 20, 2022 as part of the metrics revision process.***
