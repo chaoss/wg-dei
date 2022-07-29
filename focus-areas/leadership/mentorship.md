@@ -4,7 +4,7 @@ Question: How effective are our mentorship programs at supporting diversity and 
 
 ## Description
 
-Mentorship programs are a vital component in growing and sustaining a community by inviting newcomers to join a community and helping existing members grow within a community, thereby ensuring the health of the overall community. Through mentorship programs, we can invite diverse contributors and create inclusive environments for contributors to grow and ideally give back to the community.
+Mentorship programs are a vital component in growing and sustaining a community by inviting newcomers to join a community and helping existing members grow within a community, thereby ensuring the overall community's health. Through mentorship programs, we can invite diverse contributors and create inclusive environments for contributors to grow and ideally give back to the community.
 
 ## Objectives
 
@@ -61,4 +61,5 @@ To increase the number and diversity of new contributors as well as increase the
 - Esther Schindler, 2009. [Mentoring in Open Source Communities: What Works? What Doesn't?](https://www.itworld.com/article/2768355/mentoring-in-open-source-communities--what-works--what-doesn-t-.html)
 - [OpenStack Gender Report: Mentorship focused](https://superuser.openstack.org/wp-content/uploads/2018/06/Gender-Diversity-Analysis-in-the-OpenStack-Community-2018.pdf)
 
+***This metric was last reviewed on July 20, 2022 as part of the metrics revision process.***
 
