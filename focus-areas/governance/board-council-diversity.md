@@ -1,29 +1,32 @@
 # Board/Council Diversity
 
-Question: What is the diversity within our governing board or council?
+Question: What is the diversity within a governing board or council?
 
 ## Description
 
-A governance board or council comprises a group of people who steer an open source project. Diversity in this important group is beneficial to signal that the project embraces diversity and that leadership roles are available to everyone. A diverse board or council also increases the chance that issues of members of a diverse background are heard and understood.
+A governing board (or council - hereafter governing board) is a group of individuals who steer an open source project.  Diversity in such groups is beneficial to signal that a project embraces diversity and that leadership roles are available to everyone. A diverse governing board also increases the chance that the issues raised by members of diverse backgrounds are heard and understood. Diversity can be represented in a variety of ways, including racial diversity, range of ability, age diversity, neurodiversity, geographical diversity, and others. Attention to intersectionality is also an important factor when assessing a governing board’s diversity.
 
 ## Objectives
 
-A project member needs to know that someone on the board or council is representing their interests. A board or council wants to make sure that it is not living in an echo chamber. Having a diverse board or council helps others to see themselves reflected and advance in their careers. This metric helps the board to be aware of the current situation of the diversity of the board if compared to other areas such as technical leaders or the community itself.
+An open source contributor would often like to know that someone on the governing board is representing their interests. Having a diverse governing board helps others to see themselves reflected and to advance in their careers. Electing a diverse governing board normalizes those from underrepresented backgrounds in positions of leadership for the entire community. The governing board should not be an echo chamber, where the ideas of individuals from similar backgrounds are compounded, drowning out the thoughts of those outside of the dominant culture. This metric makes the diversity of a governing board, as compared to other areas such as technical leads or event organizers, visible to all people of a community.
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Data Collection Strategies
-- Observe whether open elections are held to see if candidates are representative of the member base. (Note: elections typically favor candidates of majorities and do not ensure that minorities are represented after the election)
-- Observe the diversity of board or council members from the project webpage (limitation: [demographics](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data) are not always self-evident).
-- Ask the board for a report of the diversity of the board or council.
-- Survey project members about their perceived diversity of the board or council.
-    - Likert scale [1-x] item: I feel represented in the board or council.
-    - Likert scale [1-x] item: The board or council attentive to minorities within the project.
-- Likert scale [1-x] item: The board or council represents the diversity of the project community.
+- Observe how community elections are held to help determine processes are present to ensure candidates are from diverse backgrounds. 
+- Observe the diversity of governing board members from the project webpage (limitation: [demographics](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data) are not always observable from web pages).
+- Request diversity information on the governing board.
+- Examine the length of time members exist on the governing board, and if there is regular turnover or term limits.
+- Survey project members about their perceived diversity on the board.
+    - Likert scale [1-x] item: I feel represented by the board or council.
+    - Likert scale [1-x] item: The board or council is attentive to people with different backgrounds and experiences within the project.
+    - Likert scale [1-x] item: The board or council represents the diversity of the project community.
 
 ## References 
 
-- https://www.openstack.org/foundation/2018-openstack-foundation-annual-report
-- https://www.linuxfoundation.org/about/diversity-inclusiveness/
+- https://www.openstack.org/foundation/2018-openstack-foundation-annual-report 
+- https://www.linuxfoundation.org/about/diversity-inclusiveness/ 
+- (The Truth About Board Diversity)[https://www.cicf.org/2021/11/29/the-truth-about-board-diversity/]
 
+
+***This metric was last reviewed on July 20, 2022 as part of the metrics revision process.***
