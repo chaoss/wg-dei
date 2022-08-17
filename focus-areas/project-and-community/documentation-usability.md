@@ -14,7 +14,7 @@ Documentation usability addresses the critical role of an open source project’
 * **Readability** — Documentation uses language that is clear and concise, using common meaning words and short sentences, to ensure the documentation is understandable to people for whom the language is not native or those who may not follow similar shorthand conventions or inference patterns.
 * **Language Inclusion** — Documentation avoids non-inclusive language (for example, ‘brogrammer’ language or exclusionary/derogatory language).
 * **Language Diversity** — Documentation is available in a common vernacular for the intended audience and different languages.
-* **Time/attention Diversity** — Documentation is inclusive of people that have differences in the time they can spend in documentation either reading or setting up/running commands. It is worthwile to consider people with childcare or other caring roles that may pull their attention from their screens at any given point. 
+* **Time/Attention Diversity** — Documentation is inclusive of people that have differences in the time they can spend on the documentation either reading or setting up/running commands. It is worthwhile to consider people with childcare or other caring roles that may pull their attention from their screens at any given point, so keeping documentation in smaller, more consumable blocks is preferable.  
 
 ## Implementation
 *The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
@@ -26,18 +26,18 @@ Documentation usability addresses the critical role of an open source project’
   * Describe your experience with using the documentation to understand the contribution process.
   * Describe your experience with using the documentation when you have a question about doing work in the community.
   * Describe your experience with using the documentation to understand how to help outreach efforts.
-  * How comfortable were you with the amount of technical terms present here? (adapt to survey using Likert scale [1-5])
+  * How comfortable were you with the number of technical terms present here? (adapt to survey using [Likert scale [1-5](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Likert_scale&sa=D&source=docs&ust=1659115433727372&usg=AOvVaw37vXeAiiBHJtggznHJI6D3]))
   * Were there any terms or language you didn't understand?
   * What suggestions do you have for improving the project’s policies, processes, or guidelines available to new contributors?
   * After interviewing, the community can track responses to each prompt as `Positive experience`, `Negative experience`, or `Neutral experience` and report these month-over-month to see improvement over time.
-* Ask questions regarding readability and scannability such as: Does the documentation use organizing constructs, such as:
+* Ask questions regarding readability and scannability such as; Does the documentation use organizing construct? Such as:
   * Headings
   * Text and Code Blocks
   * Bullets versus Paragraphs
   * Anchors
 * Walkthrough with intended users of the documentation. Observe how they interact and use the documentation and where they get stuck. This can be a video conference session where the user of the documentation shares their screen.
 * Ask users of documentation to write a [friction log](https://devrel.net/developer-experience/an-introduction-to-friction-logging) and describe what issues they had with documentation. This gives concrete use cases for documentation editors to understand how to improve the documentation for the specific user.
-* Consider if different versions of documentation are available for different audiences. For example, a light-weight version and a very detailed version of the documentation.
+* Consider if different versions of the documentation are available for different audiences. For example, a lightweight version and a very detailed version of the documentation.
 
 
 
@@ -56,3 +56,10 @@ Documentation usability addresses the critical role of an open source project’
 * [`documentation_interface`](https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md#documentation_interface)
 * [Friction Log](https://devrel.net/developer-experience/an-introduction-to-friction-logging)
 * [Stanford: Screen Reader Testing](https://soap.stanford.edu/tips/screen-reader-testing)
+
+
+## Contributors
+-
+
+***This metric was last reviewed on July 23, 2022 as part of the metrics revision process.***
+
