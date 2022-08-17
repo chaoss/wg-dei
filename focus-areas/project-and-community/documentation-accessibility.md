@@ -11,21 +11,21 @@ Documentation accessibility is critical due to the role documentation plays in o
 These objectives help measure whether your documentation is accessible to a broad audience without disproportionately creating or perpetuating artificial debts on certain segments of its intended audiences.
 
 * **Accessibility Screen Reader** — Documentation is accessible according to a standard for screen readers.
-* **Learning Flexibility** — Documentation is accessible to people with various cognitive approaches, sensory differences, and neurodiversity [(1)](https://static.sched.com/hosted_files/kcsna2019/05/Breaking%20Down%20Barriers%20to%20Kubernetes%20Contribution%20for%20Neurodivergent%20Individuals%20%282%29.pdf).
+* **Learning Flexibility** — Documentation is accessible to people with various cognitive approaches, sensory differences, and neurodiversity. [(1)](https://static.sched.com/hosted_files/kcsna2019/05/Breaking%20Down%20Barriers%20to%20Kubernetes%20Contribution%20for%20Neurodivergent%20Individuals%20%282%29.pdf).
 * **Blind or Visually Impaired** — Documentation is accessible for people who primarily read text. Charts and images are examples of non-accessible types of documentation.
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other laws. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 **Note:** Be attentive to the target audiences for documentation. Due to the broad spectrum of projects and people who may contribute, documentation should address the different requirements of all its audiences.
 
 ### Data Collection Strategies
 
-* Use a **tool** that evaluates screen-reader friendliness [(5)](https://www.w3.org/WAI/ER/tools/) [(6)](https://a11yproject.com/#Quick-tests) to determine if the documentation is screen-reader friendly?
-* **Interview** newcomers to figure out how documentation helped with, (a) understanding the contribution process, and/or, (b) helping to complete tasks in a project.\
+* Use a **tool** that evaluates screen-reader friendliness. [(5)](https://www.w3.org/WAI/ER/tools/) [(6)](https://a11yproject.com/#Quick-tests) to determine if the documentation is screen-reader friendly?
+* **Interview** newcomers to figure out how documentation helped with, (a) understanding the contribution process, and/or, (b) helping to complete tasks in a project.
 Sample interview questions:
   * What is your experience with using the documentation to understand the contribution process?
-  * What is your experience with consulting the documentation when you have a question about doing work in the project?
+  * What is your experience with consulting the documentation when you have a question about doing work on the project?
   * Were you comfortable with the technical terms present in the documentation?
 * **Survey** project members
   * Matrix item: When you need to locate information about this project’s processes, policies, or guidelines, which of the following describes your experience? [(2)](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=158869274)
@@ -53,7 +53,7 @@ Sample interview questions:
         * Easy to find
         * Difficult to find
         * Very difficult to find
-  * Multiple choice: Did you face any challenges related to the accessibility of documentation when you started to participate in the project (e.g., language barriers, discoverability of documentation, structure of documentation)? [(2)](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=158869274)
+  * Multiple choice: Did you face any challenges related to the accessibility of documentation when you started to participate in the project (e.g., language barriers, discoverability of documentation, the structure of documentation)? [(2)](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=158869274)
     * Answer options:
       * No challenges
       * A Few challenges
@@ -75,7 +75,7 @@ Sample interview questions:
   * Likert Scale [1-x]: How accessible was this documentation to you?
   * Short Answer: How do you feel about the accessibility of the documentation?
 * **Walkthrough** with intended users of the documentation. Observe how they interact and use the documentation and where they get stuck. This can be a video conference session where the user of the documentation shares their screen.
-* Ask users of documentation to write a **friction log** and describe what issues they had with documentation. This gives concrete use cases for documentation editors to understand how to improve the documentation for the specific user.
+* Ask users of documentation to write a [friction log](https://devrel.net/developer-experience/an-introduction-to-friction-logging) and describe what issues they had with documentation. This gives concrete use cases for documentation editors to understand how to improve the documentation for the specific user.
 * Consider if **different versions of documentation** are available for different audiences? For example, a light-weight version and a very detailed version.
 
 
@@ -91,3 +91,14 @@ Sample interview questions:
 8. [Thoughts on Accessibility metrics](https://www.boia.org/blog/3-times-accessibility-and-disability-stats-matter-and-3-times-they-dont)
 9. [Paypal’s list of Guidelines for Accessibility](http://paypal.github.io/a11y/)
 10. [Universal Design](http://shop.oreilly.com/product/9780596518745.do)
+
+## Contributors
+
+-  
+
+ 
+
+
+
+
+***This metric was last reviewed on July 24, 2022 as part of the metrics revision process.***
