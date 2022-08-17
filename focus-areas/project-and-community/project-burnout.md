@@ -47,6 +47,7 @@ Project Burnout should be understood within projects and managed effectively to 
 *   Interviews: Talk with open source project contributors and maintainers with their own interpretation of terms
 *   Contributor Questions:
     *   How do you feel about working on this project?
+    *   Can you safely ask questions or ask for help when working on this project?
     *   Has a poor state of well-being affected your engagement with this open source project? How?
 *   Maintainer Questions:
     *   How should we be monitoring the well-being of individuals?
@@ -63,3 +64,10 @@ Project Burnout should be understood within projects and managed effectively to 
 5. Help people identify what “stage” of burnout they are in, or if they are on a path to a more severe burnout stage: [Practical guide for avoiding Burnout and living a happier life](https://opensource.com/business/15/12/avoid-burnout-live-happy)
 6. [Burned out](https://www.scientificamerican.com/article/burned-out/)
 7. [How I learned about burnout the hard way](https://opensource.com/article/20/3/burnout)
+
+
+## Contributors
+
+- 
+
+***This metric was last reviewed on July 23, 2022 as part of the metrics revision process.***
