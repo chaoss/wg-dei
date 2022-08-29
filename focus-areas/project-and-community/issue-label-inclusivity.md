@@ -1,5 +1,5 @@
 # Issue Label Inclusivity
-Question: How well are project issues labeled to invite new contributors, skilled contributors, non-code contributors, and other types of contributors?
+Question: How well are project issues labelled to invite new contributors, skilled contributors, non-code contributors, and other types of contributors?
 
 
 ## Description
@@ -7,7 +7,7 @@ Issue label inclusivity helps gauge the affordability of issues to different con
 
 ## Objectives
 
-*__Newcomer Friendly__*: Issues include appropriately labeled issues (e.g, “good first issue”, “newcomer-friendly”) for a new contributor to start with
+*__Newcomer Friendly__*: Issues include appropriately labelled issues (e.g, “good first issue”, “newcomer-friendly”) for a new contributor to start with.
 
 *__Mentor Availability__*: Issues identify a mentor who can provide guidance and help with the review process of a particular issue (e.g., “Mentor Available” tag)
 
@@ -53,9 +53,9 @@ From: https://github.com/kubernetes/kubernetes/labels
 
 - Identify the published list of issue labels used for each project
    - *General labels*:
-      - Presence of labels to identify general needs of  “Feature”, “Bug”, and “Documentation” label”, a “Front End”, and a “Back End” labels in the project’s list of labels and in the issue list (labels in use)
+      - Presence of labels to identify general needs of  “Feature”, “Bug”, and “Documentation” label”, a “Front End”, and a “Back End” label in the project’s list of labels and in the issue list (labels in use)
    - *Inclusive labels*:
-     - Newcomer friendly ones look for (*newcomer*, *first*) in the project’s list of labels and in the issue list (labels in use)
+     - Newcomer friendly ones look for (*newcomer*, *good first issue*) in the project’s list of labels and in the issue list (labels in use)
      - Mentor friendly ones look for (*mentor*) in the project’s list of labels and in the issue list (labels in use)
 
   - *Skill labels*:
@@ -65,3 +65,5 @@ From: https://github.com/kubernetes/kubernetes/labels
 
 ## References
 - [GitHub Satellite](https://githubsatellite.com/)
+
+***This metric was last reviewed on July 24, 2022 as part of the metrics revision process.***
