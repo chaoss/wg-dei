@@ -10,7 +10,8 @@ Leadership is central to a project/community's culture and how the leadership is
 ## Objectives
 
 - Enable communities to reflect on their own leadership practices. 
-- Signal to newcomers that everyone is welcome, has an opportunity to take on leadership roles, and can be successful within the project. 
+- Signal to newcomers and already existing community members that everyone is welcome, has an opportunity to take on leadership roles, and can be successful within the project. 
+
 
 ## Implementation
 *The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
@@ -37,7 +38,8 @@ _Review & Renewal_
 
 * Are all leadership roles limited by time and require term renewal?
 * Do the term renewals include opportunities for review and feedback from communities involved?
-* Is there a graceful way to move people out of leadership roles and into emeritus or advisory roles?
+* On what criteria are new leaders considered? 
+* Is there a graceful way to move people out of leadership roles and into emeritus or advisory roles? If there are, can we outline some? Lisiting out some of them would help. 
 
 _Distribution of Leaders_
 
@@ -58,7 +60,7 @@ _Accountability_
 
 _Diverse Participation_
 
-* Do the project leaders strive to include diverse voices and groups whenever possible?
+* Do the project leaders strive to include diverse voices and groups whenever possible? Can the community members also have a say in this inclusion of diverse voices and groups whenever possible? 
 * Does the project enforce the Code of Conduct consistently and strictly?
 * Do the leadership pathway explicitly consider inclusion dimensions (e.g., time zone, language, bandwidth, and cultural norms)?
 
@@ -85,11 +87,11 @@ _Acknowledgement of Limitations_
 **Step 2: Evaluate**
 The second step is to evaluate your project/community according to existing goals for leadership.  
 
-_Example Goal:_ Increase % in contribution typically done by project maintainers (pull request review, responding to, and trying to replicate issues).
+_Example Goal:_ Increase % in contribution typically done by project maintainers (pull request review, responding to, and trying to replicate issues). How is this percentage measured? Do we state it?
 
 
 **Step 3: Take Action**
-The third step is to act on what you've learned. What those steps are depends on your specific project community and giving recommendations is outside the scope of this document.
+The third step is to act on what you've learned. What those steps are depends on your specific project community and giving recommendations is outside the scope of this document. What document is this in then? Can we link it? 
 
 
 ## References
@@ -111,3 +113,10 @@ They have been applied to the following projects/products:
 * [Firefox Developer Tools / Debugger Program](https://github.com/firefox-devtools/debugger/blob/aa827095d86475f816017ff35d6f9c2e83cf7b9b/docs/community-team.md)
 * [24 Pull Requests](https://24pullrequests.com/) ('File an Inclusion Bug!')
 * Add your project.
+
+
+**Contributors**
+
+
+
+***This metric was last reviewed on July 20, 2022 as part of the metrics revision process.***
