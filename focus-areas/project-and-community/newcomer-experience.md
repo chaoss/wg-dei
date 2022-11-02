@@ -1,6 +1,6 @@
 # Newcomer Experience
 
-### This metric is a release candidate. To comment on this metric please see Issue [#[put the respective Issue Number here]](URL to issue). Following a comment period, this metric will be included in the next regular release.
+### This metric is a release candidate. To comment on this metric please see Issue [#[465]](https://github.com/chaoss/wg-dei/issues/465). Following a comment period, this metric will be included in the next regular release.
 
 Question: How well does an open source community attend to welcoming newcomers? 
 
