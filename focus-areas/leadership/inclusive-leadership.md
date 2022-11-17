@@ -96,9 +96,10 @@ The third step is to act on what you've learned. What those steps are depends on
 
 ## References
 
-* [Related blog post](https://medium.com/@sunnydeveloper/how-to-apply-metrics-for-inclusion-to-your-open-source-project-71b4e31a7b0c)
+* [How to Apply Metrics for Inclusion to Your Open Source Project - Blog Post](https://medium.com/@sunnydeveloper/how-to-apply-metrics-for-inclusion-to-your-open-source-project-71b4e31a7b0c)
 * [Create an Inclusive Leadership team page](https://github.com/mozilla/diversity/blob/master/leadership/inclusive-leadership-template.md)
 * [Run an 'Open Source Maintainer training program](https://mozilla.github.io/maintainer-cohort/)
+* [Open Leadership Assessment Tool](https://github.com/open-organization/open-leadership-assessment/blob/main/open-leadership-self-survey.md)
 
 **Background**
 
