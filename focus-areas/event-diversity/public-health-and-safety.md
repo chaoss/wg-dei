@@ -1,5 +1,5 @@
 # Public Health and Safety
-### This metric is a release candidate. To comment on this metric please see Issue [#474](https://github.com/chaoss/wg-dei/issues/474). Following a comment period, this metric will be included in the next regular release.###
+### This metric is a release candidate. To comment on this metric please see Issue [#474](https://github.com/chaoss/wg-dei/issues/474). Following a comment period, this metric will be included in the next regular release.
 
 Question: To what extent does your event address public health through policies around masks, vaccines, COVID testing, and in infrastructure such as ventilation and air purification in indoor venues?
 
