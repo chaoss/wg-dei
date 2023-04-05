@@ -1,7 +1,5 @@
 # Event Location Inclusivity
 
-### This metric is a release candidate. To comment on this metric please see Issue [#476](https://github.com/chaoss/wg-dei/issues/476). Following a comment period, this metric will be included in the next regular release.
-
 Question: Is the event located in a region where governments, cultural contexts, or society may cause harm to the physical safety and/or psychological safety of event attendees?
 
 Context Tags: Community, Event
