@@ -13,12 +13,12 @@ Event organizers should also be aware of any conflicting events in the local are
 
 ## Objectives
 This metric may be used to ensure that the event location selected is safe and inclusive for all event attendees. If an event’s location cannot be controlled due to financial or travel constraints, this metric may also be used to communicate the organizer’s position on the local laws, support for the community, and safety warnings to event attendees.
-Attendees of an event may want to know how inclusive an event location is before registering and attending. 
-Sponsors of an event may want to know how inclusive an event location is before providing support. 
-Event organizers may want to signal disruptions to inclusivity so that attendees and sponsors can make informed decisions. 
+
+- Attendees of an event may want to know how inclusive an event location is before registering and attending. 
+- Sponsors of an event may want to know how inclusive an event location is before providing support. 
+- Event organizers may want to signal disruptions to inclusivity so that attendees and sponsors can make informed decisions. 
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other laws. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.* 
 
 ### Visualizations
 
@@ -66,5 +66,3 @@ Event organizers can include a post-conference question asking attendees about e
 - Matt Cantu
 - Lauren Phipps
 - Joshua Simmons
-
-***This metric was last reviewed on February 25, 2023 as part of the continuous release process.***
