@@ -11,7 +11,6 @@ Mentorship programs are a vital component in growing and sustaining a community 
 To increase the number and diversity of new contributors as well as increase the level of contributions from each contributor. To increase the number of and diversity of contributors, encouraging them to grow into new roles with increasing responsibility within a community. To increase the number of advocates/evangelists for a project as well as the number of paid mentors and mentees. To cultivate a culture of inclusivity through identifying and supporting mentors and mentees.
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Data Collection Strategies
 
@@ -55,11 +54,7 @@ To increase the number and diversity of new contributors as well as increase the
     - Geographic distribution of mentees
 
 ## References
-
 - [GSoC Mentor Guide](https://google.github.io/gsocguides/mentor/)
 - [GSoC Student Guide](http://google.github.io/gsocguides/student/)
 - Esther Schindler, 2009. [Mentoring in Open Source Communities: What Works? What Doesn't?](https://www.itworld.com/article/2768355/mentoring-in-open-source-communities--what-works--what-doesn-t-.html)
 - [OpenStack Gender Report: Mentorship focused](https://superuser.openstack.org/wp-content/uploads/2018/06/Gender-Diversity-Analysis-in-the-OpenStack-Community-2018.pdf)
-
-***This metric was last reviewed on July 20, 2022 as part of the metrics revision process.***
-
