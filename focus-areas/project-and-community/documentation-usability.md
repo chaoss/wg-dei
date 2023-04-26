@@ -2,9 +2,7 @@
 
 Question: What is the usability of documentation from content and structure perspectives?
 
-
 ## Description
-
 Documentation usability addresses the critical role of an open source project’s documentation by making sure that various users can understand it. Documentation usability contains issues of structure, content, jargon, and readability with the goal to foster understanding for the widest audience of contributors to the project.
 
 
@@ -17,7 +15,6 @@ Documentation usability addresses the critical role of an open source project’
 * **Time/Attention Diversity** — Documentation is inclusive of people that have differences in the time they can spend on the documentation either reading or setting up/running commands. It is worthwhile to consider people with childcare or other caring roles that may pull their attention from their screens at any given point, so keeping documentation in smaller, more consumable blocks is preferable.  
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Data Collection Strategies
 
@@ -39,8 +36,6 @@ Documentation usability addresses the critical role of an open source project’
 * Ask users of documentation to write a [friction log](https://devrel.net/developer-experience/an-introduction-to-friction-logging) and describe what issues they had with documentation. This gives concrete use cases for documentation editors to understand how to improve the documentation for the specific user.
 * Consider if different versions of the documentation are available for different audiences. For example, a lightweight version and a very detailed version of the documentation.
 
-
-
 ## Resources
 
 * [W3C Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
@@ -50,16 +45,9 @@ Documentation usability addresses the critical role of an open source project’
 * [Thoughts on Accessibility metrics](https://www.boia.org/blog/3-times-accessibility-and-disability-stats-matter-and-3-times-they-dont)
 * [GNOME on Accessibility ](https://wiki.gnome.org/Accessibility)
 * [Paypal’s list of Guidelines for Accessibility](http://paypal.github.io/a11y/)
-* [The Core Infrastructure Initiative: Best Practices Badge](https://bestpractices.coreinfrastructure.org/en)
 * [Breaking Down Barriers to Kubernetes Contribution for Neurodivergent Individuals](https://static.sched.com/hosted_files/kcsna2019/05/Breaking%20Down%20Barriers%20to%20Kubernetes%20Contribution%20for%20Neurodivergent%20Individuals%20%282%29.pdf)
-* [`documentation_basics`](https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md#documentation_basics)
-* [`documentation_interface`](https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md#documentation_interface)
+* [GitHub Documentation Basics](https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md#documentation_basics)
+* [GitHub Documentation Interface](https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md#documentation_interface)
 * [Friction Log](https://devrel.net/developer-experience/an-introduction-to-friction-logging)
 * [Stanford: Screen Reader Testing](https://soap.stanford.edu/tips/screen-reader-testing)
-
-
-## Contributors
--
-
-***This metric was last reviewed on July 23, 2022 as part of the metrics revision process.***
 
