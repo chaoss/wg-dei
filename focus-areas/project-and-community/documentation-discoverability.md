@@ -3,17 +3,17 @@ Question: How easily can users and contributors find the information they are lo
 
 ## Description
 Documentation discoverability is critical due to the role it plays in open source project’s inclusivity. If people cannot find and then easily navigate through the body of documentation, or find the answers they seek, they are less likely to use or contribute to the project thus decreasing the project ability to attract a diverse set of contributors. Documentation discoverability has the goal to ensure searchability and visibility as well as improve inclusivity across a diverse audience.
+
 ## Objectives
-**Visibility** — Documentation is easy to find and reference. <br/>
-**Searchability** — Documentation can easily be navigated by users based on their ability, and they can find the relevant information they need through search. <br/>
-**Method of Discovery** — Identification of the ways in which people find the documentation <br/>
-**Inclusivity** - Knowledge is shared more equitably among project contributors, and new contributors can more easily participate.. <br/>
+The Documentation Discoverability metric is meant to support documentation: 
+- Visibility: Documentation is easy to find and reference.
+- Searchability: Documentation can easily be navigated by users based on their ability, and they can find the relevant information they need through search.
+- Method of Discovery: Identification of the ways in which people find the documentation
+- Inclusivity: Knowledge is shared more equitably among project contributors, and new contributors can more easily participate.
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Data Collection Strategies
-
 
 Survey project members: <br/> <br/>
 Likert scale [easy to find - impossible to find] regarding the discoverability of documentation such as:
@@ -43,28 +43,10 @@ Answer options:
 - Several challenges
 - Many challenges
 
-Open-ended follow-up question if the answer is anything other than “No challenges”: 
-- Describe an example of what challenge you experienced and when, how the challenge affected you, and how, if at all, you overcame the challenge.
-- Open-ended follow-up question: 
- - What suggestions do you have for improving the project’s documentation regarding policies, processes, or guidelines available to new contributors? 
-
-Walkthrough with intended users of the documentation.  <br/>
-
-Observe how they interact and use the documentation and where they get stuck. For example, this can be a video conference session where the user of the documentation shares their screen.  <br/>
-
-Ask users of documentation to write a [friction log](https://devrel.net/developer-experience/an-introduction-to-friction-logging) and describe what issues they had with documentation. This gives concrete use cases for documentation editors to understand how to improve the documentation for the specific user.
-
-
 ## Resources
 
 - [Curse of Knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)
 - [Knowledge Base 101](https://www.helpscout.com/playlists/knowledge-base/)
 - [5 Tips for Making Documentation a Priority in Open Source Projects](https://opensource.com/article/20/8/documentation-open-source-projects) 
 - [Building navigation for your documentation site: 5 best practices in design](https://idratherbewriting.com/files/doc-navigation-wtd/design-principles-for-doc-navigation/) 
-
-# Contributors 
-
-
-
-***This metric was last reviewed on July 24, 2022 as part of the metrics revision process.***
 
