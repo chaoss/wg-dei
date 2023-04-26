@@ -29,7 +29,6 @@ LGBT+ Global Equality Index March 1, 2023 from https://www.equaldex.com/
 ![event-location-inclusivity-US-discrimination-index](https://github.com/chaoss/wg-dei/blob/main/focus-areas/event-diversity/images/event-location-inclusivity-US-discrimination-index.png)
 
 United States LGBT+ Discrimination Index on March 1, 2023 from https://www.equaldex.com/
-	
 
 ### Tools Providing the Metric
 
