@@ -18,7 +18,6 @@ Sponsors of an event may want to know how inclusive an event location is before 
 Event organizers may want to signal disruptions to inclusivity so that attendees and sponsors can make informed decisions. 
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other laws. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.* 
 
 ### Visualizations
 
@@ -29,7 +28,6 @@ LGBT+ Global Equality Index March 1, 2023 from https://www.equaldex.com/
 ![event-location-inclusivity-US-discrimination-index](https://github.com/chaoss/wg-dei/blob/main/focus-areas/event-diversity/images/event-location-inclusivity-US-discrimination-index.png)
 
 United States LGBT+ Discrimination Index on March 1, 2023 from https://www.equaldex.com/
-	
 
 ### Tools Providing the Metric
 
@@ -66,5 +64,3 @@ Event organizers can include a post-conference question asking attendees about e
 - Matt Cantu
 - Lauren Phipps
 - Joshua Simmons
-
-***This metric was last reviewed on February 25, 2023 as part of the continuous release process.***
