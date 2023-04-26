@@ -6,16 +6,12 @@ Question: To what extent do community members feel safe within a community, incl
 
 A key component that is integral to the goal of community inclusion, is psychological safety. Psychological safety can be defined in several different stages, according to the [Center for Creative Leadership](https://www.ccl.org/articles/leading-effectively-articles/what-is-psychological-safety-at-work/):
 
-
-
 * Stage 1 – Inclusion Safety: Inclusion safety satisfies the basic human need to connect and belong. In this stage, you feel safe to be yourself and are accepted for who you are, including your unique attributes and defining characteristics.
 * Stage 2 – Learner Safety: Learner safety satisfies the need to learn and grow. In this stage, you feel safe to exchange in the learning process, by asking questions, giving and receiving feedback, experimenting, and making mistakes.
 * Stage 3 – Contributor Safety: Contributor safety satisfies the need to make a difference. You feel safe using your skills and abilities to make a meaningful contribution.
 * Stage 4 – Challenger Safety: Challenger safety satisfies the need to make things better. You feel safe to speak up and challenge the status quo when you think there’s an opportunity to change or improve.
 
 In communities with a strong level of psychological safety, contributors are more likely to be empowered to propose changes and take on leadership and/or decision-making roles. Psychological safety in communities impacts diversity, equity, and inclusion, and is signaled by indicators such as:
-
-
 
 * Diversity: Contributors from under-represented groups are more likely to be active participants and encourage others to be so as well
 * Equity: The distribution of decision-making and leadership roles is evenly distributed to include traditionally marginalized groups
@@ -24,8 +20,6 @@ In communities with a strong level of psychological safety, contributors are mor
 * Retention: Contributors are more likely to remain connected to the project if they feel safe in doing so
 
 There will be a positive effect on contributor diversity, sense of inclusion and belonging, and ultimately contributor retention if:
-
-
 
 * community members feel safe participating in the community through code contributions, comments, discussions, and other forms of participation
 * there is a level of trust that policies have been put in place to mitigate harassment and intolerance
@@ -38,15 +32,11 @@ There will be a positive effect on contributor diversity, sense of inclusion and
 
 This metric is designed to:
 
-
-
 * Enable project maintainers to understand the level of psychological safety around project policies, such as code of conduct, and code of conduct enforcement
 * Allow community members to voice concerns about psychological safety
 * Identify potential areas for improving psychological safety within the community
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
-
 
 ### Data Collection Strategies
 
@@ -133,16 +123,11 @@ Additional survey questions may include:
 - Did the community push back on fixing these issues?
 
 ### Filters
-
-
-
 * Demographic segments
 * Role of the contributor (code, community management, advocacy, documentation, etc.)
 * Length of time in the community
 
 ## References
-
-
 
 * [Psychological Safety, Trust, and Learning in Organizations: A Group-level Lens](https://www.researchgate.net/publication/268328210_Psychological_Safety_Trust_and_Learning_in_Organizations_A_Group-level_Lens)
 * [Adding Community and Safety Checks to New Features (GitHub Blog)](https://github.blog/2017-01-31-community-and-safety-feature-reviews/)
@@ -150,9 +135,6 @@ Additional survey questions may include:
 * [What is Psychological Safety at Work](https://www.ccl.org/articles/leading-effectively-articles/what-is-psychological-safety-at-work/)
 
 ## Contributors
-
-
-
 * Elizabeth Barron
 * Matt Germonprez
 * Kevin Lumbard
@@ -168,5 +150,3 @@ Additional survey questions may include:
 * Emily Brown
 * Sean Goggins
 * Georg Link
-
-***This metric was last reviewed on July 20, 2022 as part of the metrics revision process.***
