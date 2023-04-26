@@ -28,5 +28,3 @@ An open source contributor would often like to know that someone on the governin
 - https://www.linuxfoundation.org/about/diversity-inclusiveness/ 
 - (The Truth About Board Diversity)[https://www.cicf.org/2021/11/29/the-truth-about-board-diversity/]
 
-
-***This metric was last reviewed on July 20, 2022 as part of the metrics revision process.***
