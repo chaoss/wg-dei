@@ -21,7 +21,6 @@ Sponsoring is only recently been adopted in the industry. Sponsorship is an effe
 - Convert sponsees into sponsors, and continue the cycle.
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Data Collection Strategies
 
@@ -58,11 +57,5 @@ Conduct interviews with new and existing members for feedback concerning the pro
 - Sponsors Need to Stop Acting Like Mentors
    - By Julia Taylor Kennedy and Pooja Jain-Link
    - https://hbr.org/2019/02/sponsors-need-to-stop-acting-like-mentors
-
-## Contributors
-
-- 
-
-***This metric was last reviewed on July 23, 2022 as part of the metrics revision process.***
 
 
