@@ -12,8 +12,6 @@ This metric aims to help event organizers present to event attendees and to trac
 
 ## Implementation
 
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
-
 Depending on the size of the event as well as the financial constraints and implementations may include:
 
 - Accessibility audit of the event website (e.g. colorblind-friendly contrasts, screen-reader support, etc.)
@@ -41,7 +39,6 @@ Depending on the size of the event as well as the financial constraints and impl
 Event organizers should have a comprehensive list of the initiatives they’ve implemented, and should make that list available on their website for attendees and speakers.
 
 ### Filters 
-
 - Virtual versus In-person event
 - Local, regional, and national rules/laws
 
@@ -64,8 +61,6 @@ There are several different ways to signal attention to  this metric which may i
 - [How to Use Color-Blind Friendly Pallettes](https://venngage.com/blog/color-blind-friendly-palette/)
 
 ## Contributors
-List of people who would like to be mentioned as contributors to this metric 
-
 - Elizabeth Barron
 - Justin W. Flory
 - Matt Germonprez 
@@ -75,5 +70,3 @@ List of people who would like to be mentioned as contributors to this metric
 - Kristi Progri
 - Kafayah Lawal
 - Katie Schueths
-
-***This metric was last reviewed on February 23, 2022 as part of 2022-04 release.***
