@@ -20,7 +20,6 @@ Project Burnout should be understood within projects and managed effectively to 
 
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Data Collection Strategies
 
@@ -54,7 +53,6 @@ Project Burnout should be understood within projects and managed effectively to 
     *   How do you measure the well-being of your community members in your open source project?
     *   How do you determine the well-being of contributors to your project?
 
-
 ## References
 
 1. [What you need to know about burnout in open source communities](https://opensource.com/article/19/11/burnout-open-source-communities)
@@ -65,9 +63,3 @@ Project Burnout should be understood within projects and managed effectively to 
 6. [Burned out](https://www.scientificamerican.com/article/burned-out/)
 7. [How I learned about burnout the hard way](https://opensource.com/article/20/3/burnout)
 
-
-## Contributors
-
-- 
-
-***This metric was last reviewed on July 23, 2022 as part of the metrics revision process.***
