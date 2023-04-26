@@ -1,21 +1,18 @@
 # Newcomer Experience
 
-### This metric is a release candidate. To comment on this metric please see Issue [#[465]](https://github.com/chaoss/wg-dei/issues/465). Following a comment period, this metric will be included in the next regular release.
-
 Question: How well does an open source community attend to welcoming newcomers? 
 
 ## Description
 Projects want  to provide an environment in which new community members can actively listen, engage, and contribute to an open source community. Newcomer experience (e.g., onboarding and orientation) is a way of measuring and understanding how open source communities welcome and support new community members. 
 
 ## Objectives
-Determine how your community is designed to improve the experience of new community members 
-Determine how effective the documentation is in helping new community members take the first steps to become independent contributors
-Determine how your community recognizes and supports new community members 
-Determine how your community provides resources for new community members
-Determine DEI issues for new community members
+- Determine how your community is designed to improve the experience of new community members 
+- Determine how effective the documentation is in helping new community members take the first steps to become independent contributors
+- Determine how your community recognizes and supports new community members 
+- Determine how your community provides resources for new community members
+- Determine DEI issues for new community members
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Filters (optional)
 The newcomer experience can be filtered on: 
@@ -26,21 +23,6 @@ The newcomer experience can be filtered on:
 - [New contributors](https://chaoss.community/metric-new-contributors/) 
 - [Occasional contributors](https://chaoss.community/metric-occasional-contributors/) 
 - [Inactive contributors](https://chaoss.community/metric-inactive-contributors/) 
-
-### Visualizations
-
-These graphs are focused on identifying repeat first time contributors and second time contributors to a project in a time period. Each graph reflects a number of parameters that an open source project are likely to be modified based on project scale, maturity, and activity level: 
-- How many contributions puts a contributor into the “repeat first time contributor” category? The first graph uses 4. Large projects with more activity may want to use larger thresholds. 
-- What counts as a “contribution”? Commits are often a singular activity that signals contribution. In the graphs below, six different, common contribution types are included. 
-
-
-Figure 1: Augur: First time contributors
-
-
-
-Figure 2: Augur: Second time contributors 
-
-
 
 ### Tools Providing the Metric
 [Augur](https://github.com/chaoss/augur)   
@@ -87,6 +69,4 @@ Qualitative
 - Elizabeth Barron
 - Dawn Foster
 - Kevin Lumbard
-
-***This metric was last reviewed on September, 28, 2022 as part of the recurring review process***
 
