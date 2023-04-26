@@ -12,9 +12,7 @@ Leadership is central to a project/community's culture and how the leadership is
 - Enable communities to reflect on their own leadership practices. 
 - Signal to newcomers and already existing community members that everyone is welcome, has an opportunity to take on leadership roles, and can be successful within the project. 
 
-
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Filters
 
@@ -83,41 +81,23 @@ _Acknowledgement of Limitations_
 * Has leadership clearly and explicitly acknowledged these limitations publicly?
 * Are leaders open to discussing and implementing suggestions that reduce the impact of these limitations?
 
-
 **Step 2: Evaluate**
 The second step is to evaluate your project/community according to existing goals for leadership.  
 
 _Example Goal:_ Increase % in contribution typically done by project maintainers (pull request review, responding to, and trying to replicate issues). How is this percentage measured? Do we state it?
 
-
 **Step 3: Take Action**
 The third step is to act on what you've learned. What those steps are depends on your specific project community and giving recommendations is outside the scope of this document. What document is this in then? Can we link it? 
-
 
 ## References
 
 * [How to Apply Metrics for Inclusion to Your Open Source Project - Blog Post](https://medium.com/@sunnydeveloper/how-to-apply-metrics-for-inclusion-to-your-open-source-project-71b4e31a7b0c)
 * [Create an Inclusive Leadership team page](https://github.com/mozilla/diversity/blob/master/leadership/inclusive-leadership-template.md)
 * [Run an 'Open Source Maintainer training program](https://mozilla.github.io/maintainer-cohort/)
-* [Open Leadership Assessment Tool](https://github.com/open-organization/open-leadership-assessment/blob/main/open-leadership-self-survey.md)
-
-**Background**
-
-The principles and practices above were created and agreed upon by a cross-functional set of diverse group of Mozilla staff and volunteers who are most closely connected to the primary contribution areas SUMO, Mozilla Reps, L10N).
-
-[Read more here](https://wiki.mozilla.org/Volunteer_leadership_principles).
-
-They have been applied to the following projects/products:
-
-* Mozilla Open Source Support Program ([MOSS](https://www.mozilla.org/en-US/moss/))
+* * Mozilla Open Source Support Program ([MOSS](https://www.mozilla.org/en-US/moss/))
 * [Mozilla Reps Program](https://blog.mozilla.org/mozillareps/2018/10/10/community-coordinator-role/)
 * [Firefox Developer Tools / Debugger Program](https://github.com/firefox-devtools/debugger/blob/aa827095d86475f816017ff35d6f9c2e83cf7b9b/docs/community-team.md)
 * [24 Pull Requests](https://24pullrequests.com/) ('File an Inclusion Bug!')
-* Add your project.
+* [Open Leadership Assessment Tool](https://github.com/open-organization/open-leadership-assessment/blob/main/open-leadership-self-survey.md)
+* [Volunteer Leadership Principles](https://wiki.mozilla.org/Volunteer_leadership_principles)
 
-
-**Contributors**
-
-
-
-***This metric was last reviewed on July 20, 2022 as part of the metrics revision process.***
