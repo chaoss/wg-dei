@@ -21,14 +21,7 @@ A code of conduct in a project provides the following:
 
 ## Implementation
 
-### Tools Providing the Metric
-
-* [Mozilla Code of Conduct Assessment Tool](https://mozilla.github.io/diversity-coc-review.io/)
-
 ### Data Collection Strategies
-
-
-
 
 _Qualitative_
 
@@ -49,10 +42,13 @@ _Quantitative_
   * Likert scale [1-x] item: To what extent did the existence of the code of conduct make you feel safer, and more empowered to fully participate in this project? [i]
   * Likert scale [1-x] item: If you reported a violation of the code of conduct, to what extent was it resolved to your satisfaction? [i]
 
+### Tools Providing the Metric
+
+* [Mozilla Code of Conduct Assessment Tool](https://mozilla.github.io/diversity-coc-review.io/)
+
 ## References
 
 - [CHAOSS metric: Code of Conduct at Events](https://chaoss.community/metric-code-of-conduct-at-event/)
-
 
 [i] Some sample questions re-used from the Mozilla project.
 
@@ -63,5 +59,3 @@ _Quantitative_
 - Amy Marrich 
 - Sean Goggins
 - Kafayah Lawal
-
-***This metric was last reviewed on July 20, 2022 as part of the metrics revision process.***
