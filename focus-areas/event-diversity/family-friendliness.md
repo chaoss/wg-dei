@@ -1,4 +1,4 @@
-# Event Diversity - Family Friendliness
+# Family Friendliness
 
 Question: How does enabling families to attend together support diversity and inclusion of the event?
 
@@ -16,7 +16,6 @@ Family friendliness at events can lower the barrier of entry for some attendees 
 - A parent, guardian, or caregiver, with children under the age of 18, with no option, but to bring their children, evaluate their ability to attend as a family.
 
 ## Implementation 
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Data Collection Strategies
 - Interview conference staff
@@ -41,4 +40,3 @@ Family friendliness at events can lower the barrier of entry for some attendees 
 - [Childcare at Conferences Toolkit by Adacare](https://adacamp.org/adacamp-toolkit/childcare/)
 - [Improving Childcare at Conferences](https://open.nytimes.com/what-if-child-care-were-as-standard-as-coffee-at-tech-conferences-568c5fba028e)
 
-***This metric was last reviewed on June 8, 2022 as part of 2022 Metrics Review Period.***
