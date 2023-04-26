@@ -17,10 +17,8 @@ Attendee, Speaker and Volunteer [demographics](https://github.com/drnikki/open-d
 - Discover less-visible stories with regard to intersectionality of the demographic data
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Filters
-
 - Demographics: Responses to subjective questions should be analyzed to gather diverse perspectives. Investigating the responses for each group of demographics can indicate whether some demographics feel less included than the average.
 - Keynotes, sessions, and tracks.
 - Diversity throughout the conference that is not restricted to a single track or series.
@@ -52,5 +50,3 @@ Attendee, Speaker and Volunteer [demographics](https://github.com/drnikki/open-d
 - Kevin Lumbard
 - Lauren Phipps
 - Yehui Wang
-
-***This metric was last reviewed on March 08, 2022 as part of 2022-04 release.***
