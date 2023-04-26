@@ -7,23 +7,18 @@ Issue label inclusivity helps gauge the affordability of issues to different con
 
 ## Objectives
 
-*__Newcomer Friendly__*: Issues include appropriately labelled issues (e.g, “good first issue”, “newcomer-friendly”) for a new contributor to start with.
+The Issue Label Inclusivity metric can help a project ensure:
 
-*__Mentor Availability__*: Issues identify a mentor who can provide guidance and help with the review process of a particular issue (e.g., “Mentor Available” tag)
-
-*__Issue List Diversity__*: Issues provide a diverse list of labels pertaining to different types of contributions (code and/or non-code) (e.g., “Documentation” tag)
-
-*__Usable Title and Description__*: Issue titles and descriptions follow the Documentation Usability metric objectives
-
-*__Consistent Use of Labels__*: Issues use a curated list of labels with distinct colors in a consistent way.
-For example, families of tags with a distinct color for each:
-
-- Issue Type: “Feature” vs “Bug” vs “Documentation”...
-- Issue Skills: the skills needed to resolve the issue (e.g, js, html, css)
-- Issue Level of Familiarity: mentions the lowest level of familiarity needed (“good for newcomer” or “occasional contributor”or “core contributor”...)
+- Newcomer Friendliness: Issues include appropriately labelled issues (e.g, “good first issue”, “newcomer-friendly”) for a new contributor to start with.
+- Mentor Availability: Issues identify a mentor who can provide guidance and help with the review process of a particular issue (e.g., “Mentor Available” tag)
+- Issue List Diversity: Issues provide a diverse list of labels pertaining to different types of contributions (code and/or non-code) (e.g., “Documentation” tag)
+- Usable Titles and Descriptions: Issue titles and descriptions follow the Documentation Usability metric objectives
+- Consistent Use of Labels: Issues use a curated list of labels with distinct colors in a consistent way. For example, families of tags with a distinct color for each:
+   - Issue Type: “Feature” vs “Bug” vs “Documentation”...
+   - Issue Skills: the skills needed to resolve the issue (e.g, js, html, css)
+   - Issue Level of Familiarity: mentions the lowest level of familiarity needed (“good for newcomer” or “occasional contributor”or “core contributor”...)
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Filters
 
@@ -66,4 +61,3 @@ From: https://github.com/kubernetes/kubernetes/labels
 ## References
 - [GitHub Satellite](https://githubsatellite.com/)
 
-***This metric was last reviewed on July 24, 2022 as part of the metrics revision process.***
