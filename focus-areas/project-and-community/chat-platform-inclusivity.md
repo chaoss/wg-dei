@@ -14,8 +14,6 @@ Chat Platforms should be chosen, moderated, and managed transparently, using inc
 
 ## Objectives
 
-
-
 * Support decision-makers when choosing a Chat Platform.
 * Provide ideas that contributors and potential contributors may use to evaluate the specific context of any given project.
 * Identify characteristics of the Chat Platforms, such as those identified under filters, that suggest greater inclusivity.
@@ -23,14 +21,8 @@ Chat Platforms should be chosen, moderated, and managed transparently, using inc
 
 ## Implementation
 
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
-
 
 ### Filters
-
-How do these filters measure inclusivity? Think of it like an office space. How many teams (Chat Platforms) are there? How active are they? For example, very active chats can be difficult to follow and that difficulty will vary from person to person.
-
-
 
 * General:
     * Number of active Chat rooms/groups
@@ -47,25 +39,12 @@ How do these filters measure inclusivity? Think of it like an office space. How 
     * Number of repeat logins
 
 
-### Visualizations
-
-
-
-* Most active hours in community-specific Chat Platforms
-* Number of active new chat members vs. older chat members
-* Word clouds (for public Chat Platforms, e.g., public Mattermost rooms)
-* “On-topic” vs. “off-topic” conversation
-    * How often do certain keywords or phrases show up, etc.
-
-
 ### Tools Providing the Metric
 
 [GrimoireLab Perceval](https://github.com/chaoss/grimoirelab-perceval#usage) currently supports data collection from various Chat Platforms.
 
 
 ### Data Collection Strategies
-
-
 
 * Trace data from Chat Platforms:
     * See supported platforms for data collection [in Perceval](https://github.com/chaoss/grimoirelab-perceval#usage).
@@ -93,12 +72,9 @@ How do these filters measure inclusivity? Think of it like an office space. How 
 
 ### References
 
-
-
 1. [Love or hate chat? 4 best practices for remote teams](https://opensource.com/article/20/4/chat-tools-best-practices) — Opensource.com
 2. [Open source status of chat platforms](https://chaoss.community/blog-post/2020/12/15/di-metrics-definition/) — Chaoss.community
 3. Moderation advice (can inform the choice of platform):
     1. [Moderation guidelines for the inclusive community](https://web.archive.org/web/20200522175549/https:///articles/2017-04/Moderation-guidelines) — rhea.dev
     2. [Participation & Moderation Guidelines](https://www.drupaldiversity.com/docs/participation-moderation-guidelines) — drupaldiversity.com
 
-***This metric was last reviewed on July 20, 2022 as part of the metrics revision process.***
