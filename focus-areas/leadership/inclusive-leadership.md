@@ -5,7 +5,7 @@ Question: How well is a project and community setup for diverse leadership?
 
 ## Description
 
-Leadership is central to a project/community's culture and how the leadership is determined requires intentional design and accountability for the inclusion of others. Note the term leadership may vary depending on the project/community. Leadership roles have high visibility and the diversity of this group is critically important to fostering an inclusive community.
+Leadership is central to a project/community's culture and how the leadership is determined requires intentional design and accountability for the inclusion of others. Note the term "leadership" may vary depending on the project/community. Leadership roles have high visibility and the diversity of this group is critically important to fostering an inclusive community.
 
 ## Objectives
 
@@ -16,7 +16,7 @@ Leadership is central to a project/community's culture and how the leadership is
 
 ### Filters
 
-**Examples of open source leadership (e.g., influential community roles):**
+This metric can be filtered by type of open source leadership (e.g., influential community roles):
 
 * Individuals serving as project maintainers (sometimes referred to as owners)
 * Individuals with repository merge access
@@ -28,9 +28,7 @@ Leadership is central to a project/community's culture and how the leadership is
 
 ### Data Collection Strategies
 
-**Step 1: Understand**
-
-The first step is to understand the principles of inclusive leadership by asking some questions that can include:
+Project leaders can seek to understand how the project supports inclusive leadership by asking some self-relfective questions that can include:
 
 _Review & Renewal_
 
@@ -81,23 +79,25 @@ _Acknowledgement of Limitations_
 * Has leadership clearly and explicitly acknowledged these limitations publicly?
 * Are leaders open to discussing and implementing suggestions that reduce the impact of these limitations?
 
-**Step 2: Evaluate**
-The second step is to evaluate your project/community according to existing goals for leadership.  
-
-_Example Goal:_ Increase % in contribution typically done by project maintainers (pull request review, responding to, and trying to replicate issues). How is this percentage measured? Do we state it?
-
-**Step 3: Take Action**
-The third step is to act on what you've learned. What those steps are depends on your specific project community and giving recommendations is outside the scope of this document. What document is this in then? Can we link it? 
 
 ## References
 
 * [How to Apply Metrics for Inclusion to Your Open Source Project - Blog Post](https://medium.com/@sunnydeveloper/how-to-apply-metrics-for-inclusion-to-your-open-source-project-71b4e31a7b0c)
 * [Create an Inclusive Leadership team page](https://github.com/mozilla/diversity/blob/master/leadership/inclusive-leadership-template.md)
 * [Run an 'Open Source Maintainer training program](https://mozilla.github.io/maintainer-cohort/)
-* * Mozilla Open Source Support Program ([MOSS](https://www.mozilla.org/en-US/moss/))
+* Mozilla Open Source Support Program ([MOSS](https://www.mozilla.org/en-US/moss/))
 * [Mozilla Reps Program](https://blog.mozilla.org/mozillareps/2018/10/10/community-coordinator-role/)
 * [Firefox Developer Tools / Debugger Program](https://github.com/firefox-devtools/debugger/blob/aa827095d86475f816017ff35d6f9c2e83cf7b9b/docs/community-team.md)
 * [24 Pull Requests](https://24pullrequests.com/) ('File an Inclusion Bug!')
 * [Open Leadership Assessment Tool](https://github.com/open-organization/open-leadership-assessment/blob/main/open-leadership-self-survey.md)
 * [Volunteer Leadership Principles](https://wiki.mozilla.org/Volunteer_leadership_principles)
+
+## Contributors
+- Emma Irwin
+- Amy Marrich
+- Kevin Lumbard
+- Matt Germonprez
+- Sean Goggins
+- Elizabeth Barron
+- Katie Scheuths
 
