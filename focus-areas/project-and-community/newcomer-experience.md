@@ -3,18 +3,18 @@
 Question: How well does an open source community attend to welcoming newcomers? 
 
 ## Description
-Projects want  to provide an environment in which new community members can actively listen, engage, and contribute to an open source community. Newcomer experience (e.g., onboarding and orientation) is a way of measuring and understanding how open source communities welcome and support new community members. 
+Projects want to provide an environment in which new community members can actively listen, engage, and contribute to an open source community. Newcomer experience (e.g., onboarding and orientation) is a way of measuring and understanding how open source communities welcome and support new community members. 
 
 ## Objectives
 - Determine how your community is designed to improve the experience of new community members 
 - Determine how effective the documentation is in helping new community members take the first steps to become independent contributors
 - Determine how your community recognizes and supports new community members 
 - Determine how your community provides resources for new community members
-- Determine DEI issues for new community members
+- Determine potential areas for improvement in diversity, equity, and incluion issues for new community members in particular
 
 ## Implementation
 
-### Filters (optional)
+### Filters
 The newcomer experience can be filtered on: 
 - [Member Demographics](https://chaoss.community/metric-project-demographics/) 
 - [Types of Contributions](https://chaoss.community/metric-types-of-contributions/)  
@@ -25,24 +25,25 @@ The newcomer experience can be filtered on:
 - [Inactive contributors](https://chaoss.community/metric-inactive-contributors/) 
 
 ### Tools Providing the Metric
-[Augur](https://github.com/chaoss/augur)   
-[GrimoireLab](https://github.com/chaoss/grimoirelab)
+- [Augur](https://github.com/chaoss/augur)   
+- [GrimoireLab](https://github.com/chaoss/grimoirelab)
 
 ### Data Collection Strategies
 
-Quantitative 
+#### Quantitative 
 - Observe second, third, or fourth contributions from first-time contributors
+- Observe [New Contributors Closing Issues](https://chaoss.community/?p=3615) to determine if new contributors are able to close issues
 
-Qualitative 
+#### Qualitative 
 - Survey: This could include newcomer experience questions such as:
-- Survey Likert item (1-x): I feel welcome in the community
-- Survey Likert item (1-x): I feel like I am making a contribution to the community
-- Survey Likert item (1-x): I am satisfied with the current community structure
-- Survey Likert item (1-x): I would like to help more in the community
-- Survey Likert item (1-x): I have the ability to have an impact in the community 
-- Survey Likert item (1-x): The community treats new community members well 
-- Open ended question: What's something that the community lacks and you wish it didn't (e.g., more in-person events, more research on DEI, more meetings)?
-- Open ended question: When you first started working with the community, what were some obstacles you encountered (e.g., couldn't find information on getting started, couldn't find meeting times, wasn't sure where to start)?
+  - Survey Likert item (1-x): I feel welcome in the community
+  - Survey Likert item (1-x): I feel like I am making a contribution to the community
+  - Survey Likert item (1-x): I am satisfied with the current community structure
+  - Survey Likert item (1-x): I would like to help more in the community
+  - Survey Likert item (1-x): I have the ability to have an impact in the community 
+  - Survey Likert item (1-x): The community treats new community members well 
+  - Open ended question: What's something that the community lacks and you wish it didn't (e.g., more in-person events, more research on DEI, more meetings)?
+  - Open ended question: When you first started working with the community, what were some obstacles you encountered (e.g., couldn't find information on getting started, couldn't find meeting times, wasn't sure where to start)?
 - Effectiveness of Mentorship programs specifically aimed at supporting newcomers.
 - Effectiveness of Newcomer onboarding training 
 - Effectiveness of Peer-to-peer mentorship programs internal to the community
