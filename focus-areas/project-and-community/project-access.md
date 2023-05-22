@@ -26,7 +26,9 @@ Depending on the size of the project as well as the financial constraints, acces
 - Regional chapters for the project where community members can work together and contribute in ways that are meaningful in different geographic regions
 - Support for translations as needed
 
-### Filters 
+### Filters
+- Type of access provided (e.g., translation, meeting times, documentation, chat platform)
+- Goal of access (e.g., international inclusion, accessibility)
 
 ### Tools Providing the Metric
 - [The CHAOSS Project Badging program](https://github.com/badging)
@@ -40,16 +42,13 @@ There are several different ways to signal attention to this metric which may in
   - [Survey Likert Item 1-x] The project has a system for periodic accessibility audits
   - [Survey Likert Item 1-x] The project has meetings in different global locations  
   - [Survey Likert Item 1-x] The project actively reaches out to a diverse, global population for contributions or support  
-
 - Perform regular accessibility audits  
-
 - Perform regular reviews of project  [Event Location Inclusivity](https://chaoss.community/?p=4811), [Documentation Accessibility](https://chaoss.community/?p=3535), and [Chat Platform Inclusivity](https://chaoss.community/?p=3536)
 
 ## References
 
-[Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)  
-
-[A11y Project](https://www.a11yproject.com/)
+- [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)  
+- [A11y Project](https://www.a11yproject.com/)
 
 ## Contributors
 
