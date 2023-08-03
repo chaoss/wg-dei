@@ -15,8 +15,6 @@ This metric aims to help event organizers present to event attendees and to trac
 
 ## Implementation
 
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other laws. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.* 
-
 This metric has two components. First, an event organizer needs to decide on public health policies for the event, which is addressed by the list below. Second, those policies need to be communicated to event attendees, which is addressed by the data collection strategies below. 
 
 Here are things to look for in an event’s public health policies:
