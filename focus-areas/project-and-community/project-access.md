@@ -60,5 +60,3 @@ There are several different ways to signal attention to this metric which may in
 - Armstrong Foundjem
 
 
-
-
