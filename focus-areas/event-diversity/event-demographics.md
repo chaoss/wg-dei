@@ -4,17 +4,16 @@ Question: To what extent does an event consider and pay attention to attendee, s
 
 ## Description
 
-Attendee, Speaker and Volunteer [demographics](https://github.com/drnikki/open-demographics) help indicate the potential for different viewpoints and broader perspectives and representation at an event. Because everyone has a different perspective, investigating the responses for each group of demographics can indicate whether people from various demographics feel less included than the average. This metric is applicable to virtual, in-person, and hybrid events.
+Attendee, Speaker, and Volunteer [demographics](https://github.com/drnikki/open-demographics) help indicate the potential for different viewpoints and broader perspectives and representation at an event. Because everyone has a different perspective, investigating the responses for each group of people can indicate whether they feel less included than the average. This metric is applicable to virtual, in-person, and hybrid events.
 
 ## Objectives
 
-- Determine the [diversity] (https://github.com/drnikki/open-demographics) of attendees, speakers, and volunteers. This can include gender identity, age, first language, and dis/ability. 
+- Be attentive to the [diversity] (https://github.com/drnikki/open-demographics) of attendees, speakers, and volunteers.
 - Help retain attendees, speakers, and volunteers from diverse backgrounds for future events.
-- Determine if the groups of speakers are diverse when grouped by keynotes, sessions, and tracks.
-- Determine if keynote, track, and session selection committees are diverse.
-- Share attendee, speaker, and volunteer demographic information with others 
-- Create a statement of privacy management of demographic information 
-- Discover less-visible stories with regard to intersectionality of the demographic data
+- Be attentive that groups of speakers are diverse when grouped by keynotes, sessions, and tracks.
+- Be attentive that keynote, track, and session selection committees are diverse.
+- If collecting and/or sharing attendee, speaker, and volunteer demographic information, creating a statement of privacy management of demographic information. 
+- Discover less-visible stories with regard to intersectionality of the demographic data.
 
 ## Implementation
 
@@ -29,9 +28,12 @@ Attendee, Speaker and Volunteer [demographics](https://github.com/drnikki/open-d
 
 ### Data Collection Strategies
 
-- Request attendee and speaker [demographics](http://nikkistevens.com/open-demographics/) during conference registration
+Note that demographic information is sensitive information and if you are using this metric, you should pay particular attention to the (CHAOSS Data Use Statement)[https://github.com/chaoss/community/blob/main/data-use-statement.md]. Several options exist to collect demographic information. These options include: 
+
+- Request attendee and speaker [demographics](http://nikkistevens.com/open-demographics/) during conference registration with an option to opt-out of providing information.
 - Use a survey before, during, or after an event to gather attendee and speaker demographics. (For example, using the [Open Demographics questions](http://nikkistevens.com/open-demographics/))
 - For virtual events: If a virtual event platform supports real-time polling, use polls to better understand the audience and background of people who attend your event.
+
  
 ## References
 
@@ -50,3 +52,5 @@ Attendee, Speaker and Volunteer [demographics](https://github.com/drnikki/open-d
 - Kevin Lumbard
 - Lauren Phipps
 - Yehui Wang
+- Vinod Ahuja
+- Sean Goggins
