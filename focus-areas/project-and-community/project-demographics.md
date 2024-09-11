@@ -2,22 +2,22 @@
 
 Question: What are the demographics within a project? 
 
-## Description
-Project demographics help indicate the potential for different viewpoints and broader perspectives and representation in the context of a project community. Because everyone has a different perspective, investigating the responses for each group of demographics can indicate whether people from various demographics feel more or less included than the average. 
+## Overview
+The Project Demographics metric analyzes the diversity and representation within a project community. It gathers information on participants' backgrounds, including factors like gender, identity, age, first language, and dis/ability status using references like the Open Demographics Initiative. Measuring project demographics helps assess the potential for varied viewpoints and perspectives, which can lead to a richer and more innovative project environment. Therefore, analyzing diversity across groups (board members, maintainers, organizers, contributors, and community members) helps to identify areas of improvement,  such as language translation tools, special care or mentorship programs for underrepresented groups. 
 
-## Objectives
-- Determine the [diversity] (https://github.com/drnikki/open-demographics) of project members. This can include gender, identity, age, first language, and dis/ability.
-- Help retain community members from diverse backgrounds within the project. 
-- Determine if community members are diverse when grouped by [board membership](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/governance/board-council-diversity.md), maintainers, conference organizers, and contributors.
-- Determine if new community members are from diverse backgrounds.
-- Share non-sensitive community demographic information with others.
-- Create a statement of privacy management of demographic information.
-- Discover less-visible stories with regard to intersectionality of the demographic data.
-- Identify potential areas of improvement for inclusivity based on demographic data.
+## Want to Know More?
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
 
-## Implementation
+### Data Collection Strategies
+- Use a survey to gather project demographics. (For example, using the Open Demographics questions)
+- Survey all community members via project communication channels
+- Survey new community members as identified through such ways as attending newcomer office hours, recent introductions, and first time issues and merge requests. 
+- Survey project maintainers.
+- Survey that is activated by certain types of contributions (i.e., commits, issues, merge requests). 
 
-## Filters
+
+### Filters
 - Demographics as described in the CHAOSS repository of demographic data.
 - Demographics of different [types of contributors](https://chaoss.community/metric-types-of-contributions/). Contribution types may include:
   - Writing Code
@@ -42,13 +42,8 @@ Project demographics help indicate the potential for different viewpoints and br
   - Website Development
   - Legal Council
   - Financial Management
-
-## Data Collection Strategies
-- Use a survey to gather project demographics. (For example, using the Open Demographics questions)
-- Survey all community members via project communication channels
-- Survey new community members as identified through such ways as attending newcomer office hours, recent introductions, and first time issues and merge requests. 
-- Survey project maintainers.
-- Survey that is activated by certain types of contributions (i.e., commits, issues, merge requests). 
+    
+</details></span>
 
 ## References
 -  Thanks to Nikki Stevens and Marie Nordin for sharing experiences and resources that informed the creation of this metric.
@@ -57,5 +52,17 @@ Project demographics help indicate the potential for different viewpoints and br
 
 ## Contributors
 - Elizabeth Barron
-- Matt Germonprez 
+- Matt Germonprez
+- Georg Link
+- Peculiar C Umeh
+  
+## Additional Information
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-dei/blob/main/focus-areas/project-and-community/project-demographics.md)
+To reference this metric in software or publications please use this stable [URL:](https://chaoss.community/?p=4889)
+
+<!-- # For groupings in the knowledge base
+Context tags: Project
+Keyword tags: Community demographics, diversity, underrepresented, survey, marginalized, belonging 
+→ 
+
 
