@@ -71,6 +71,7 @@ Google search
 
 ## Additional Information
 To edit this metric please [submit a Change Request here]( https://github.com/chaoss/wg-dei/blob/main/focus-areas/project-and-community/project-burnout.md
+
 To reference this metric in software or publications please use this stable URL: [https://chaoss.community/?p=3537](https://chaoss.community/?p=3537)
 <!-- # For groupings in the knowledge base
 Context tags: Contributor
