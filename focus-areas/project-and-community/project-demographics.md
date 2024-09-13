@@ -1,6 +1,6 @@
 # Project Demographics
 
-Question: What are the demographics within a project? 
+**Question:** What are the demographics within a project? 
 
 ## Overview
 The Project Demographics metric analyzes the diversity and representation within a project community. It gathers information on participants' backgrounds, including factors like gender, identity, age, first language, and dis/ability status using references like the Open Demographics Initiative. Measuring project demographics helps assess the potential for varied viewpoints and perspectives, which can lead to a richer and more innovative project environment. Therefore, analyzing diversity across groups (board members, maintainers, organizers, contributors, and community members) helps to identify areas of improvement,  such as language translation tools, special care or mentorship programs for underrepresented groups. 
