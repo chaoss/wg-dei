@@ -1,6 +1,6 @@
 # Project Burnout
 
-Question: How is project burnout identified and managed within an open source project?
+**Question:** How is project burnout identified and managed within an open source project?
 
 ## Overview
 
