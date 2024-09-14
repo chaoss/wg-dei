@@ -4,7 +4,11 @@
 
 ## Overview
 
-Project Burnout  metric measures the condition of mental, emotional, and physical exhaustion resulting from chronic stress. The three dimensions characterizing burnout are feelings of energy depletion or exhaustion, increased cynicism or psychological distance from one’s work and reduced professional efficacy (WHO, 2020). Project Burnout can occur: when project members become overwhelmed with the amount of work expected with project participation or as a result of any community and contributor activities, including technical work, community management, and organizational work. Project Burnout should be understood within projects and managed effectively to improve the well-being of all. This metric is intended to: develop strategies with communities to help project-related burnout, identify activities as leading indicators to identify project burnout, help people manage burnout by identifying signs before it happens and help people make decisions to maintain a healthy life in relation to project activities. 
+Project Burnout  metric measures the condition of mental, emotional, and physical exhaustion resulting from chronic stress. The three dimensions characterizing burnout are feelings of energy depletion or exhaustion, increased cynicism or psychological distance from one’s work and reduced professional efficacy (WHO, 2020). Project Burnout can occur: when project members become overwhelmed with the amount of work expected with project participation or as a result of any community and contributor activities, including technical work, community management, and organizational work. Project Burnout should be understood within projects and managed effectively to improve the well-being of all. This metric is intended to: 
+- develop strategies with communities to help project-related burnout. 
+- identify activities as leading. indicators to identify project burnout.
+- help people manage burnout by identifying signs before it happens and,
+- help people make decisions to maintain a healthy life in relation to project activities. 
 
 
 ## Want to Know More?
