@@ -1,25 +1,33 @@
 # Issue Label Inclusivity
-Question: How well are project issues labelled to invite new contributors, skilled contributors, non-code contributors, and other types of contributors?
+
+**Question: How well are project issues labelled to invite new contributors, skilled contributors, non-code contributors, and other types of contributors?**
 
 
-## Description
-Issue label inclusivity helps gauge the affordability of issues to different contributors at different levels of familiarity (e.g., newcomer, occasional contributor, and core contributors), with different skills (e.g., languages, frameworks, APIs, documentation, frontend, and backend), and with different goals (e.g., code and non-code contributions).
+## Overview
+Issue Label Inclusivity measures the accessibility and inclusiveness of project issues for contributors of various skill levels and backgrounds. Data points include the number and types of labels used, the clarity of issue titles and descriptions, and the presence of labels that indicate the level of skills needed to tackle the issue. The Issue Label Inclusivity metric can help a project ensure: newcomer friendliness issues are created, mentor availability, issue list diversity, usable titles and descriptions and consistent use of labels to identify types of contributor or skill level needed to work on an issue.
+Inclusive labelling practices help to create a more equitable and accessible environment for contributors from all backgrounds. Providing clear and informative labels, helps  projects reduce the learning curve for new contributors, encourage participation and promote diversity within the community.
 
-## Objectives
 
-The Issue Label Inclusivity metric can help a project ensure:
+## Want to Know More?
 
-- Newcomer Friendliness: Issues include appropriately labelled issues (e.g, “good first issue”, “newcomer-friendly”) for a new contributor to start with.
-- Mentor Availability: Issues identify a mentor who can provide guidance and help with the review process of a particular issue (e.g., “Mentor Available” tag)
-- Issue List Diversity: Issues provide a diverse list of labels pertaining to different types of contributions (code and/or non-code) (e.g., “Documentation” tag)
-- Usable Titles and Descriptions: Issue titles and descriptions follow the Documentation Usability metric objectives
-- Consistent Use of Labels: Issues use a curated list of labels with distinct colors in a consistent way. For example, families of tags with a distinct color for each:
-   - Issue Type: “Feature” vs “Bug” vs “Documentation”...
-   - Issue Skills: the skills needed to resolve the issue (e.g, js, html, css)
-   - Issue Level of Familiarity: mentions the lowest level of familiarity needed (“good for newcomer” or “occasional contributor”or “core contributor”...)
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
 
-## Implementation
+### Data Collection Strategies
 
+- Identify the published list of issue labels used for each project
+   - *General labels*:
+      - Presence of labels to identify general needs of  “Feature”, “Bug”, and “Documentation” label”, a “Front End”, and a “Back End” label in the project’s list of labels and in the issue list (labels in use)
+   - *Inclusive labels*:
+     - Newcomer friendly ones look for (*newcomer*, *good first issue*) in the project’s list of labels and in the issue list (labels in use)
+     - Mentor friendly ones look for (*mentor*) in the project’s list of labels and in the issue list (labels in use)
+
+  - *Skill labels*:
+     - Presence of labels to identify skills needed (e.g, Java, Python, HTML, machine learning) in the project’s list of labels and in the issue list (labels in use)
+
+- Observe the frequency of each label used across issues in a project
+
+  
 ### Filters
 
 - Type of label
@@ -40,24 +48,26 @@ The Issue Label Inclusivity metric can help a project ensure:
 
 From: https://github.com/kubernetes/kubernetes/labels
 
-### Tools Providing the Metric: 
-- Grimoire Lab
-- Augur
+</details></span>
 
-### Data Collection Strategies
-
-- Identify the published list of issue labels used for each project
-   - *General labels*:
-      - Presence of labels to identify general needs of  “Feature”, “Bug”, and “Documentation” label”, a “Front End”, and a “Back End” label in the project’s list of labels and in the issue list (labels in use)
-   - *Inclusive labels*:
-     - Newcomer friendly ones look for (*newcomer*, *good first issue*) in the project’s list of labels and in the issue list (labels in use)
-     - Mentor friendly ones look for (*mentor*) in the project’s list of labels and in the issue list (labels in use)
-
-  - *Skill labels*:
-     - Presence of labels to identify skills needed (e.g, Java, Python, HTML, machine learning) in the project’s list of labels and in the issue list (labels in use)
-
-- Observe the frequency of each label used across issues in a project
 
 ## References
 - [GitHub Satellite](https://githubsatellite.com/)
 
+
+## Contributors
+* Elizabeth Barron
+* Georg Link
+* Matt Germonprez
+* Peculiar C Umeh
+
+
+## Additional Information
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/issue-label-inclusivity.md)
+
+To reference this metric in software or publications please use this stable URL: [https://chaoss.community/?p=3533](https://chaoss.community/?p=3533)
+
+<!-- # For groupings in the knowledge base
+Context tags: Platform
+Keyword tags: label, inclusivity, first contribution, task assignment
+→ 
