@@ -3,7 +3,7 @@
 **Question: How easily can users and contributors find the information they are looking for in a project’s documentation?**
 
 ## Overview
-Documentation Discoverability measures the ease with which users can find, access, and understand the project's documentation. Data points include the number of searches performed, the time it takes to find relevant information, and user feedback on discoverability. Documentation Discoverability can help projects attract and retain a diverse pool of contributors, improve user satisfaction, and reduce the learning curve for new users. This, in turn, contributes to the project's long-term success.
+Documentation Discoverability measures the ease with which users can find, access, and understand the project's documentation. Data points include the number of searches performed, the time it takes to find relevant information, and user feedback on discoverability.
 Documentation Discoverability has the goal to ensure searchability and visibility as well as improve inclusivity across a diverse audience. It helps to create a more welcoming and accessible environment for contributors. By making documentation easy to find and understand, projects can reduce barriers to participation and promote diversity and equity within the community.
 
 
