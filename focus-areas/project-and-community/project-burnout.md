@@ -1,25 +1,16 @@
 # Project Burnout
 
-Question: How is project burnout identified and managed within an open source project?
+**Question: How is project burnout identified and managed within an open source project?**
 
-## Description
+## Overview
 
-Burnout is a condition of mental, emotional, and physical exhaustion resulting from chronic stress. The three dimensions characterising burnout are feelings of energy depletion or exhaustion, increased cynicism or psychological distance from one’s work and reduced professional efficacy (WHO, 2020). Project Burnout can occur:
-* When project members become overwhelmed with the amount of work expected with project participation
-* As a result of any community and contributor activities, including technical work, community management, and organizational work.
+Project Burnout  metric measures the condition of mental, emotional, and physical exhaustion resulting from chronic stress. The three dimensions characterizing burnout are feelings of energy depletion or exhaustion, increased cynicism or psychological distance from one’s work and reduced professional efficacy (WHO, 2020). Project Burnout can occur: when project members become overwhelmed with the amount of work expected with project participation or as a result of any community and contributor activities, including technical work, community management, and organizational work. Project Burnout should be understood within projects and managed effectively to improve the well-being of all. This metric is intended to: develop strategies with communities to help project-related burnout, identify activities as leading indicators to identify project burnout, help people manage burnout by identifying signs before it happens and help people make decisions to maintain a healthy life in relation to project activities. 
 
 
-## Objectives
+## Want to Know More?
 
-Project Burnout should be understood within projects and managed effectively to improve the well-being of all. This metric is intended to:
-
-*   Develop strategies with communities to help project-related burnout
-*   Identify activities as leading indicators to identify project burnout
-*   Help people manage burnout by identifying signs before it happens
-*   Help people make decisions to maintain a healthy life in relation to project activities
-
-
-## Implementation
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
 
 ### Data Collection Strategies
 
@@ -52,6 +43,14 @@ Project Burnout should be understood within projects and managed effectively to 
     *   How should we be monitoring the well-being of individuals?
     *   How do you measure the well-being of your community members in your open source project?
     *   How do you determine the well-being of contributors to your project?
+      
+### Filters 
+- Interviews
+- Maintainer
+- Contributors
+- Google search
+</details></span>
+
 
 ## References
 
@@ -63,3 +62,19 @@ Project Burnout should be understood within projects and managed effectively to 
 6. [Burned out](https://www.scientificamerican.com/article/burned-out/)
 7. [How I learned about burnout the hard way](https://opensource.com/article/20/3/burnout)
 
+
+## Contributors
+- Elizabeth Barron
+- Georg Link
+- Matt Germonprez
+- Peculiar C Umeh
+
+## Additional Information
+To edit this metric please [submit a Change Request here]( https://github.com/chaoss/wg-dei/blob/main/focus-areas/project-and-community/project-burnout.md)
+
+To reference this metric in software or publications please use this stable URL: [https://chaoss.community/?p=3537](https://chaoss.community/?p=3537)
+
+<!-- # For groupings in the knowledge base
+Context tags: Contributor
+Keyword tags: burnout, wellness, wellbeing, exhaustion, productivity, stress, burn out, psychological safety
+-->
