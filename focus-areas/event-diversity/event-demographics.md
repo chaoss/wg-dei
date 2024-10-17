@@ -1,6 +1,6 @@
 # Event Demographics
 
-Question: To what extent does an event consider and pay attention to attendee, speaker, and volunteer demographics?
+**Question: To what extent does an event consider and pay attention to attendee, speaker, and volunteer demographics?**
 
 ## Overview
 
@@ -14,7 +14,7 @@ Event Demographics measures the [demographics](https://github.com/drnikki/open-d
 
 ### Data Collection Strategies
 
-Note that demographic information is sensitive information and if you are using this metric, you should pay particular attention to the (CHAOSS Data Use Statement)\[https://github.com/chaoss/community/blob/main/data-use-statement.md]. Several options exist to collect demographic information. These options include:
+Note that demographic information is sensitive information and if you are using this metric, you should pay particular attention to the (CHAOSS Data Use Statement)\[<https://github.com/chaoss/community/blob/main/data-use-statement.md>]. Several options exist to collect demographic information. These options include:
 
 *   Request attendee and speaker [demographics](http://nikkistevens.com/open-demographics/) during conference registration with an option to opt-out of providing information.
 *   Use a survey before, during, or after an event to gather attendee and speaker demographics. (For example, using the [Open Demographics questions](http://nikkistevens.com/open-demographics/))
@@ -38,6 +38,7 @@ Note that demographic information is sensitive information and if you are using 
 
 *   [Open Demographics](http://nikkistevens.com/open-demographics/)
 *   [Demographic Data](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data)
+*
 
 ## Contributors
 
@@ -57,9 +58,10 @@ Note that demographic information is sensitive information and if you are using 
 ## Additional Information
 
 To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-dei/blob/main/focus-areas/event-diversity/event-demographics.md)
+
 To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=3507>
 
 <!-- # For groupings in the knowledge base
 Context tags: Event, Community
-Keyword tags: gender, sexuality, age, language, disability, neurodivergent, neurodiversity, education, demographics, 
-→ 
+Keyword tags: gender, sexuality, age, language, disability, neurodivergent, neurodiversity, education, demographics,
+→
