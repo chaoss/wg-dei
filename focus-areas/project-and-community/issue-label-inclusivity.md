@@ -23,7 +23,7 @@ Issue Label Inclusivity measures the accessibility and inclusiveness of project 
 
 ### Filters
 
-tNone Identified
+None Identified
 
 *   Type of repository
 *   Age of open issue
