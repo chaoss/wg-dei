@@ -1,20 +1,16 @@
 # Code of Conduct at Event
 
-Question: How does the Code of Conduct for events support diversity and inclusion?
+**Question:** How does the Code of Conduct for events support diversity and inclusion?
 
-## Description
-A code of conduct describes rules of good behavior between event participants and what avenues are available when someone violates those expected good behaviors.
-An event with a code of conduct sends the signal that the organizers are willing to respond to incidences, which helps people from all backgrounds feel included and comfortable attending the event. Event participants are empowered to report incidences and proactively help mitigate situations of unwanted behavior.
+## Overview
+This metric measures the visibility, accessibility, and effectiveness of a Code of Conduct at an event. It identifies whether participants can access the Code of Conduct easily, understand reporting procedures, and feel safe attending the event. An event with a code of conduct sends the signal that the organizers are willing to respond to incidences, which helps people from all backgrounds feel respected, included and comfortable attending the event. This metric aids in understanding the proactive measures in place to protect attendees and encourage a welcoming environment. Effective Codes of Conduct can improve community health by reinforcing behavioral expectations and providing clear responses to incidents.
 
-## Objectives
-- An event organizer wants to make sure they have effective processes in place to deal with misbehaving attendees.
-- An event organizer wants to make sure that participants have a positive experience at the event.
-- Event participants want to know how to report offensive behavior.
-- Event participants want to know that they will be safe at an event.
+## Want to Know More?
 
-## Implementation
+<details>
+<summary>Click to read more about this metric.</summary>
 
-### Data Collection Strategies
+### Data Collection Strategies 
 
 **Observe whether a code of conduct is posted at an event:*
 - As an attendee or event staff, observe whether participants will have an easy time finding a code of conduct posted at the event. Having a code of conduct prominently posted at a registration site may be useful.
@@ -36,6 +32,17 @@ An event with a code of conduct sends the signal that the organizers are willing
   * Did the existence of the code of conduct make you feel safer, and more empowered to fully participate at this event? [i]
   * If you reported a violation of the code of conduct, was it resolved to your satisfaction? [i]
 
+### Filters 
+- Event type (e.g., virtual or in-person)
+- Participant demographics
+- Presence of reporting mechanisms
+- Code of Conduct location (website, registration area, etc.)
+
+### Visualizations
+None Specified
+
+</details>
+
 ## References
 - [Attendee Procedure For Incident Handling](https://github.com/python/pycon-code-of-conduct/blob/master/Attendee%20Procedure%20for%20incident%20handling.md)
 - [2018 Pycon Code Of Conduct](https://pycon.blogspot.com/2018/04/code-of-conduct-updates-for-pycon-2018.html)
@@ -43,15 +50,26 @@ An event with a code of conduct sends the signal that the organizers are willing
 
 [i] Some sample questions re-used from the [Mozilla project](https://github.com/mozilla/diversity/blob/master/data-metrics/surveys/en/cpg-follow-up.md).
 
-## Known Contributors
-* Dawn Foster
-* Poornima Haridas
-* Daniel Izquierdo Cortazar
-* Georg Link
-* Martin Coulombe
-* Yehui Wang
-* Armstrong Foundjem
-* Yash Prakash
-* Justin Flory
-* Matt Germonprez
-* Kevin Lumbard
+## Contributors
+- Dawn Foster
+- Poornima Haridas
+- Daniel Izquierdo Cortazar
+- Georg Link
+- Martin Coulombe
+- Yehui Wang
+- Armstrong Foundjem
+- Yash Prakash
+- Justin Flory
+- Matt Germonprez
+- Kevin Lumbard
+- Yigakpoa L. Samuel (I)
+
+## Additional Information
+To edit this metric please [submit a change request here](https://github.com/chaoss/wg-dei/blob/main/focus-areas/event-diversity/code-of-conduct-at-event.md). 
+
+To reference this metric in software or publications, please use this stable URL: [https://chaoss.community/?p=3492](https://chaoss.community/?p=3492)
+
+<!-- # For groupings in the knowledge base
+Context tags: Diversity & Inclusion, Event Management, Community Engagement, Safety & Ethics
+Keyword tags: Code of Conduct, Event Safety, Inclusion, Diversity, Incident Reporting, Community Standards
+-->
