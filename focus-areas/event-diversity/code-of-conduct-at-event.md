@@ -7,7 +7,7 @@ This metric measures the visibility, accessibility, and effectiveness of a Code 
 
 ## Want to Know More?
 
-<details>
+<span markdown="1"><details>
 <summary>Click to read more about this metric.</summary>
 
 ### Data Collection Strategies 
@@ -41,7 +41,7 @@ This metric measures the visibility, accessibility, and effectiveness of a Code 
 ### Visualizations
 None Specified
 
-</details>
+<span markdown="1"><details>
 
 ## References
 - [Attendee Procedure For Incident Handling](https://github.com/python/pycon-code-of-conduct/blob/master/Attendee%20Procedure%20for%20incident%20handling.md)
