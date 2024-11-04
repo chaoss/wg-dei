@@ -41,7 +41,7 @@ This metric measures the visibility, accessibility, and effectiveness of a Code 
 ### Visualizations
 None Specified
 
-<span markdown="1"><details>
+</details></span><br>
 
 ## References
 - [Attendee Procedure For Incident Handling](https://github.com/python/pycon-code-of-conduct/blob/master/Attendee%20Procedure%20for%20incident%20handling.md)
