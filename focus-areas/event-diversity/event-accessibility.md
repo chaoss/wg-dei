@@ -81,8 +81,3 @@ To reference this metric in software or publications please use this stable URL:
 Context tags: Event Accessibility, Diversity & Inclusion, Event Planning
 Keyword tags: Accessibility, Wheelchair Access, Captioning, Sign Language, Family Friendliness
 -->
-- Kevin Lumbard
-- Matt Cantu Snell
-- Kristi Progri
-- Kafayah Lawal
-- Katie Schueths
