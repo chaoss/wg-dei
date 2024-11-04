@@ -1,32 +1,16 @@
 # Inclusive Leadership
 
-Question: How well is a project and community setup for diverse leadership?
+**Question:** How well is a project and community set up for diverse leadership?
 
-## Description
+## Overview
+This metric examines how open source projects promote inclusive leadership by intentionally designing roles that invite diverse contributors. By measuring practices around leadership inclusivity, communities can evaluate the pathways for contributors to grow into leadership roles and see if these roles are accessible to everyone. This metric informs diversity, equity, and inclusion (DEI) by helping projects create leadership structures that reflect diverse voices and hold leaders accountable to the community, fostering a more sustainable and equitable culture.
 
-Leadership is central to a project/community's culture and how the leadership is determined requires intentional design and accountability for the inclusion of others. Note the term "leadership" may vary depending on the project/community. Leadership roles have high visibility and the diversity of this group is critically important to fostering an inclusive community.
+## Want to Know More?
 
-## Objectives
-
-- Enable communities to reflect on their own leadership practices. 
-- Signal to newcomers and already existing community members that everyone is welcome, has an opportunity to take on leadership roles, and can be successful within the project. 
-
-## Implementation
-
-### Filters
-
-This metric can be filtered by type of open source leadership (e.g., influential community roles):
-
-* Individuals serving as project maintainers (sometimes referred to as owners)
-* Individuals with repository merge access
-* Individuals who are organization members for the repository
-* Individuals who have defined community roles (community representatives, community speakers)
-* Individuals listed in project documents as contacts for issues with builds, documentation, or other community concerns
-* Individuals serving as community event organizers 
-* Individuals serving as community mentors for available mentorship programs
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
 
 ### Data Collection Strategies
-
 Project leaders can seek to understand how the project supports inclusive leadership by asking some self-relfective questions that can include:
 
 _Review & Renewal_
@@ -78,18 +62,28 @@ _Acknowledgement of Limitations_
 * Has leadership clearly and explicitly acknowledged these limitations publicly?
 * Are leaders open to discussing and implementing suggestions that reduce the impact of these limitations?
 
+### Filters
+This metric can be filtered by type of open source leadership (e.g., influential community roles):
+
+* Individuals serving as project maintainers (sometimes referred to as owners)
+* Individuals with repository merge access
+* Individuals who are organization members for the repository
+* Individuals who have defined community roles (community representatives, community speakers)
+* Individuals listed in project documents as contacts for issues with builds, documentation, or other community concerns
+* Individuals serving as community event organizers 
+* Individuals serving as community mentors for available mentorship programs
+
+### Visualizations
+None specified.
+
+</details></span><br>
 
 ## References
-
-* [How to Apply Metrics for Inclusion to Your Open Source Project - Blog Post](https://medium.com/@sunnydeveloper/how-to-apply-metrics-for-inclusion-to-your-open-source-project-71b4e31a7b0c)
-* [Create an Inclusive Leadership team page](https://github.com/mozilla/diversity/blob/master/leadership/inclusive-leadership-template.md)
-* [Run an 'Open Source Maintainer training program](https://mozilla.github.io/maintainer-cohort/)
-* Mozilla Open Source Support Program ([MOSS](https://www.mozilla.org/en-US/moss/))
-* [Mozilla Reps Program](https://blog.mozilla.org/mozillareps/2018/10/10/community-coordinator-role/)
-* [Firefox Developer Tools / Debugger Program](https://github.com/firefox-devtools/debugger/blob/aa827095d86475f816017ff35d6f9c2e83cf7b9b/docs/community-team.md)
-* [24 Pull Requests](https://24pullrequests.com/) ('File an Inclusion Bug!')
-* [Open Leadership Assessment Tool](https://github.com/open-organization/open-leadership-assessment/blob/main/open-leadership-self-survey.md)
-* [Volunteer Leadership Principles](https://wiki.mozilla.org/Volunteer_leadership_principles)
+- [How to Apply Metrics for Inclusion to Your Open Source Project - Blog Post](https://medium.com/@sunnydeveloper/how-to-apply-metrics-for-inclusion-to-your-open-source-project-71b4e31a7b0c)
+- [Create an Inclusive Leadership team page](https://github.com/mozilla/diversity/blob/master/leadership/inclusive-leadership-template.md)
+- [Mozilla Open Source Support Program (MOSS)](https://www.mozilla.org/en-US/moss/)
+- [Mozilla Reps Program](https://blog.mozilla.org/mozillareps/2018/10/10/community-coordinator-role/)
+- [Open Leadership Assessment Tool](https://github.com/open-organization/open-leadership-assessment/blob/main/open-leadership-self-survey.md)
 
 ## Contributors
 - Emma Irwin
@@ -98,8 +92,14 @@ _Acknowledgement of Limitations_
 - Matt Germonprez
 - Sean Goggins
 - Elizabeth Barron
-- Katie Scheuths
+- Katie Schueths
+- Yigakpoa L. Ikpae
 
+## Additional Information
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-dei/blob/main/focus-areas/leadership/inclusive-leadership.md).
+To reference this metric in software or publications, please use this stable URL: [https://chaoss.community/?p=3522](https://chaoss.community/?p=3522)
 
-
-
+<!-- # For groupings in the knowledge base
+Context tags: Governance, Leadership, Diversity & Inclusion
+Keyword tags: Inclusive Leadership, Diverse Leadership, Open Source Governance, Community Accountability
+-->
