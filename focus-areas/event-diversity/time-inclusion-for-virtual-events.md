@@ -1,34 +1,37 @@
 # Time Inclusion for Virtual Events
 
-Question: How can organizers of virtual events be mindful of attendees and speakers in other time zones?
+**Question:** How can organizers of virtual events be mindful of attendees and speakers in other time zones?
 
-## Description
+## Overview
+This metric measures the inclusivity of virtual event timing to accommodate attendees and speakers in various time zones. It evaluates options for both synchronous and asynchronous participation, taking into account network bandwidth requirements and accessibility. Inclusivity can be fostered by offering pre-recorded presentations, live chat options, time-blocked sessions for different regions, and low-bandwidth viewing alternatives. Addressing time inclusion for virtual events supports global accessibility by considering participants' diverse needs and the limitations posed by the "Digital Divide."
 
-Global accessibility is vital due to the role it brings in choosing when an event should take place. Time Inclusion for Virtual Events ensures support for participation from different timezones during an event. For virtual events it is impossible to schedule live presentations that are equally inclusive to all attendees and speakers from different timezones. Time inclusion for virtual events is accomplished by providing attendees and speakers inclusive ways to participate virtually in a synchronous way (e.g., in real time) while also providing methods for presenting, viewing, and taking part in event discussions asynchronously. A primary consideration for time inclusion for virtual events is the network bandwidth required to host and stream the virtual event and the network bandwidth required for virtual attendees and speakers to take part in the event. Due to inequities in the availibilty of high speed internet globally (e.g., the "Digital Divide"), time inclusion for events should include considerations for low network bandwidth options (i.e., pre-recorded presentations, chat platforms, audio only options, and availability of presentation slides for download) 
+## Want to Know More?
 
-## Objectives
- Global accessibility should be understood when creating a virtual event in order to allow attendees and speakers in all regions to benefit from the event. The goal of this metric is to help organizers of virtual events develop a reasonable method to ensure those in different time zones feel included.
-
-## Implementation
-
-Examples of Time Inclusion for Virtual Events which can be implemented include:
-- Having the speaker do a pre-recording where the speaker is able to answer questions live in the chat
-- Doing a presentation within a certain time block for certain time zones
-- Preparing and sending a recording to be live within an hour
-- Network bandwidth options by platform for both live participation and video streaming at a later date
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
 
 ### Data Collection Strategies
+- **Attendee Survey (Likert or Emoji Scale):**
+  - "The event keeps time zone differences in mind."
+  - "The event caters to my needs related to differences in time."
+  - "The event provides adequate recordings of the talks I care about."
+  - "I was provided with adequate low-bandwidth options for viewing presentations at the event."
+  
+- **Speaker Survey (Likert or Emoji Scale):**
+  - "The time block selected for my presentation at the event is fair to me."
+  - "My presentation was recorded and easily accessible for later viewing by virtual attendees."
+  - "I was provided with adequate low-bandwidth options for presenting at the event."
 
-Survey attendees with Likert Scale [1-x] (Or Emoji Scale):
-- The event keeps time zone differences in mind
-- The event caters to my needs related to differences in time
-- The event provides adequate recordings of the talks I care about
-- I was provided with adequate low-bandwidth options for viewing presentations at the event
+### Filters
+- Time zone
+- Network bandwidth requirements
+- Synchronous vs. asynchronous participation options
+- Availability of low-bandwidth alternatives
 
-Survey speakers with Likert Scale [1-x] (Or Emoji Scale):
-- The time block selected for my presentation at the event is fair to me
-- My presentation was recorded and easily accessible for later viewing by virtual attendees
-- I was provided with adequate low-bandwith options for presenting at the event
+### Visualizations
+None Specified
+
+</details></span><br>
 
 ## References
 - [How To Make Virtual Meetings & Events More Inclusive](https://coonoor.medium.com/how-to-make-virtual-meetings-events-more-inclusive-de742ec0e672)
@@ -43,3 +46,14 @@ Survey speakers with Likert Scale [1-x] (Or Emoji Scale):
 - Yehui Wang
 - Tejas Mate
 - Kevin Lumbard
+- Yigakpoa L. Ikpae 
+
+## Additional Information
+To edit this metric please submit a Change Request here: https://github.com/chaoss/wg-dei/blob/main/focus-areas/event-diversity/time-inclusion-for-virtual-events.md
+
+To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=3494
+
+<!-- # For groupings in the knowledge base
+Context tags: Virtual Events, Global Accessibility, Diversity & Inclusion
+Keyword tags: Time Zones, Accessibility, Digital Divide, Low Bandwidth, Synchronous Participation, Asynchronous Participation
+-->
