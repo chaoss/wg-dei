@@ -1,131 +1,96 @@
 # Psychological Safety
 
-Question: To what extent do community members feel safe within a community, including adding contributions, influencing change, bringing their authentic selves, and generally participating in the project?
+**Question**: To what extent do community members feel safe within a community, including adding contributions, influencing change, bringing their authentic selves, and generally participating in the project?
 
-## Description
+## Overview
+Psychological safety measures the extent to which community members feel secure to participate authentically without fear of negative repercussions. This includes the freedom to ask questions, propose ideas, contribute skills, and provide feedback within an open source project. Communities with high psychological safety enable members to fully engage, fostering an environment of trust and mutual respect. Such environments are critical for community health, as they encourage diverse participation and retention of contributors from varied backgrounds, strengthening the project's resilience and adaptability.
 
-A key component that is integral to the goal of community inclusion, is psychological safety. Psychological safety can be defined in several different stages, according to the [Center for Creative Leadership](https://www.ccl.org/articles/leading-effectively-articles/what-is-psychological-safety-at-work/):
+A psychologically safe environment helps address Diversity, Equity, and Inclusion (DEI) issues by supporting contributors in feeling included, valued, and respected. This metric sheds light on the presence of inclusive practices, effective conflict resolution mechanisms, and leadership's transparency—all of which contribute to sustaining a welcoming and innovative community.
 
-* Stage 1 – Inclusion Safety: Inclusion safety satisfies the basic human need to connect and belong. In this stage, you feel safe to be yourself and are accepted for who you are, including your unique attributes and defining characteristics.
-* Stage 2 – Learner Safety: Learner safety satisfies the need to learn and grow. In this stage, you feel safe to exchange in the learning process, by asking questions, giving and receiving feedback, experimenting, and making mistakes.
-* Stage 3 – Contributor Safety: Contributor safety satisfies the need to make a difference. You feel safe using your skills and abilities to make a meaningful contribution.
-* Stage 4 – Challenger Safety: Challenger safety satisfies the need to make things better. You feel safe to speak up and challenge the status quo when you think there’s an opportunity to change or improve.
+## Want to Know More?
 
-In communities with a strong level of psychological safety, contributors are more likely to be empowered to propose changes and take on leadership and/or decision-making roles. Psychological safety in communities impacts diversity, equity, and inclusion, and is signaled by indicators such as:
-
-* Diversity: Contributors from under-represented groups are more likely to be active participants and encourage others to be so as well
-* Equity: The distribution of decision-making and leadership roles is evenly distributed to include traditionally marginalized groups
-* Inclusion: Those from marginalized or underrepresented backgrounds feel welcome and as if they can bring their authentic selves to the project in a safe environment
-* Attraction: Creating a safe environment increases the likelihood of attracting new contributors
-* Retention: Contributors are more likely to remain connected to the project if they feel safe in doing so
-
-There will be a positive effect on contributor diversity, sense of inclusion and belonging, and ultimately contributor retention if:
-
-* community members feel safe participating in the community through code contributions, comments, discussions, and other forms of participation
-* there is a level of trust that policies have been put in place to mitigate harassment and intolerance
-* there is a mechanism in place to effectively address problems if they occur
-* contributors have no serious privacy concerns related to the project
-* there is a high degree of transparency between project leadership and the community
-* any potential vectors for abuse in the code itself have been prioritized as problematic by project leadership
-
-## Objectives
-
-This metric is designed to:
-
-* Enable project maintainers to understand the level of psychological safety around project policies, such as code of conduct, and code of conduct enforcement
-* Allow community members to voice concerns about psychological safety
-* Identify potential areas for improving psychological safety within the community
-
-## Implementation
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
 
 ### Data Collection Strategies
+Here are example questions to assess the psychological safety of open source project contributors and maintainers:
 
-The following is an example of one way to assess the level of psychological safety of open source project contributors and maintainers through a useful set of questions that can be asked regarding the well-being of community members.
+1. Have you observed any of the following in an open source project?
+   - Answer options: Yes/No. If yes, select all that apply:
+      - (1) Lack of response to contributions or questions
+      - (2) Rejection of contributions without explanation
+      - (3) Dismissive responses to contributions or questions
+      - (4) Incomplete or difficult documentation
+      - (5) Conflict or tension between contributors
+      - (6) Language or content that made you feel unwelcome (e.g., profanity, racist jokes, sexual imagery)
 
-_**Candidate**_ questions include:
+2. Have you witnessed any of the following behaviors directed at another person?
+   - Answer options: Yes/No. If yes, select all that apply:
+      - (1) Hostility or rudeness
+      - (2) Name-calling
+      - (3) Threats of violence
+      - (4) Impersonation
+      - (5) Sustained harassment
+      - (6) Harassment across multiple platforms
+      - (7) Stalking
+      - (8) Unsolicited sexual advances or comments
+      - (9) Stereotyping based on demographics
+      - (10) Doxxing (malicious publishing of personal information)
+      - (11) Other (please describe)
 
-1. Have you ever observed any of the following in the context of an open source project?
-Answer options: Yes/No. If yes [select all that apply]: 
-- (1) Lack of response to contributions or questions
-- (2) Rejection of contributions without explanation
-- (3) Dismissive responses to contributions or questions
-- (4) Documentation that is incomplete or difficult to understand
-- (5) Conflict or interpersonal tension between contributors
-- (6) Language or other content that made you feel unwelcome (e.g. profanity, racist jokes, sexual imagery, etc.)
+3. Have you experienced any of the above behaviors directed at you?
+   - Answer options: Yes/No. If yes, select all that apply from question 2.
 
-2. Have you ever **witnessed** any of the following behaviors directed at another person in the context of an open source project? (not including something directed at you) 
-Answer options: Yes/No. If yes [select all that apply]:  
-- (1) Hostility or rudeness
-- (2) Name-calling
-- (3) Threats of violence
-- (4) Impersonation
-- (5) Harassment over a sustained period
-- (6) Harassment across multiple platforms
-- (7) Stalking
-- (8) Unsolicited sexual advances or comments
-- (9) Stereotyping based on perceived demographic characteristics
-- (10) Malicious publication of personal information (doxxing)
-- (11) Other (please describe)
- 
-3. Have you ever **experienced** any of the following behaviors directed at you in the context of an open source project? 
-Answer options: Yes/No. If yes [select all that apply]: 
-- (1) Hostility or rudeness 
-- (2) Name-calling 
-- (3) Threats of violence
-- (4) Impersonation
-- (5) Harassment over a sustained period
-- (6) Harassment across multiple platforms
-- (7) Stalking
-- (8) Unsolicited sexual advances or comments
-- (9) Stereotyping based on perceived demographic characteristics
-- (10) Malicious publication of personal information (doxxing)
-- (11) Other (please describe)
- 
-3a. If yes to the above, when thinking of the last time you **experienced** harassment, how did you respond? Choose all that apply.
-- (1) Asked the user(s) to stop the harassing behavior
-- (2) Solicited support from other community members
-- (3) Blocked the user(s) harassing me
-- (4) Reported the incident to project maintainers
-- (5) Reported the incident to the hosting service or ISP
-- (6) Consulted legal counsel/ an attorney
-- (7) Contacted law enforcement
-- (8) Other (please describe)
-- (9) I did not react / ignored the incident
+3a. When thinking of the last time you experienced harassment, how did you respond? Choose all that apply.
+   - (1) Asked the user to stop
+   - (2) Solicited support from community members
+   - (3) Blocked the harassing user
+   - (4) Reported the incident to project maintainers
+   - (5) Reported the incident to hosting service or ISP
+   - (6) Consulted legal counsel
+   - (7) Contacted law enforcement
+   - (8) Other (please describe)
+   - (9) Did not react / ignored the incident
 
-3b. On a scale of 1-5, how effective were your responses? (Use Likert scale with the following options):
-- 1: Not at all effective
-- 2: A little effective
-- 3: Somewhat effective
-- 4: Mostly effective
-- 5: Completely effective
- 
-4. As a result of experiencing or witnessing harassment, which, if any, of the following have you done?
-- (1) Stopped contributing to a project
-- (2) Started contributing under a pseudonym
-- (3) Worked, asked questions, or collaborated in private channels more often
-- (4) Changed or deleted a username
-- (5) Removed or changed content on my public online presence
-- (6) Suggested the creation or modification of a Code of Conduct
-- (7) Engaged in public discussion with community members about the issue
-- (8) Engaged in private discussion with community members about the issue
-- (9) Made changes in my life offline (e.g. stopped attending meetups or conferences, etc.)
-- (10) Other (please describe)
-- (11) None of the above
+3b. On a scale of 1-5, how effective were your responses?
+   - Use a Likert scale with the following options:
+      - 1: Not effective
+      - 2: Slightly effective
+      - 3: Somewhat effective
+      - 4: Mostly effective
+      - 5: Completely effective
 
-Additional survey questions may include:
+4. As a result of experiencing or witnessing harassment, which of the following actions did you take?
+   - (1) Stopped contributing
+   - (2) Contributed under a pseudonym
+   - (3) Preferred private collaboration
+   - (4) Changed or deleted username
+   - (5) Changed online presence
+   - (6) Suggested a Code of Conduct
+   - (7) Publicly discussed with community members
+   - (8) Privately discussed with community members
+   - (9) Made offline life changes (e.g., stopped attending meetups)
+   - (10) Other (please describe)
+   - (11) None of the above
 
-- Do you feel any private details shared with other project contributors or leadership will be kept in the strictest confidence?
-- Do you feel as if project leadership values the safety of its participants?
-- Do you feel as if project leadership values transparency in its communications and interactions?
-- Do you feel as if project leadership is open to critical feedback regarding trust and safety issues?
-- Does project leadership acknowledge potential areas in the code that could be used for abuse?
-- Did project leadership prioritize these issues as areas to be fixed?
-- Did the community push back on fixing these issues?
+Additional questions:
+
+* Do you feel that private details shared with other contributors or leaders are kept confidential?
+* Do you feel project leadership values participant safety?
+* Do you feel leadership values transparency?
+* Do you feel leadership is open to critical feedback on trust and safety?
+* Does leadership address areas in the code that could be misused for abuse?
+* Did the community support fixing these issues?
 
 ### Filters
 * Demographic segments
-* Role of the contributor (code, community management, advocacy, documentation, etc.)
+* Role of contributor (e.g., code, community management)
 * Length of time in the community
+
+### Visualizations
+None Provided
+
+</details></span><br>
 
 ## References
 
@@ -135,6 +100,7 @@ Additional survey questions may include:
 * [What is Psychological Safety at Work](https://www.ccl.org/articles/leading-effectively-articles/what-is-psychological-safety-at-work/)
 
 ## Contributors
+
 * Elizabeth Barron
 * Matt Germonprez
 * Kevin Lumbard
@@ -147,6 +113,15 @@ Additional survey questions may include:
 * Amy Marrich
 * Trisha Rajaram
 * Ruth Ikegah
-* Emily Brown
 * Sean Goggins
 * Georg Link
+* Yigakpoa L. Samuel
+
+## Additional Information
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-dei/blob/main/focus-areas/project-and-community/psychological-safety.md).
+To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=3544
+
+<!-- # For groupings in the knowledge base
+Context tags: Community, Trust, Inclusion
+Keyword tags: Psychological Safety, Diversity, Equity, Open Source Community, Contributor Retention, Code of Conduct
+-->
