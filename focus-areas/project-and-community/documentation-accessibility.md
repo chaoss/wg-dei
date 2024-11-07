@@ -1,22 +1,18 @@
 # Documentation Accessibility
 
-Question: How does the documentation accommodate different users?
+**Question:** How does the documentation accommodate different users?
 
-## Description
-
-Documentation accessibility is critical due to the role documentation plays in open source projects. Users of documentation have different abilities, requiring the documentation to be offered in different formats to be equally empowering for these different users. The goal is to foster understanding for the widest audience of contributors to a project.
-
-## Objectives
-
-These objectives help measure whether your documentation is accessible to a broad audience without disproportionately creating or perpetuating artificial debts on certain segments of its intended audiences. Specific foci include 
+## Overview
+The **Documentation Accessibility** metric evaluates how well project documentation meets the needs of diverse users, including those with visual impairments, cognitive differences, or sensory processing needs. This metric specifically focuses on features that enhance accessibility, such as screen-reader compatibility, alternative text for images, and clear structuring for easier navigation. Tracking this metric helps ensure that documentation is inclusive, making the project more welcoming and usable for a wide audience, and improving community health by supporting contributors with diverse abilities. Objectives help measure whether your documentation is accessible to a broad audience without disproportionately creating or perpetuating artificial debts on certain segments of its intended audiences. These include: 
 
 - Screen Reader Accessibility: Documentation is accessible according to a standard for screen readers.
 - Learning Flexibility** — Documentation is accessible to people with various cognitive approaches, sensory differences, and neurodiversity. [(1)](https://static.sched.com/hosted_files/kcsna2019/05/Breaking%20Down%20Barriers%20to%20Kubernetes%20Contribution%20for%20Neurodivergent%20Individuals%20%282%29.pdf).
 - Blind or Visually Impaired Support: Documentation is accessible for people who primarily read text. Charts and images are examples of non-accessible types of documentation.
 
-## Implementation
+## Want to Know More?
 
-The Documentation Accessiblity metric is intended to be attentive to the target audiences for documentation. Due to the broad spectrum of projects and people who may contribute, documentation should address the different requirements of all its audiences.
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
 
 ### Data Collection Strategies
 
@@ -75,10 +71,19 @@ Sample interview questions:
   * Short Answer: How do you feel about the accessibility of the documentation?
 * Walkthrough with intended users of the documentation. Observe how they interact and use the documentation and where they get stuck. This can be a video conference session where the user of the documentation shares their screen.
 * Ask users of documentation to write a [friction log](https://devrel.net/developer-experience/an-introduction-to-friction-logging) and describe what issues they had with documentation. This gives concrete use cases for documentation editors to understand how to improve the documentation for the specific user.
-* Consider if different versions of documentation are available for different audiences? For example, a light-weight version and a very detailed version.
+* Consider if different versions of documentation are available for different audiences? For example, a light-weight version and a very detailed version
 
-## Resources
+### Filters
+- User needs (e.g., visual impairment, cognitive diversity)
+- Language version of the documentation
+- Documentation type (e.g., quick-start guide, API reference)
 
+### Visualizations
+- None specified
+
+</details></span><br>
+
+## References
 1. [Breaking Down Barriers to Kubernetes Contribution for Neurodivergent Individuals](https://static.sched.com/hosted_files/kcsna2019/05/Breaking%20Down%20Barriers%20to%20Kubernetes%20Contribution%20for%20Neurodivergent%20Individuals%20%282%29.pdf)
 2. [Apache Software Foundation Community Survey 2020](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=158869274)
 3. [GNOME Accessibility Team](https://wiki.gnome.org/Accessibility)
@@ -90,3 +95,14 @@ Sample interview questions:
 9. [Paypal’s list of Guidelines for Accessibility](http://paypal.github.io/a11y/)
 10. [Universal Design](http://shop.oreilly.com/product/9780596518745.do)
 
+## Contributors
+- None Specified
+
+## Additional Information
+To edit this metric, please [submit a Change Request here](https://github.com/chaoss/wg-dei/blob/main/focus-areas/project-and-community/documentation-accessibility.md).  
+To reference this metric in software or publications, please use this stable URL: [https://chaoss.community/?p=3535](https://chaoss.community/?p=3535)
+
+<!-- # For groupings in the knowledge base
+Context tags: documentation, accessibility, inclusion
+Keyword tags: screen reader, usability, onboarding, friction log, readability, navigation, alternative text
+-->
