@@ -35,24 +35,20 @@ Sponsorship ensures newer or less active members gain visibility and opportuniti
     *   Likert scale \[1-x] item: I have a sponsor within the community who puts their reputation on the line to advocate for me.
     *   Likert scale \[1-x] item: Has sponsorship helped community members advance in their project roles?
 
-</details></span>
+</details></span><br>
 
 ## References
 
 *   https://fortune.com/2017/07/13/implicit-bias-perception-costs-companies/
-*   Sponsor Effect 2.0: Road Maps for Sponsors and Protégés
-    *   By Coqual (Pay Link)
-    *   https://coqual.org/reports/sponsor-effect-2-0-road-maps-for-sponsors-and-proteges/
-*   Sponsors Need to Stop Acting Like Mentors
-    *   By Julia Taylor Kennedy and Pooja Jain-Link
-    *   https://hbr.org/2019/02/sponsors-need-to-stop-acting-like-mentors
+*   Sponsor Effect 2.0: [Road Maps for Sponsors and Protégés by Coqual](https://coqual.org/reports/sponsor-effect-2-0-road-maps-for-sponsors-and-proteges/) (Pay Link)
+*   [Sponsors Need to Stop Acting Like Mentors](https://hbr.org/2019/02/sponsors-need-to-stop-acting-like-mentors) By Julia Taylor Kennedy and Pooja Jain-Link
 
 ## Contributors
 
 *   Elizabeth Barron
 *   Georg Link
 *   Matt Germonprez
-*   Sean
+*   Sean Goggins
 *   Peculiar C Umeh
 
 ## Additional Information
@@ -64,4 +60,4 @@ To reference this metric in software or publications please use this stable URL:
 <!-- # For groupings in the knowledge base
 Context tags: Governance and Leadership
 Keyword tags: sponsor, funding, diversity tickets
-→ 
+-->
