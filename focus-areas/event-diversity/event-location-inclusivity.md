@@ -70,6 +70,8 @@ Event organizers can include a post-conference question asking attendees about e
 - Vinod Ahuja
 - Georg Link
 - Sean Goggins
+- Sophia Vargas
+- Chan Voong
 
 ## Additional Information
 To edit this metric please [submit a Change Request here:](https://github.com/chaoss/wg-dei/blob/main/focus-areas/event-diversity/event-location-inclusivity.md)
