@@ -1,16 +1,23 @@
 # Event Accessibility
 
-Question: To what extent does your event accommodate those with various accessibility needs?
+**Question:** To what extent does your event accommodate those with various accessibility needs?
 
-## Description
+## Overview
+This metric evaluates the accessibility accommodations provided by event organizers for attendees with diverse needs. Data points include physical and virtual accessibility features, such as wheelchair access, captioning, sign language interpreters, and low-bandwidth options. Measuring this metric promotes inclusivity and ensures that events are accessible, enhancing both the health and sustainability of the community by fostering a welcoming environment for all participants. Accessibility is also crucial for diversity, equity, and inclusion (DEI), enabling equal participation opportunities for people with disabilities.
 
-Accessibility at in-person and virtual events is of the utmost importance. Not only do organizers want an event to be as inclusive as possible, in many locations, it is the event organizer’s legal responsibility to address and to provide equal access. 
+## Want to Know More?
 
-## Objectives
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
 
-This metric aims to help event organizers present to event attendees and to track, over time, the accessibility of an event, by documenting and cataloging accessibility measures taken by the organizing team. Ultimately, this aims to empower event attendees with specific accessibility needs to make the right decision for them on whether the event is inclusive to their needs.
+### Data Collection Strategies
 
-## Implementation
+There are several different ways to signal attention to  this metric which may include:
+- **Event Registration Form:** Include questions about accessibility needs.
+- **Event Support/Accessibility Request Form:** Provide a way for attendees to request specific accommodations.
+- **Event Web Page:** Ensure accessibility features and resources are clearly listed.
+- **Survey Attendees and Speakers:** Assess satisfaction with accessibility accommodations using Likert scale questions (e.g., “The event met my accessibility needs”).
+- [Application to the CHAOSS Event Badging Initiative](https://github.com/badging)
 
 Depending on the size of the event as well as the financial constraints and implementations may include:
 
@@ -38,23 +45,17 @@ Depending on the size of the event as well as the financial constraints and impl
 
 Event organizers should have a comprehensive list of the initiatives they’ve implemented, and should make that list available on their website for attendees and speakers.
 
-### Filters 
-- Virtual versus In-person event
-- Local, regional, and national rules/laws
+### Filters
+- **Event Type:** In-person vs. Virtual
+- **Compliance Level:** Regional, national, or international accessibility regulations
 
-### Tools Providing the Metric
-- [The CHAOSS Event Badging program](https://github.com/badging)
+### Visualizations
+None specified.
 
-### Data Collection Strategies 
-There are several different ways to signal attention to  this metric which may include:
-
-- Event registration form
-- Event support / accessibility request form
-- Event web page
-- [Application to the CHAOSS Event Badging Initiative](https://github.com/badging)
+</details></span><br>
 
 ## References
-- Blog posts, websites, academic papers, or books that mention the metric and provide more background.
+
 - [CHAOSS Family Friendliness at Events Metric](https://chaoss.community/metric-family-friendliness/)
 - [Open Source Virtual Events Guide](https://services.google.com/fh/files/blogs/open_source_virtual_events_guide.pdf): This document is designed for anyone that has some experience hosting events. It is meant to point to existing resources and serve as a guide on how to host virtual events, with a focus on 4 of the most popular event types in the Open Source world: developer summits, community calls or panels, workshops, and working group meetings.
 - [Making Online Events More Inclusive](https://www.flipsnack.com/unitarcatalogue/making-online-events-more-inclusive.html): These tips are for trainers and organizations that are transitioning their events online. They aim to mainstream inclusivity across all aspects of design and implementation to make online (and offline) events more inclusive, effective, and impactful.
@@ -63,10 +64,20 @@ There are several different ways to signal attention to  this metric which may i
 ## Contributors
 - Elizabeth Barron
 - Justin W. Flory
-- Matt Germonprez 
+- Matt Germonprez
 - Sean Goggins
 - Kevin Lumbard
 - Matt Cantu Snell
 - Kristi Progri
 - Kafayah Lawal
 - Katie Schueths
+- Yigakpoa L. Ikpae
+
+## Additional Information
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-dei/blob/main/focus-areas/event-diversity/event-accessibility.md).
+To reference this metric in software or publications please use this stable URL: [https://chaoss.community/?p=3508](https://chaoss.community/?p=3508)
+
+<!-- # For groupings in the knowledge base
+Context tags: Event Accessibility, Diversity & Inclusion, Event Planning
+Keyword tags: Accessibility, Wheelchair Access, Captioning, Sign Language, Family Friendliness
+-->
