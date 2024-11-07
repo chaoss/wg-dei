@@ -38,7 +38,7 @@ Answer options:
 *   Several challenges
 *   Many challenges
 
-</details></span>
+</details></span><br>
 
 ## Resources
 
@@ -61,4 +61,4 @@ To reference this metric in software or publications please use this stable URL:
 <!-- # For groupings in the knowledge base
 Context tags: Platform, Governance and Leadership
 Keyword tags: findability, searchability, PDF
-→ 
+-->
