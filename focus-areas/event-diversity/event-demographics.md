@@ -1,6 +1,6 @@
 # Event Demographics
 
-**Question: To what extent does an event consider and pay attention to attendee, speaker, and volunteer demographics?**
+**Question:** To what extent does an event consider and pay attention to attendee, speaker, and volunteer demographics?
 
 ## Overview
 
@@ -30,7 +30,7 @@ Note that demographic information is sensitive information and if you are using 
 *   Volunteers
 *   Conference Committee
 
-</details></span>
+</details></span><br>
 
 ## References
 
@@ -64,4 +64,4 @@ To reference this metric in software or publications please use this stable URL:
 <!-- # For groupings in the knowledge base
 Context tags: Event, Community
 Keyword tags: gender, sexuality, age, language, disability, neurodivergent, neurodiversity, education, demographics,
-→
+-->
