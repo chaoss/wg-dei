@@ -1,6 +1,6 @@
 # Code of Conduct for a Project
 
-**Question: How, and in what specific ways, does the code of conduct for a project support diversity, equity, and inclusion?**
+**Question:** How, and in what specific ways, does the code of conduct for a project support diversity, equity, and inclusion?
 
 ## Overview
 
@@ -35,7 +35,7 @@ A code of conduct in a project provides: a way to evaluate a community for diver
         fully participate in this project? \[i]
     *   Likert scale \[1-x] item: If you reported a violation of the code of conduct, to what extent was it resolved to your satisfaction? \[i]
 
-</details></span>
+</details></span><br>
 
 ## References
 
@@ -62,4 +62,4 @@ To reference this metric in software or publications please use this stable URL:
 <!-- # For groupings in the knowledge base
 Context tags:  Governance and Leadership
 Keyword tags:enforcement, inclusivity, rude, harassment, point of contact
-→ 
+-->
