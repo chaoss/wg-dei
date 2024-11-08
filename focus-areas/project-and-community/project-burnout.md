@@ -1,27 +1,27 @@
 # Project Burnout
 
-**Question: How is project burnout identified and managed within an open source project?**
+**Question:** How is project burnout identified and managed within an open source project?
 
 ## Overview
 
-Project Burnout  metric measures the condition of mental, emotional, and physical exhaustion resulting from chronic stress. The three dimensions characterizing burnout are feelings of energy depletion or exhaustion, increased cynicism or psychological distance from one’s work and reduced professional efficacy (WHO, 2020). Project Burnout can occur: when project members become overwhelmed with the amount of work expected with project participation or as a result of any community and contributor activities, including technical work, community management, and organizational work. Project Burnout should be understood within projects and managed effectively to improve the well-being of all. This metric is intended to: develop strategies with communities to help project-related burnout, identify activities as leading indicators to identify project burnout, help people manage burnout by identifying signs before it happens and help people make decisions to maintain a healthy life in relation to project activities. 
-
+Project Burnout  metric measures the condition of mental, emotional, and physical exhaustion resulting from chronic stress. The three dimensions characterizing burnout are feelings of energy depletion or exhaustion, increased cynicism or psychological distance from one’s work and reduced professional efficacy (WHO, 2020). Project Burnout can occur: when project members become overwhelmed with the amount of work expected with project participation or as a result of any community and contributor activities, including technical work, community management, and organizational work. Project Burnout should be understood within projects and managed effectively to improve the well-being of all. This metric is intended to: develop strategies with communities to help project-related burnout, identify activities as leading indicators to identify project burnout, help people manage burnout by identifying signs before it happens and help people make decisions to maintain a healthy life in relation to project activities.
 
 ## Want to Know More?
 
 <span markdown="1"><details>
+
 <summary>Click to read more about this metric.</summary>
 
 ### Data Collection Strategies
 
 *   The following is a way to better assess the well-being of open source project contributors and maintainers through a useful set of questions that can be asked regarding the well-being of community members
-    *   [https://cdn.ymaws.com/www.palibraries.org/resource/collection/9E7F69CE-5257-4353-B71B-905854B5FA6B/Self-CareBurnoutSelf-Test.pdf](https://cdn.ymaws.com/www.palibraries.org/resource/collection/9E7F69CE-5257-4353-B71B-905854B5FA6B/Self-CareBurnoutSelf-Test.pdf)
+    *   <https://cdn.ymaws.com/www.palibraries.org/resource/collection/9E7F69CE-5257-4353-B71B-905854B5FA6B/Self-CareBurnoutSelf-Test.pdf>
     *   Following the questions, aggregate the results for the community and use individual scores, if they are shared, too.
 *   Surveys: Ask about the well-being of individuals in the project
     *   Survey Likert item (1-x): I feel energized working on this open source project
     *   Survey Likert item (1-x): I feel emotionally drained from my work on this project
     *   Survey Likert item (1-x): I have felt tired when working on this open source project
-    *   Survey Likert item (1-x): I take time for self-care, self-initiated practices that enhance health and positive well-being, [Bickley, 1998] when working on this open source project.
+    *   Survey Likert item (1-x): I take time for self-care, self-initiated practices that enhance health and positive well-being, \[Bickley, 1998] when working on this open source project.
     *   Survey Likert item (1-x): In the past six months, I have thought about leaving this project.
     *   Survey Likert item (1-x): I have thought about or have taken a break from the project because of project-related stress.
     *   Survey Likert item (1-x): I have thought about or have taken a break from the project to balance with other parts of my life.
@@ -43,36 +43,38 @@ Project Burnout  metric measures the condition of mental, emotional, and physica
     *   How should we be monitoring the well-being of individuals?
     *   How do you measure the well-being of your community members in your open source project?
     *   How do you determine the well-being of contributors to your project?
-      
-### Filters 
-- Interviews
-- Maintainer
-- Contributors
-- Google search
-</details></span>
 
+### Filters
+
+*   Interviews
+*   Maintainer
+*   Contributors
+*   Google search
+
+</details></span><br>
 
 ## References
 
-1. [What you need to know about burnout in open source communities](https://opensource.com/article/19/11/burnout-open-source-communities)
-2. [What does an open source maintainer do after burnout?](https://www.infoworld.com/article/3563326/what-does-an-open-source-maintainer-do-after-burnout.html)
-3. [Raman, N., Cao, M., Tsvetkov, Y., Kästner, C., & Vasilescu, B. (2020). Stress and Burnout in Open Source: Toward Finding, Understanding, and Mitigating Unhealthy Interactions. In International Conference on Software Engineering, New Ideas and Emerging Results (ICSE-NIER).](https://cmustrudel.github.io/papers/raman20toxicity.pdf)
-4. [Emotional Resilience In Leadership Report 2020](https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit#) (_“but not for OSS”_)
-5. Help people identify what “stage” of burnout they are in, or if they are on a path to a more severe burnout stage: [Practical guide for avoiding Burnout and living a happier life](https://opensource.com/business/15/12/avoid-burnout-live-happy)
-6. [Burned out](https://www.scientificamerican.com/article/burned-out/)
-7. [How I learned about burnout the hard way](https://opensource.com/article/20/3/burnout)
-
+1.  [What you need to know about burnout in open source communities](https://opensource.com/article/19/11/burnout-open-source-communities)
+2.  [What does an open source maintainer do after burnout?](https://www.infoworld.com/article/3563326/what-does-an-open-source-maintainer-do-after-burnout.html)
+3.  [Raman, N., Cao, M., Tsvetkov, Y., Kästner, C., & Vasilescu, B. (2020). Stress and Burnout in Open Source: Toward Finding, Understanding, and Mitigating Unhealthy Interactions. In International Conference on Software Engineering, New Ideas and Emerging Results (ICSE-NIER).](https://cmustrudel.github.io/papers/raman20toxicity.pdf)
+4.  [Emotional Resilience In Leadership Report 2020](https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit#) (*“but not for OSS”*)
+5.  Help people identify what “stage” of burnout they are in, or if they are on a path to a more severe burnout stage: [Practical guide for avoiding Burnout and living a happier life](https://opensource.com/business/15/12/avoid-burnout-live-happy)
+6.  [Burned out](https://www.scientificamerican.com/article/burned-out/)
+7.  [How I learned about burnout the hard way](https://opensource.com/article/20/3/burnout)
 
 ## Contributors
-- Elizabeth Barron
-- Georg Link
-- Matt Germonprez
-- Peculiar C Umeh
+
+*   Elizabeth Barron
+*   Georg Link
+*   Matt Germonprez
+*   Peculiar C Umeh
 
 ## Additional Information
-To edit this metric please [submit a Change Request here]( https://github.com/chaoss/wg-dei/blob/main/focus-areas/project-and-community/project-burnout.md)
 
-To reference this metric in software or publications please use this stable URL: [https://chaoss.community/?p=3537](https://chaoss.community/?p=3537)
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-dei/blob/main/focus-areas/project-and-community/project-burnout.md)
+
+To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=3537>
 
 <!-- # For groupings in the knowledge base
 Context tags: Contributor
