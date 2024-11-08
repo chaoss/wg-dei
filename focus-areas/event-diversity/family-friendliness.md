@@ -1,6 +1,6 @@
 # Family Friendliness
 
-**Question: How does enabling families to attend together support diversity and inclusion of the event?**
+**Question:** How does enabling families to attend together support diversity and inclusion of the event?
 
 ## Overview
 
@@ -32,7 +32,7 @@ Family Friendliness measures the availability and quality of family-friendly ame
     *   Does the conference explicitly invite attendees to bring their children?
     *   Does the conference offer childcare, including youth space?
 
-</details></span>
+</details></span><br>
 
 ## References
 
@@ -56,4 +56,4 @@ To reference this metric in software or publications please use this stable URL:
 <!-- # For groupings in the knowledge base
 Context tags: Event
 Keyword tags: childcare, daycare, family friendly, family-friendly, breastfeeding, nursing, breast pumping
-→
+-->
