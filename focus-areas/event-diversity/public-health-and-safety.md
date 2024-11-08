@@ -1,6 +1,6 @@
 # Public Health and Safety
 
-**Question: To what extent does your event address public health through policies around masks, vaccines, COVID testing, and in infrastructure such as ventilation and air purification in indoor venues?**
+**Question:** To what extent does your event address public health through policies around masks, vaccines, COVID testing, and in infrastructure such as ventilation and air purification in indoor venues?
 
 ## Overview
 
@@ -35,7 +35,7 @@ Here are ways to look at data for public health policies :
 *   Monitoring or surveying attendees daily for signs of illness
 *   Global locations of events
 
-</details></span>
+</details></span><br>
 
 ## References
 
