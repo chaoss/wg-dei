@@ -1,6 +1,6 @@
 # Inclusive Experience at Event
 
-**Question: To what extent does an event organizing team commit to an inclusive experience at an event?**
+**Question:** To what extent does an event organizing team commit to an inclusive experience at an event?
 
 ## Overview
 
@@ -30,6 +30,8 @@ Interview attendees and speakers:
 *   Could you provide specific examples to help event organizers mitigate this in the future?
 *   What is something that organizers of this event could improve on in the future regarding inclusivity at the event?
 
+</details></span><br>
+
 ## References
 
 *   [Linux Foundation Inclusivity Training](https://www.techrepublic.com/article/the-linux-foundation-launches-free-online-inclusivity-training/)
@@ -50,4 +52,4 @@ To reference this metric in software or publications please use this stable URL:
 <!-- # For groupings in the knowledge base
 Context tags: Event
 Keyword tags: feedback, enforcement, code of conduct, quiet room, prayer room
-→ 
+-->
