@@ -1,6 +1,6 @@
 # Diversity Access Tickets
 
-**Question: How are Diversity Access Tickets used to support diversity and inclusion for an event?**
+**Question:** How are Diversity Access Tickets used to support diversity and inclusion for an event?
 
 ## Overview
 
@@ -44,7 +44,7 @@ Diversity Access Tickets measures the effectiveness of diversity access tickets 
 *   Count use of different discount codes to track outreach effectiveness and which groups make use of the diversity access tickets. This does require a conference registration system that tracks the use of discount codes.
 *   Count how many diversity access tickets were sold or given out and compare this to how many participants with those tickets sign-in at the event.
 
-</details></span>
+</details></span><br>
 
 ## References
 
@@ -67,4 +67,4 @@ To reference this metric in software or publications please use this stable URL:
 <!-- # For groupings in the knowledge base
 Context tags: Event
 Keyword tags: students, university, free tickets, accessibility, URM, under-represented, under represented, minority, marginalized
-→
+-->
