@@ -1,6 +1,6 @@
 # Project Access
 
-Question: To what extent does your project provide access and help those with various access needs?
+**Question:** To what extent does your project provide access and help those with various access needs?
 
 ## Overview
 
@@ -32,7 +32,7 @@ There are several different ways to signal attention to this metric which may in
 *   Type of access provided (e.g., translation, meeting times, documentation, chat platform)
 *   Goal of access (e.g., international inclusion, accessibility)
 
-</details></span>
+</details></span><br>
 
 ## References
 
@@ -59,4 +59,4 @@ To reference this metric in software or publications please use this stable URL:
 <!-- # For groupings in the knowledge base
 Context tags: Project, Contributor
 Keyword tags: access, diversity, inclusion, project, community, accessibility
-→
+-->
