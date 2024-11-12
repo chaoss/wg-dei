@@ -55,7 +55,7 @@ A code of conduct in a project provides: a way to evaluate a community for diver
 
 ## Additional Information
 
-To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-dei/blob/main/focus-areas/governance/code-of-conduct.md)
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-dei/blob/main/focus-areas/governance/code-of-conduct-project.md)
 
 To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=3517>
 
