@@ -1,62 +1,62 @@
 # Project Access
 
-Question: To what extent does your project provide access and help those with various access needs?
+**Question:** To what extent does your project provide access and help those with various access needs?
 
-## Description
+## Overview
 
-The project access metric measures how accessible different parts of the project are for community members and new contributors. Some parts of the project may be more accessible than others. Barriers to access may be due to technology, project governance, lack of project resources, restrictions on internet access, or inattention to access concerns.
+Project Access: measures how accessible different parts of the project are for community members and new contributors. Data points consist of an assessment of potential barriers to access, such as technology, governance, resources, internet access, or inattention to accessibility concerns. Open source projects should be accessible to all. Community members and maintainers want their projects to be as accessible as possible for all with an interest in contributing. By documenting and cataloging measures to improve access taken by the project team, community members can be empowered to contribute to a project and take on leadership roles more easily and transparently. Considerations for access may include physical ability, neurodiversity, a contributor’s location, their native language, available internet bandwidth, or other potential barriers to participating in an open source project.
 
-## Objectives
+Depending on the size of the project, the key considerations for project accessibility, includes code and documentation access, platform compatibility, adherence to accessibility standards, global-friendly meeting formats, diverse communication methods, support for non-code contributions, global mentorship programs, regional chapters, and translation support.
 
-Access to open source projects is of utmost importance. Community members and maintainers want their projects to be as accessible as possible for all with an interest in contributing. This metric aims to help project members recognize and track the ease of access to a project over time. By documenting and cataloging measures to improve access taken by the project team, community members can be empowered to contribute to a project and take on leadership roles more easily and transparently. 
+## Want to Know More?
 
-Considerations for access may include physical ability, neurodiversity, a contributor’s location, their native language, available internet bandwidth, or other potential barriers to participating in an open source project.
+<span markdown="1"><details>
 
-## Implementation
+<summary>Click to read more about this metric.</summary>
 
-Depending on the size of the project as well as the financial constraints, access considerations may include:
+### Data Collection Strategies
 
-- Community members’ access to project code and documentation
-- Community members’ access to the platform, tools, and technology used by the project
-- Continuous attention to and implementation of published accessibility standards as listed in the Web Content Accessibility Guidelines (see References) 
-- Globally friendly meetings that are not only friendly to US and Western European community members 
-- Means of connecting to online meetings in various ways (computer, phone)
-- System by which non-code contributions are supported and recognized
-- Participation in global mentorship programs
-- Regional chapters for the project where community members can work together and contribute in ways that are meaningful in different geographic regions
-- Support for translations as needed
-
-### Filters
-- Type of access provided (e.g., translation, meeting times, documentation, chat platform)
-- Goal of access (e.g., international inclusion, accessibility)
-
-### Tools Providing the Metric
-- [The CHAOSS Project Badging program](https://github.com/badging)
-
-### Data Collection Strategies 
 There are several different ways to signal attention to this metric which may include:
 
-- Survey the community about project access. Potential survey questions for community members include:
-  - [Survey Likert Item 1-x] The code and documentation are easily available to me
-  - [Survey Likert Item 1-x] The project has a public-facing repository that is easy to contribute to
-  - [Survey Likert Item 1-x] The project has a system for periodic accessibility audits
-  - [Survey Likert Item 1-x] The project has meetings in different global locations  
-  - [Survey Likert Item 1-x] The project actively reaches out to a diverse, global population for contributions or support  
-- Perform regular accessibility audits  
-- Perform regular reviews of project  [Event Location Inclusivity](https://chaoss.community/?p=4811), [Documentation Accessibility](https://chaoss.community/?p=3535), and [Chat Platform Inclusivity](https://chaoss.community/?p=3536)
+*   Survey the community about project access. Potential survey questions for community members include:
+    *   \[Survey Likert Item 1-x] The code and documentation are easily available to me
+    *   \[Survey Likert Item 1-x] The project has a public-facing repository that is easy to contribute to
+    *   \[Survey Likert Item 1-x] The project has a system for periodic accessibility audits
+    *   \[Survey Likert Item 1-x] The project has meetings in different global locations
+    *   \[Survey Likert Item 1-x] The project actively reaches out to a diverse, global population for contributions or support
+*   Perform regular accessibility audits
+*   Perform regular reviews of project  [Event Location Inclusivity](https://chaoss.community/?p=4811), [Documentation Accessibility](https://chaoss.community/?p=3535), and [Chat Platform Inclusivity](https://chaoss.community/?p=3536)
+
+### Filters
+
+*   Type of access provided (e.g., translation, meeting times, documentation, chat platform)
+*   Goal of access (e.g., international inclusion, accessibility)
+
+</details></span><br>
 
 ## References
 
-- [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)  
-- [A11y Project](https://www.a11yproject.com/)
+*   [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
+*   [A11y Project](https://www.a11yproject.com/)
+*   [The CHAOSS Project Badging program](https://github.com/badging)
 
 ## Contributors
 
-- Matt Germonprez
-- Kevin Lumbard
-- Elizabeth Barron
-- Anita Ihuman
-- Sean Goggins 
-- Armstrong Foundjem
+*   Matt Germonprez
+*   Kevin Lumbard
+*   Elizabeth Barron
+*   Anita Ihuman
+*   Sean Goggins
+*   Armstrong Foundjem
+*   Peculiar C Umeh
 
+## Additional Information
 
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-dei/blob/main/focus-areas/project-and-community/project-access.md)
+
+To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=4953>
+
+<!-- # For groupings in the knowledge base
+Context tags: Project, Contributor
+Keyword tags: access, diversity, inclusion, project, community, accessibility
+-->
