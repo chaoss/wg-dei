@@ -72,8 +72,7 @@ Project Burnout  metric measures the condition of mental, emotional, and physica
 
 ## Additional Information
 
-To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-dei/blob/main/focus-areas/project-and-community/project-burnout.md)
-
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-dei/blob/main/focus-areas/project-and-community/project-burnout.md)<br>
 To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=3537>
 
 <!-- # For groupings in the knowledge base
