@@ -89,7 +89,7 @@ The newcomer experience can be filtered by:
 
 ## Additional Information
 
-To edit this metric, please [submit a Change Request here](https://github.com/chaoss/wg-dei/blob/main/focus-areas/project-and-community/newcomer-experience.md).<br>\
+To edit this metric, please [submit a Change Request here](https://github.com/chaoss/wg-dei/blob/main/focus-areas/project-and-community/newcomer-experience.md).<br>
 To reference this metric in software or publications, please use this stable URL: <https://chaoss.community/?p=4891>
 
 <!-- # For groupings in the knowledge base
