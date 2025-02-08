@@ -52,8 +52,8 @@ This metric measures the inclusivity of virtual event timing to accommodate atte
 
 ## Additional Information
 
-To edit this metric please submit a Change Request here: https://github.com/chaoss/wg-dei/blob/main/focus-areas/event-diversity/time-inclusion-for-virtual-events.md.<br>
-To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=3494
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-dei/blob/main/focus-areas/event-diversity/time-inclusion-for-virtual-events.md)<br>
+To reference this metric in software or publications please use this stable URL:<https://chaoss.community/?p=3494>
 
 <!-- # For groupings in the knowledge base
 Context tags: Virtual Events, Global Accessibility, Diversity & Inclusion
