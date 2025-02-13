@@ -58,8 +58,6 @@ Project demographics help indicate the potential for different viewpoints and br
 
 ## Contributors
 
-*   Elizabeth Barron
-*   Matt Germonprez
 *   Georg Link
 *   Peculiar C Umeh
 

@@ -75,17 +75,15 @@ The newcomer experience can be filtered by:
 
 ## Contributors
 
-*   Anita Ihuman
-*   Matt Germonprez
-*   Sean Goggins
-*   Ruth Ikegah
-*   Katie Schueths
-*   Amy Marrich
-*   Kristi Progri
-*   Elizabeth Barron
-*   Dawn Foster
-*   Kevin Lumbard
-*   Yigakpoa L. Samuel
+- Anita Ihuman 
+- Sean Goggins 
+- Ruth Ikegah 
+- Katie Schueths 
+- Amy Marrich 
+- Kristi Progri 
+- Dawn Foster
+- Kevin Lumbard
+- Yigakpoa L. Samuel
 
 ## Additional Information
 

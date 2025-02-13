@@ -45,9 +45,7 @@ A code of conduct in a project provides: a way to evaluate a community for diver
 
 ## Contributors
 
-*   Matt Germonprez
 *   Lauren Phipps
-*   Elizabeth Barron
 *   Amy Marrich
 *   Sean Goggins
 *   Kafayah Lawal
