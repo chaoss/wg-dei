@@ -36,8 +36,6 @@ None specified.
 
 ## Contributors
 - Justin W. Flory
-- Matt Germonprez
-- Elizabeth Barron
 - Kevin Lumbard
 - Sean Goggins
 - Yigakpoa L. Ikpae

@@ -41,7 +41,6 @@ This project is open to anyone interested in the topic of diversity, equity, and
 
 **Core Contributors**
 
-- [Matt Germonprez](https://github.com/germonprez)
 - [Matt Snell](https://github.com/Nebrethar)
 - [Kevin Lumbard](https://github.com/klumb)
 

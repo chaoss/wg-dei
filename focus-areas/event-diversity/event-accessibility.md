@@ -64,9 +64,7 @@ Event organizers should have a comprehensive list of the initiatives they’ve i
 
 ## Contributors
 
-*   Elizabeth Barron
 *   Justin W. Flory
-*   Matt Germonprez
 *   Sean Goggins
 *   Kevin Lumbard
 *   Matt Cantu Snell
