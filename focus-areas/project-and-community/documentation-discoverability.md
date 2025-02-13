@@ -48,8 +48,6 @@ Answer options:
 
 ## Contributors
 
-*   Elizabeth Barron
-*   Matt Germonprez
 *   Peculiar C Umeh
 
 ## Additional Information

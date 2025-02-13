@@ -38,12 +38,10 @@ A governing board (or council - hereafter governing board) is a group of individ
 
 ## Contributors
 
-*   Justin W. Flory
-*   Matt Germonprez
-*   Elizabeth Barron
-*   Kevin Lumbard
-*   Sean Goggins
-*   Yigakpoa L. Ikpae
+- Justin W. Flory
+- Kevin Lumbard
+- Sean Goggins
+- Yigakpoa L. Ikpae
 
 ## Additional Information
 

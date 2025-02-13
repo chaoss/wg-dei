@@ -41,8 +41,6 @@ Family Friendliness measures the availability and quality of family-friendly ame
 
 ## Contributors
 
-*   Matt Germonprez
-*   Elizabeth Barron
 *   Sean Goggins
 *   Tejas Mate
 *   Peculiar C. Umeh
