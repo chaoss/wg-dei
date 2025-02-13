@@ -60,7 +60,6 @@ None Specified
 - Armstrong Foundjem
 - Yash Prakash
 - Justin Flory
-- Matt Germonprez
 - Kevin Lumbard
 - Yigakpoa L. Samuel (I)
 

@@ -77,18 +77,16 @@ Event organizers can include a post-conference question asking attendees about e
 
 ## Contributors
 
-*   Kevin Lumbard
-*   Justin W. Flory
-*   Matt Germonprez
-*   Elizabeth Barron
-*   Matt Cantu
-*   Lauren Phipps
-*   Joshua Simmons
-*   Vinod Ahuja
-*   Georg Link
-*   Sean Goggins
-*   Sophia Vargas
-*   Chan Voong
+- Kevin Lumbard
+- Justin W. Flory
+- Matt Cantu
+- Lauren Phipps
+- Joshua Simmons
+- Vinod Ahuja
+- Georg Link
+- Sean Goggins
+- Sophia Vargas
+- Chan Voong
 
 ## Additional Information
 

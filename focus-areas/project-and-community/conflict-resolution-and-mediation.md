@@ -55,7 +55,5 @@ Example survey questions to gauge people’s satisfaction with and knowledge of 
 * Anita Ihuman
 * Dawn Foster
 * Sean Goggins
-* Matt Germonprez
-* Elizabeth Barron
 * Daniel Murphy
 * Katie Schueths
