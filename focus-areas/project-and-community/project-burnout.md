@@ -4,7 +4,13 @@
 
 ## Overview
 
-Project Burnout  metric measures the condition of mental, emotional, and physical exhaustion resulting from chronic stress. The three dimensions characterizing burnout are feelings of energy depletion or exhaustion, increased cynicism or psychological distance from one’s work and reduced professional efficacy (WHO, 2020). Project Burnout can occur: when project members become overwhelmed with the amount of work expected with project participation or as a result of any community and contributor activities, including technical work, community management, and organizational work. Project Burnout should be understood within projects and managed effectively to improve the well-being of all. This metric is intended to: develop strategies with communities to help project-related burnout, identify activities as leading indicators to identify project burnout, help people manage burnout by identifying signs before it happens and help people make decisions to maintain a healthy life in relation to project activities.
+Burnout is a condition of mental, emotional, and physical exhaustion resulting from chronic stress. The three dimensions characterising burnout are feelings of energy depletion or exhaustion, increased cynicism or psychological distance from one’s work and reduced professional efficacy (WHO, 2020). Project Burnout occurs when project members become overwhelmed with the amount of work expected with project participation. Project burnout occurs, not only with technical activities, but also activities of community management and organization.
+Project Burnout should be understood within projects and managed effectively to improve the well-being of all and this metric is intended to:
+
+*   Help develop community strategies to help project-related burnout
+*   Identify activities that might be leading indicators for project burnout
+*   Help people manage burnout and even see burnout before it happens
+*   Help ensure that people maintain a healthy life with project activities
 
 ## Want to Know More?
 
