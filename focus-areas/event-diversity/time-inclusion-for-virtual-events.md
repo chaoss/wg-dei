@@ -40,7 +40,6 @@ None Specified
 - Ruth Ikegah
 - Trisha Rajaram
 - Justin W. Flory
-- Matt Germonprez
 - Matt Cantu
 - Lauren Phipps
 - Yehui Wang
