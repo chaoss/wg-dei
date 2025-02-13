@@ -53,8 +53,6 @@ Diversity Access Tickets measures the effectiveness of diversity access tickets 
 
 ## Contributors
 
-*   Matt Germonprez
-*   Elizabeth Barron
 *   Kevin Lumbard
 *   Peculiar C. Umeh
 

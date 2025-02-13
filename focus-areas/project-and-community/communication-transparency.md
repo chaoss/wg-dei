@@ -55,9 +55,7 @@ The degree to which project communications occur and if decisions are made via t
 ## Contributors
 
 *   Kevin Lumbard
-*   Matt Germonprez
 *   Sean Goggins
-*   Elizabeth Barron
 *   Armstrong Foundjem
 *   Peculiar C Umeh
 

@@ -89,14 +89,12 @@ This metric can be filtered by type of open source leadership (e.g., influential
 
 ## Contributors
 
-*   Emma Irwin
-*   Amy Marrich
-*   Kevin Lumbard
-*   Matt Germonprez
-*   Sean Goggins
-*   Elizabeth Barron
-*   Katie Schueths
-*   Yigakpoa L. Ikpae
+- Emma Irwin
+- Amy Marrich
+- Kevin Lumbard
+- Sean Goggins
+- Katie Schueths
+- Yigakpoa L. Ikpae
 
 ## Additional Information
 

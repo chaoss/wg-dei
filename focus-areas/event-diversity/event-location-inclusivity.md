@@ -62,8 +62,6 @@ Event organizers can include a post-conference question asking attendees about e
 ## Contributors
 - Kevin Lumbard
 - Justin W. Flory
-- Matt Germonprez
-- Elizabeth Barron
 - Matt Cantu
 - Lauren Phipps
 - Joshua Simmons

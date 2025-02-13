@@ -70,13 +70,11 @@ None Provided
 
 ## Contributors
 - Anita Ihuman 
-- Matt Germonprez
 - Sean Goggins 
 - Ruth Ikegah 
 - Katie Schueths 
 - Amy Marrich 
 - Kristi Progri 
-- Elizabeth Barron
 - Dawn Foster
 - Kevin Lumbard
 - Yigakpoa L. Samuel
