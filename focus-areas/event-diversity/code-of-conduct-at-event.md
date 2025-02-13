@@ -57,18 +57,17 @@ This metric measures the visibility, accessibility, and effectiveness of a Code 
 
 ## Contributors
 
-*   Dawn Foster
-*   Poornima Haridas
-*   Daniel Izquierdo Cortazar
-*   Georg Link
-*   Martin Coulombe
-*   Yehui Wang
-*   Armstrong Foundjem
-*   Yash Prakash
-*   Justin Flory
-*   Matt Germonprez
-*   Kevin Lumbard
-*   Yigakpoa L. Samuel (I)
+- Dawn Foster
+- Poornima Haridas
+- Daniel Izquierdo Cortazar
+- Georg Link
+- Martin Coulombe
+- Yehui Wang
+- Armstrong Foundjem
+- Yash Prakash
+- Justin Flory
+- Kevin Lumbard
+- Yigakpoa L. Samuel (I)
 
 ## Additional Information
 

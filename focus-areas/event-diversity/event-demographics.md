@@ -42,9 +42,7 @@ Note that demographic information is sensitive information and if you are using 
 
 ## Contributors
 
-*   Matt Germonprez
 *   Justin W. Flory
-*   Elizabeth Barron
 *   Matt Cantu
 *   Georg Link
 *   Nikki Stevens
