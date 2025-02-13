@@ -48,8 +48,6 @@ Here are ways to look at data for public health policies :
 ## Contributors
 
 *   Joshua Simmons
-*   Elizabeth Barron
-*   Matt Germonprez
 *   Georg Link
 *   Peculiar C Umeh
 

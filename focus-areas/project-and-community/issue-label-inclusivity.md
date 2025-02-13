@@ -1,6 +1,6 @@
 # Issue Label Inclusivity
 
-**Question: How well are project issues labelled to invite new contributors, skilled contributors, non-code contributors, and other types of contributors?**
+**Question:** How well are project issues labelled to invite new contributors, skilled contributors, non-code contributors, and other types of contributors?
 
 ## Overview
 
@@ -31,14 +31,6 @@ None Identified
 *   Date an issue was opened
 *   Code-related issues vs. documentation-related issues
 
-### Visualization
-
-![grimoire lab example #1](https://raw.githubusercontent.com/chaoss/wg-dei/main/focus-areas/project-and-community/images/issue-label-inclusivity_grimoire-lab-viz-example1.png)
-
-![grimoire lab example #2](https://raw.githubusercontent.com/chaoss/wg-dei/main/focus-areas/project-and-community/images/issue-label-inclusivity_grimoire-lab-viz-example2.png)
-
-![example labels from kubernetes project](https://raw.githubusercontent.com/chaoss/wg-dei/main/focus-areas/project-and-community/images/issue-label-inclusivity_kubernetes-labels-example.png)
-
 </details></span>
 
 ## References
@@ -47,18 +39,15 @@ None Identified
 
 ## Contributors
 
-*   Elizabeth Barron
 *   Georg Link
-*   Matt Germonprez
 *   Peculiar C Umeh
 
 ## Additional Information
 
-To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/issue-label-inclusivity.md)
-
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/issue-label-inclusivity.md)<br>
 To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=3533>
 
 <!-- # For groupings in the knowledge base
 Context tags: Platform
 Keyword tags: label, inclusivity, first contribution, task assignment
-→ 
+-->

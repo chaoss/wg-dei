@@ -104,21 +104,19 @@ Additional questions:
 
 ## Contributors
 
-*   Elizabeth Barron
-*   Matt Germonprez
-*   Kevin Lumbard
-*   Lauren Phipps
-*   Dawn Foster
-*   Matt Cantu
-*   Lucas Gonze
-*   Justin W. Flory
-*   Emily Brown
-*   Amy Marrich
-*   Trisha Rajaram
-*   Ruth Ikegah
-*   Sean Goggins
-*   Georg Link
-*   Yigakpoa L. Samuel
+* Kevin Lumbard
+* Lauren Phipps
+* Dawn Foster
+* Matt Cantu
+* Lucas Gonze
+* Justin W. Flory
+* Emily Brown
+* Amy Marrich
+* Trisha Rajaram
+* Ruth Ikegah
+* Sean Goggins
+* Georg Link
+* Yigakpoa L. Samuel
 
 ## Additional Information
 
