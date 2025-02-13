@@ -47,9 +47,7 @@ None Identified
 
 ## Contributors
 
-*   Elizabeth Barron
 *   Georg Link
-*   Matt Germonprez
 *   Peculiar C Umeh
 
 ## Additional Information
