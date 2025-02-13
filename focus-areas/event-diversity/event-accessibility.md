@@ -62,9 +62,7 @@ None specified.
 - [How to Use Color-Blind Friendly Pallettes](https://venngage.com/blog/color-blind-friendly-palette/)
 
 ## Contributors
-- Elizabeth Barron
 - Justin W. Flory
-- Matt Germonprez
 - Sean Goggins
 - Kevin Lumbard
 - Matt Cantu Snell
