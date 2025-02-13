@@ -65,9 +65,7 @@ Project Burnout  metric measures the condition of mental, emotional, and physica
 
 ## Contributors
 
-*   Elizabeth Barron
 *   Georg Link
-*   Matt Germonprez
 *   Peculiar C Umeh
 
 ## Additional Information
