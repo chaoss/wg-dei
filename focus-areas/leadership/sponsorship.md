@@ -45,9 +45,7 @@ Sponsorship ensures newer or less active members gain visibility and opportuniti
 
 ## Contributors
 
-*   Elizabeth Barron
 *   Georg Link
-*   Matt Germonprez
 *   Sean Goggins
 *   Peculiar C Umeh
 

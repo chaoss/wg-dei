@@ -89,9 +89,7 @@ None specified.
 - Emma Irwin
 - Amy Marrich
 - Kevin Lumbard
-- Matt Germonprez
 - Sean Goggins
-- Elizabeth Barron
 - Katie Schueths
 - Yigakpoa L. Ikpae
 

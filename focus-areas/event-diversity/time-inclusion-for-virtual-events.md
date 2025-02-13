@@ -39,16 +39,15 @@ This metric measures the inclusivity of virtual event timing to accommodate atte
 
 ## Contributors
 
-*   Ruth Ikegah
-*   Trisha Rajaram
-*   Justin W. Flory
-*   Matt Germonprez
-*   Matt Cantu
-*   Lauren Phipps
-*   Yehui Wang
-*   Tejas Mate
-*   Kevin Lumbard
-*   Yigakpoa L. Ikpae
+- Ruth Ikegah
+- Trisha Rajaram
+- Justin W. Flory
+- Matt Cantu
+- Lauren Phipps
+- Yehui Wang
+- Tejas Mate
+- Kevin Lumbard
+- Yigakpoa L. Ikpae 
 
 ## Additional Information
 

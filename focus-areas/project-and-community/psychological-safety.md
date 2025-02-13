@@ -101,8 +101,6 @@ None Provided
 
 ## Contributors
 
-* Elizabeth Barron
-* Matt Germonprez
 * Kevin Lumbard
 * Lauren Phipps
 * Dawn Foster
