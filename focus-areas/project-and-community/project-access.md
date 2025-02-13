@@ -42,9 +42,7 @@ There are several different ways to signal attention to this metric which may in
 
 ## Contributors
 
-*   Matt Germonprez
 *   Kevin Lumbard
-*   Elizabeth Barron
 *   Anita Ihuman
 *   Sean Goggins
 *   Armstrong Foundjem

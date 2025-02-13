@@ -49,14 +49,11 @@ Example survey questions to gauge people’s satisfaction with and knowledge of 
 
 ## Known Contributors
 
-*   Anita Ihuman
-*   Dawn Foster
-*   Sean Goggins
-*   Matt Germonprez
-*   Elizabeth Barron
-*   Daniel Murphy
-*   Katie Schueths
-*   Peculiar C Umeh
+* Anita Ihuman
+* Dawn Foster
+* Sean Goggins
+* Daniel Murphy
+* Katie Schueths
 
 ## Additional Information
 
@@ -67,3 +64,4 @@ To reference this metric in software or publications please use this stable URL:
 Context tags: Project, Governance and Leadership
 Keyword tags: conflict, communication, mediation
 -->
+
