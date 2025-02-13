@@ -4,8 +4,9 @@
 
 ## Overview
 
-Communication transparency measures the degree to which project communication channels are available for all community members, if project transparency is aligned with project governance, and if project communication is visible and archived. Open source projects utilize various forms of communication; for example, communication may occur at in-person events or may occur using online messaging technologies. While different project parts may have different transparency needs (e.g., high-level leadership meetings and code of conduct issues may require less transparency), communication transparency and the policies around using appropriate channels for specific topics should be signaled to the community. pen source projects require various degrees of transparency for collaboration to occur. Clear signals of communication transparency help community members understand where their engagement and contributions are best suited within a community.
-The degree to which project communications occur and if decisions are made via transparent communication can indicate how inclusive a project is. Improving communication transparency also helps new contributors, occasional contributors, and community members know where their contributions have an immediate impact and provide clearer paths to leadership within a community. Transparency in discussions and decision-making is important so that community members understand how decisions came to be. For example, the number of communication channels may affect transparency because specific discussion topics may be difficult to find across different channels. Including community members in discussions and decision-making builds strong communities, gives voice to all types of contributors, and provides a potential path to leadership for community members.
+Communication transparency measures the degree to which project communication channels are available for all community members, if project transparency is aligned with project governance, visible or archived. Open source projects utilize various forms of communication; for example, communication may occur at in-person events or online messaging technologies. While different project parts may have different transparency needs (e.g., high-level leadership meetings or code of conduct issues may require less transparency), communication transparency and the policies around using appropriate channels for specific topics should be signaled to the community. Clear signals of communication transparency help community members understand where their engagement and contributions are best suited within a community.
+
+Improving communication transparency also helps new contributors, occasional contributors, and community members know where their contributions have an immediate impact and provide clearer paths to leadership within a community. Transparency in discussions and decision-making is important so that community members understand how decisions came to be. For example, the number of communication channels may affect transparency because specific discussion topics may be difficult to find across different channels. Including community members in discussions and decision-making builds strong communities, gives voice to all types of contributors, and provides a potential path to leadership for community members.
 
 ## Want to Know More?
 
@@ -61,8 +62,7 @@ The degree to which project communications occur and if decisions are made via t
 
 ## Additional Information
 
-To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-dei/blob/main/focus-areas/project-and-community/communication-transparency.md)
-
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-dei/blob/main/focus-areas/project-and-community/communication-transparency.md).<br>
 To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=4957>
 
 <!-- # For groupings in the knowledge base
